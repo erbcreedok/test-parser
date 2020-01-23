@@ -1,0 +1,266 @@
+[
+	{
+		"number": 1,
+		"question": "1. Which of those immunoglobulin classes is mainly found in external secretions?",
+		"options": [
+			"A.\n                 Ig A",
+			"B.\n                 Ig D",
+			"C.\n                 Ig M",
+			"D.\n                 IgE"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 2,
+		"question": "2. Cleavage of an IgG molecule by a specific protease can produce",
+		"options": [
+			"A.\n                 an antigen-binding site and two constant regions",
+			"B.\n                 two heavy chain-light chain dimers",
+			"C.\n                 an inactive mixture of oligopeptides",
+			"D.\n                 two Fab fragments and one Fc fragment"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 3,
+		"question": "3. Papain digest IgG into",
+		"options": [
+			"A.\n                 two Fab fragments and one Fc fragment",
+			"B.\n                 three Fab fragments and two Fc fragments",
+			"C.\n                 two Fab fragments and two Fc fragments",
+			"D.\n                 three Fab fragments and three Fc fragments"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 4,
+		"question": "4. Antibodies can be used",
+		"options": [
+			"A.\n                 for the localization of proteins in the cell",
+			"B.\n                 for protein purification",
+			"C.\n                 to catalyze chemical reactions",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 5,
+		"question": "5. Type A blood",
+		"options": [
+			"A.\n                 can be used to donate to type AB individuals",
+			"B.\n                 can be used to donate to type B individuals",
+			"C.\n                 contains type B antigens on the surface of red blood cells",
+			"D.\n                 can always be used to donate to an Rh+ individual"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. Which of the following are responsible for immune specificity?",
+		"options": [
+			"A.\n                 Antigens",
+			"B.\n                 Antibodies",
+			"C.\n                 T lymphocytes",
+			"D.\n                 Macrophage"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 7,
+		"question": "7. Which species lack immunoglobulin light chains?",
+		"options": [
+			"A.\n                 Camels",
+			"B.\n                 Humans",
+			"C.\n                 cows",
+			"D.\n                 Buffalo"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 8,
+		"question": "8. Monoclonal refers to",
+		"options": [
+			"A.\n                 a single clone of antibody-producing cells",
+			"B.\n                 all the antibody molecules which are identical",
+			"C.\n                 the binding with same antigenic site with identical binding affinities",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 9,
+		"question": "9. β-Lymphocytes are often called simply",
+		"options": [
+			"A.\n                 B cells",
+			"B.\n                 T cells",
+			"C.\n                 T Lymphocytes",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 10,
+		"question": "10. IgE provides",
+		"options": [
+			"A.\n                 immunity against some parasites",
+			"B.\n                 complement killings of the cells and phagocytosis",
+			"C.\n                 secretions in the body",
+			"D.\n                 all of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 11,
+		"question": "11. Fab fragment has",
+		"options": [
+			"A.\n                 one antigen binding site",
+			"B.\n                 two antigen binding site",
+			"C.\n                 one antibody binding site",
+			"D.\n                 two antibody binding site"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 12,
+		"question": "12. The main function of antibodies is to",
+		"options": [
+			"A.\n                 kill all the foreign bodies",
+			"B.\n                 generate antigens, thus conferring immunization",
+			"C.\n                 protect the circulatory system",
+			"D.\n                 chemically combine with the antigen which induces it, inactivate the antigen and protect the body from disease"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 13,
+		"question": "13. Alum is an effective adjuvant because it",
+		"options": [
+			"A.\n                 disaggregates the antigen.",
+			"B.\n                 is immunogenic for stem cells",
+			"C.\n                 is immunogenic for T cells",
+			"D.\n                 slows the release of antigen"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 14,
+		"question": "14. A secondary antibody is an antibody that",
+		"options": [
+			"A.\n                 has been used in prior experiments",
+			"B.\n                 is synthetically produced",
+			"C.\n                 binds to another antibody",
+			"D.\n                 is produced in boostered animals"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 15,
+		"question": "15. The immunoglobulin fold is",
+		"options": [
+			"A.\n                 found only in IgG molecules",
+			"B.\n                 a β-barrel composed of a three- and a four-stranded antiparallel β-sheet",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 found six times in the IgG molecule"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 16,
+		"question": "16. Antibodies of the IgG class",
+		"options": [
+			"A.\n                 consist of four subunits",
+			"B.\n                 are glycoproteins",
+			"C.\n                 are secreted into the bloodstream",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 17,
+		"question": "17. Each IgA antibody molecule consists of",
+		"options": [
+			"A.\n                 four polypeptide chain and has two antigen binding site",
+			"B.\n                 two polypeptide chain and has one antigen binding site",
+			"C.\n                 three polypeptide chain and has two antigen binding site",
+			"D.\n                 two polypeptide chain and has two antigen binding site"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 18,
+		"question": "18. Antibodies in the human immune system can identify approximately 108 different molecules Which one of the following is correct?",
+		"options": [
+			"A.\n                 This diversity is generated from 108 different immunoglobin genes",
+			"B.\n                 Many of these molecules are self-antigens",
+			"C.\n                 Most of these antibodies recognize proteins",
+			"D.\n                 Most of these antibodies recognize small organic molecules"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 19,
+		"question": "19. Monoclonal antibodies were first produced by",
+		"options": [
+			"A.\n                 Georges Kohler and Cesar Milstein",
+			"B.\n                 Sarkar and Sommer",
+			"C.\n                 Selman Waksman",
+			"D.\n                 Edward Jenner and Louis Pasteur"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 20,
+		"question": "20. A polyclonal antibody response",
+		"options": [
+			"A.\n                 is produced only in response to polymeric antigens",
+			"B.\n                 is produced by several B cells recognizing different  pitopes on the same antigen",
+			"C.\n                 occurs during the lag phase of the immune response",
+			"D.\n                 violates clonal selection"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 21,
+		"question": "21. Structures of anti-PCP antibody shows that the tight binding of PCP to the antibody is primarily due to",
+		"options": [
+			"A.\n                 hydrophobic forces",
+			"B.\n                 electrostatic forces.",
+			"C.\n                 Van der Waals forces.",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 22,
+		"question": "22. Antigenic determinants bind to which portions of an antibody?",
+		"options": [
+			"A.\n                 Variable regions",
+			"B.\n                 Constant regions",
+			"C.\n                 Only light chains",
+			"D.\n                 Only heavy chains"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 23,
+		"question": "23. The humoral immune response relies on the production of soluble proteins called",
+		"options": [
+			"A.\n                 antibodies",
+			"B.\n                 macromolecules",
+			"C.\n                 lymphocytes",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 24,
+		"question": "24. The human IgG class of antibodies is divided into",
+		"options": [
+			"A.\n                 five IgG classes",
+			"B.\n                 two IgG classes",
+			"C.\n                 three IgG classes",
+			"D.\n                 four IgG classes"
+		],
+		"answer": "D"
+	}
+]

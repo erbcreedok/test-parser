@@ -1,0 +1,68 @@
+[
+	{
+		"number": 1,
+		"question": "1. Thin layer chromatography is",
+		"options": [
+			"A.\n                 partition chromatography",
+			"B.\n                 electrical mobility of ionic species",
+			"C.\n                 adsorption chromatography",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 2,
+		"question": "2. In gas chromatography, the basis for separation of the components of the volatile material is the difference in",
+		"options": [
+			"A.\n                 partition coefficients",
+			"B.\n                 conductivity",
+			"C.\n                 molecular weight",
+			"D.\n                 molarity"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 3,
+		"question": "3. In reverse phase chromatography, the stationary phase is made",
+		"options": [
+			"A.\n                 non-polar",
+			"B.\n                 polar",
+			"C.\n                 either non-polar or polar",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 4,
+		"question": "4. Ion exchange chromatography is based on the",
+		"options": [
+			"A.\n                 electrostatic attraction",
+			"B.\n                 electrical mobility of ionic species",
+			"C.\n                 adsorption chromatography",
+			"D.\n                 partition chromatography"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 5,
+		"question": "5. The general expression for the appearance of a solute in an effluent is (where V is the elution volume of a substance , V0 void volume, kD distribution constant and Vi internal water volume)",
+		"options": [
+			"A.\n                 V = V0 + kDVi",
+			"B.\n                 V = V0/Vi",
+			"C.\n                 V = V0 - kDVi",
+			"D.\n                 V/V0 = kDVi"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. A combination of paper chromatography and electrophoresis involves",
+		"options": [
+			"A.\n                 partition chromatography",
+			"B.\n                 electrical mobility of the ionic species",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 none of these"
+		],
+		"answer": "C"
+	}
+]

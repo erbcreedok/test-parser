@@ -1,0 +1,244 @@
+[
+	{
+		"number": 1,
+		"question": "1. Cholesterol is somewhat amphipathic due to",
+		"options": [
+			"A.\n                 the single hydroxyl along with the hydrocarbon nature of the remainder of the molecule",
+			"B.\n                 the long branched hydrocarbon along with the four hydrocarbon rings",
+			"C.\n                 the five-methyl groups along with the hydrocarbon chain",
+			"D.\n                 the three six-membered rings along with the single five-membered ring"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 2,
+		"question": "2. Bacteriorhodopsin",
+		"options": [
+			"A.\n                 absorbs light and pumps protons",
+			"B.\n                 is an integral membrane protein",
+			"C.\n                 contains primarily alpha-helical residues",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 3,
+		"question": "3. In active transport, the membrane structure that functions is",
+		"options": [
+			"A.\n                 cholesterol",
+			"B.\n                 integral proteins",
+			"C.\n                 carbohydrates",
+			"D.\n                 hydrophobic molecules"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 4,
+		"question": "4. Cholesterol is essential for normal membrane functions because it",
+		"options": [
+			"A.\n                 plugs up the cardiac arteries of older men",
+			"B.\n                 cannot be made by higher organisms",
+			"C.\n                 keeps membranes fluid.",
+			"D.\n                 spans the thickness of the bilayer"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 5,
+		"question": "5. The model that is now known to be correct for the structure of biological membrane is",
+		"options": [
+			"A.\n                 Fluid mosaic model",
+			"B.\n                 Page's model",
+			"C.\n                 Lac Operon model",
+			"D.\n                 Lock and Key model"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. In Fluid mosaic model, the biological membrane can be viewed as",
+		"options": [
+			"A.\n                 two dimensional solutions of oriented lipids and globular proteins",
+			"B.\n                 three dimensional solutions of oriented lipids and globular proteins",
+			"C.\n                 two dimensional solutions of oriented lipids and carbohydrate",
+			"D.\n                 three dimensional solutions of oriented lipids and carbohydrate"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. Membrane lipids are",
+		"options": [
+			"A.\n                 hydrophilic",
+			"B.\n                 hydrophobic",
+			"C.\n                 ampiphillic",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 8,
+		"question": "8. Pinocytosis occurs in",
+		"options": [
+			"A.\n                 all eukaryotic cells",
+			"B.\n                 all prokaryotic cells",
+			"C.\n                 mitochondria of all cells",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 9,
+		"question": "9. Exocytosis is the secretion of proteins",
+		"options": [
+			"A.\n                 out of the cell across the plasma membrane into the extracellular space",
+			"B.\n                 out of the cell across the plasma membrane into the intracellular space",
+			"C.\n                 is the uptake of macromolecules from the extracellular space into the cell across the plasma membrane",
+			"D.\n                 is the uptake of macromolecules from the intracellular space into the cell across the plasma membrane"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 10,
+		"question": "10. The membrane proteins that catalyze active transport reactions differ from soluble enzymes as",
+		"options": [
+			"A.\n                 they are permanently changed during the reaction",
+			"B.\n                 the substrates of the reaction are all outside the cell",
+			"C.\n                 they do not enhance the rates of reaction",
+			"D.\n                 the products of the reaction move in a specific direction"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 11,
+		"question": "11. The movement of molecules across a membrane by passive transport does not require",
+		"options": [
+			"A.\n                 an input of metabolic energy",
+			"B.\n                 internal energy",
+			"C.\n                 vibrational energy",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 12,
+		"question": "12. Peptidoglycan is a complex consisting of",
+		"options": [
+			"A.\n                 oligo-saccharide and protein",
+			"B.\n                 polysaccharide and protein",
+			"C.\n                 mono-saccharide and protein",
+			"D.\n                 aminoacid and carbohydrate"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 13,
+		"question": "13. The mesosomes may be the sites of",
+		"options": [
+			"A.\n                 DNA replication and specialized enzymatic reactions",
+			"B.\n                 RNA replications and specialized enzymatic reactions",
+			"C.\n                 RNA replications and specialized cyclic reactions",
+			"D.\n                 None of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 14,
+		"question": "14. Which of the following is correct?",
+		"options": [
+			"A.\n                 Peroxisomes have a single boundary membrane",
+			"B.\n                 Peroxisomes contain enzymes that degrade fatty acids and amino acids",
+			"C.\n                 The byproduct of given reactions in (b) is toxic to cells",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 15,
+		"question": "15. The smooth endoplasmic reticulum (SER) is the site of",
+		"options": [
+			"A.\n                 phospholipid synthesis",
+			"B.\n                 amino acid synthesis",
+			"C.\n                 carbohydrate synthesis",
+			"D.\n                 protein synthesis"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 16,
+		"question": "16. Lysozymes are found in",
+		"options": [
+			"A.\n                 plant cells",
+			"B.\n                 animal cells",
+			"C.\n                 microbial cells",
+			"D.\n                 all of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 17,
+		"question": "17. Biological membranes are like water beds because",
+		"options": [
+			"A.\n                 they are always moving",
+			"B.\n                 they (normally) do not leak their contents",
+			"C.\n                 the membrane is thin compared to the enclosed volume",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 18,
+		"question": "18. The plasma membrane is a selectively permeable barrier due to presence of specific transport",
+		"options": [
+			"A.\n                 proteins",
+			"B.\n                 amino acids",
+			"C.\n                 carbohydrates",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 19,
+		"question": "19. Which type of molecule spans the membrane, from its inner to outer surface according to the Fluid mosaic model of cell membranes?",
+		"options": [
+			"A.\n                 Cholesterol",
+			"B.\n                 Phospholipid",
+			"C.\n                 Protein",
+			"D.\n                 Carbohydrate"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 20,
+		"question": "20. Which of the following is correct?",
+		"options": [
+			"A.\n                 Membranes form boundaries around the cell and distinct subcellular components",
+			"B.\n                 Membranes act as selectively permeable barrier",
+			"C.\n                 Membranes contain varying amount of lipid and protein and some contain small amount of carbohydrates",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 21,
+		"question": "21. In membranes, lipids are",
+		"options": [
+			"A.\n                 glycerophospholipids",
+			"B.\n                 sphingolipids",
+			"C.\n                 sterols",
+			"D.\n                 all of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 22,
+		"question": "22. Which of the following is not found in membranes?",
+		"options": [
+			"A.\n                 Glycoproteins",
+			"B.\n                 Glycolipids",
+			"C.\n                 Nucleic acids",
+			"D.\n                 Phospholipids"
+		],
+		"answer": "C"
+	}
+]

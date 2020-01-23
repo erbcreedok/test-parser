@@ -1,0 +1,211 @@
+[
+	{
+		"number": 1,
+		"question": "1. The HIV virus infects primarily",
+		"options": [
+			"A.\n                 brain cells",
+			"B.\n                 cells in the immune system",
+			"C.\n                 red blood cells",
+			"D.\n                 liver cells"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 2,
+		"question": "2. Chronic granulomatous disease results from a failure to perform oxidative burst. This deficiency would be most likely to interfere with",
+		"options": [
+			"A.\n                 CTL killing of viruses",
+			"B.\n                 dendritic cell activation to become a mature APC",
+			"C.\n                 infected cell processing of virus peptides",
+			"D.\n                 macrophage intracellular killing of bacteria"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 3,
+		"question": "3. Difficulties with somatic gene therapy arise from all of the following except",
+		"options": [
+			"A.\n                 GVHD caused by mature T cells in the transplanted cells",
+			"B.\n                 inserting a gene so that it will function properly",
+			"C.\n                 limited life span of more mature hematopoietic cells",
+			"D.\n                 transducing genetic material into stem cells"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 4,
+		"question": "4. A monoclonal antibody (mAb) specific for the 2,4-dinitrophenyl (DNP) hapten might also bind",
+		"options": [
+			"A.\n                 Leu or Ileu",
+			"B.\n                 His or Pro",
+			"C.\n                 Tyr or Phe",
+			"D.\n                 Ser or Thr"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 5,
+		"question": "5. Retinoblastoma is due to a mutation in a",
+		"options": [
+			"A.\n                 kinase",
+			"B.\n                 tumor supressor",
+			"C.\n                 cyclin",
+			"D.\n                 viral gene"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 6,
+		"question": "6. An autoimmune disease is",
+		"options": [
+			"A.\n                 AIDS",
+			"B.\n                 Measles",
+			"C.\n                 Lupus",
+			"D.\n                 Mumps"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 7,
+		"question": "7. If Class IIMHC is not expressed in the thymus, the resulting immune deficiencies would include all of the following except reduced",
+		"options": [
+			"A.\n                 alternative complement activation.",
+			"B.\n                 CD8 T cell-mediated cytotoxicity",
+			"C.\n                 macrophage activation to vesicular pathogens",
+			"D.\n                 IgG synthesis"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 8,
+		"question": "8. Specific translocations are associated with",
+		"options": [
+			"A.\n                 colon cancer",
+			"B.\n                 breast cancer",
+			"C.\n                 pancreatic cancer",
+			"D.\n                 some leukemias"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 9,
+		"question": "9. To treat HIV infections using drugs, the major problem is that",
+		"options": [
+			"A.\n                 the drugs that are good inhibitors cannot by synthesized",
+			"B.\n                 the drugs interfere with normal digestion",
+			"C.\n                 the virus particles with altered (mutant) proteases arise",
+			"D.\n                 the drugs are rapidly degraded"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 10,
+		"question": "10. The primary reason for AIDS, a deadly disease is that it",
+		"options": [
+			"A.\n                 is caused by a virus",
+			"B.\n                 is caused by a bacterium",
+			"C.\n                 destroys key components of the body's internal defense system",
+			"D.\n                 causes a breakdown of the body's inflammatory response"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 11,
+		"question": "11. A selective IgA deficiency would be expected to result in problems with",
+		"options": [
+			"A.\n                 bacterial infections",
+			"B.\n                 infections following dental work due to bacteria entering the bloodstream",
+			"C.\n                 mucosal pathogens",
+			"D.\n                 pathogens which can survive inside macrophages"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 12,
+		"question": "12. Combined cellular and humoral immune deficiencies result from lack of all of the following except",
+		"options": [
+			"A.\n                 a thymus",
+			"B.\n                 class II MHC",
+			"C.\n                 HIV infection of CD4+ T cells",
+			"D.\n                 transporter of antigen peptides (TAP)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 13,
+		"question": "13. An example of an immunodeficiency disorder is",
+		"options": [
+			"A.\n                 thyroiditis",
+			"B.\n                 rheumatic fever",
+			"C.\n                 systemic lupus erythematosus",
+			"D.\n                 AIDS"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 14,
+		"question": "14. Bone marrow given to an infant with SCID must",
+		"options": [
+			"A.\n                 be irradiated to eliminate GVHD",
+			"B.\n                 contain mature T cells that can begin making immune responses immediately",
+			"C.\n                 come from a donor that shares some MHC alleles with the recipient",
+			"D.\n                 come from one of the child's parents"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 15,
+		"question": "15. X-linked hyper IgM syndrome, resulting in high levels of serum IgM and low levels of serum IgG, is caused by a defect in CD40L expression. The specific immune event that would be prevented by a defective CD40L would be",
+		"options": [
+			"A.\n                 activation of B cells by T-independent antigens",
+			"B.\n                 failure of B cells to provide co-stimulation for Th2 activation",
+			"C.\n                 failure of Th2 cells to provide co-stimulation for B cell isotype switching",
+			"D.\n                 failure of Th2 cells to provide co-stimulation for B cell proliferation"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 16,
+		"question": "16. DiGeorge's syndrome is characterized by the lack of a thymus The mouse model closest to this human disease would be a",
+		"options": [
+			"A.\n                 knock-out mouse for RAG-1 and RAG-2",
+			"B.\n                 knock-out mouse for a thymus",
+			"C.\n                 nude mouse",
+			"D.\n                 recombinant mouse for CD3"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 17,
+		"question": "17. Which of the Rous sarcoma virus has a homologous cellular protein?",
+		"options": [
+			"A.\n                 c-src",
+			"B.\n                 v-src",
+			"C.\n                 v-ha-src",
+			"D.\n                 v-ha-ras"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 18,
+		"question": "18. Infants are most susceptible to bacterial infection due to low circulating levels of IgG",
+		"options": [
+			"A.\n                 in utero (before birth)",
+			"B.\n                 at 0-3 months of age",
+			"C.\n                 at 3-12 months of age",
+			"D.\n                 at 12-24 months of age"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 19,
+		"question": "19. The chemical, typically released by the body in an allergic response is",
+		"options": [
+			"A.\n                 histamine",
+			"B.\n                 allergens",
+			"C.\n                 antihistamines",
+			"D.\n                 perforins"
+		],
+		"answer": "A"
+	}
+]

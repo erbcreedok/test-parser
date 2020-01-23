@@ -1,0 +1,343 @@
+[
+	{
+		"number": 1,
+		"question": "1. The complex of RNA polymerase, DNA template and new RNA transcript is called",
+		"options": [
+			"A.\n                 transcription bubble",
+			"B.\n                 replication bubble",
+			"C.\n                 a translation bubble",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 2,
+		"question": "2. RNA polymerase in prokaryotes has a removable",
+		"options": [
+			"A.\n                 alpha subunit",
+			"B.\n                 beta subunit",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 sigma subunit"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 3,
+		"question": "3. Promoters for tRNAs are located",
+		"options": [
+			"A.\n                 upstream from the start codon",
+			"B.\n                 downstream from the start codon",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 none of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 4,
+		"question": "4. The binding of lac repressor to DNA could be considered to be analogous to",
+		"options": [
+			"A.\n                 competitive inhibition of an enzyme",
+			"B.\n                 mixed-type inhibition of an enzyme",
+			"C.\n                 uncompetitive inhibition of an enzyme",
+			"D.\n                 allosteric effects in enzyme regulation"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 5,
+		"question": "5. Rho-dependent termination of transcription in E. coli",
+		"options": [
+			"A.\n                 requires ATP",
+			"B.\n                 requires about 50 nucleotides of uncomplexed mRNA",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 removes mRNA and holoenzyme from the DNA"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 6,
+		"question": "6. Enhancers are regions that",
+		"options": [
+			"A.\n                 bind RNA polymerase",
+			"B.\n                 are adjacent to the TATA box",
+			"C.\n                 are CAT box binding proteins",
+			"D.\n                 modulate transcription"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 7,
+		"question": "7. Transcription by E. coli polymerase occurs in",
+		"options": [
+			"A.\n                 four phases known as initiation, propagation, elongation and termination",
+			"B.\n                 three phases known as initiation, elongation and termination",
+			"C.\n                 two phases known as initiation and termination",
+			"D.\n                 none of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 8,
+		"question": "8. Which of the following is necessary for transcription to occur?",
+		"options": [
+			"A.\n                 DNA molecule",
+			"B.\n                 RNA polymerase",
+			"C.\n                 DNA polymerase",
+			"D.\n                 Both DNA & RNA polymerase"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 9,
+		"question": "9. Multiple copies of 5S genes, located at a chromosomal site distinct from the other rRNA genes",
+		"options": [
+			"A.\n                 are transcribed by rRNA polymerase III and the 5S rRNA",
+			"B.\n                 are transcribed by rRNA polymerase II",
+			"C.\n                 are transcribed by rRNA polymerase I and the 5S rRNA",
+			"D.\n                 are transcribed by DNA polymerase I"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 10,
+		"question": "10. Each tRNA molecule has a cloverleaf secondary structure consisting of",
+		"options": [
+			"A.\n                 three stem loops",
+			"B.\n                 two stem loops",
+			"C.\n                 four stem loops",
+			"D.\n                 either (a) or (b)"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 11,
+		"question": "11. What is a promoter?",
+		"options": [
+			"A.\n                 A specific sequence of DNA to which a catabolic repressor binds",
+			"B.\n                 A specific sequence of DNA to which RNA polymerase binds",
+			"C.\n                 A specific DNA sequence to which a restriction endonuclease binds",
+			"D.\n                 None of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 12,
+		"question": "12. The function of the sigma factor of RNA polymerase is to",
+		"options": [
+			"A.\n                 assure that transcription begins at the proper point",
+			"B.\n                 assure that transcription ends at the proper point",
+			"C.\n                 assure that translation begins at the proper point",
+			"D.\n                 assure that translation ends at the proper point"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 13,
+		"question": "13. In both eukaryotes and prokaryotes, a promoter region that is rich in AT bases is called as",
+		"options": [
+			"A.\n                 CATT",
+			"B.\n                 Shine Dalgarno region",
+			"C.\n                 TATA box",
+			"D.\n                 SV40 region"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 14,
+		"question": "14. The RNA polymerases that transcribe bacterial DNA are",
+		"options": [
+			"A.\n                 multisubunit enzymes",
+			"B.\n                 only active inside the cell",
+			"C.\n                 interchangable with DNA polymerases",
+			"D.\n                 highly glycosylated in their active forms"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 15,
+		"question": "15. Immediately after transcription",
+		"options": [
+			"A.\n                 a methylated guanine cap is added to the 51 end of the transcript",
+			"B.\n                 a methylated guanine cap is added to the 31 end of the transcript",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 a poly adenylation signal is added"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 16,
+		"question": "16. Transcription factors are",
+		"options": [
+			"A.\n                 promoters",
+			"B.\n                 proteins which bind to DNA and regulate transcription",
+			"C.\n                 TATA boxes",
+			"D.\n                 CATT boxes"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 17,
+		"question": "17. The major function of RNA polymerase's sigma factor is",
+		"options": [
+			"A.\n                 recognition of the translational stop sequence",
+			"B.\n                 recognition of the transcriptional start sequence",
+			"C.\n                 recognition of the transcriptional stop sequence",
+			"D.\n                 recognition of the translational start sequence"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 18,
+		"question": "18. Most transcripts of protein coding genes are cleaved",
+		"options": [
+			"A.\n                 at the 3' end just after a poly adenylation signal",
+			"B.\n                 at the 3' end just before a poly adenylation signal",
+			"C.\n                 at the 5' end immediately after a poly adenylation signal",
+			"D.\n                 at the 5' end immediately before a poly adenylation signal"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 19,
+		"question": "19. RNA is synthesized on a DNA template in a process called __________ , which utilizes the enzyme __________",
+		"options": [
+			"A.\n                 translation, RNA polymerase",
+			"B.\n                 transcription, DNA polymerase",
+			"C.\n                 transcription, RNA polymerase",
+			"D.\n                 replication, DNA polymerase"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 20,
+		"question": "20. The closed complex at bacterial promoters is",
+		"options": [
+			"A.\n                 in equilibrium with free RNA polymerase and the promoter",
+			"B.\n                 not affected by promoter mutations",
+			"C.\n                 bound more tightly when repressors are present",
+			"D.\n                 not affected by activator proteins"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 21,
+		"question": "21. Transcription begins",
+		"options": [
+			"A.\n                 at the start codon",
+			"B.\n                 upstream from the start codon",
+			"C.\n                 downstream from the start codon",
+			"D.\n                 none of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 22,
+		"question": "22. Transcription results in",
+		"options": [
+			"A.\n                 an amino acid chain",
+			"B.\n                 messenger RNA",
+			"C.\n                 complementary DNA",
+			"D.\n                 Okazaki fragments"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 23,
+		"question": "23. RNA polymerase holoenzyme initiates transcription which involves",
+		"options": [
+			"A.\n                 recognition of the -10 sequence and -35 sequence",
+			"B.\n                 recognition of the -10 sequence only",
+			"C.\n                 recognition of the -35 sequence only",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 24,
+		"question": "24. The transcriptional regulatory proteins in eukaryotes which induce transcription usually have",
+		"options": [
+			"A.\n                 at least two distinct domains of protein structure, a DNA binding domain and an activation domain",
+			"B.\n                 at least two distinct domains of protein structure and a DNA binding domain",
+			"C.\n                 at least one distinct domains of protein structure, a DNA binding domain and an activation domain",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 25,
+		"question": "25. In prokaryotes, transcription is",
+		"options": [
+			"A.\n                 terminated by the stop codon",
+			"B.\n                 terminated by a protein called rho",
+			"C.\n                 terminated by a poly A sequence",
+			"D.\n                 terminated by a start codon"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 26,
+		"question": "26. In eukaryotes, there are three different RNA polymerases. The RNA polymerase responsible for transcription of mRNA is",
+		"options": [
+			"A.\n                 RNA polymerase I",
+			"B.\n                 RNA polymerase II",
+			"C.\n                 RNA polymerase III",
+			"D.\n                 none of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 27,
+		"question": "27. The nucleons of eukaryotic cell has",
+		"options": [
+			"A.\n                 RNA polymerase I",
+			"B.\n                 RNA polymerase II",
+			"C.\n                 RNA polymerase III",
+			"D.\n                 all of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 28,
+		"question": "28. Upstream regions which are essential for correct transcription are called",
+		"options": [
+			"A.\n                 enhancers",
+			"B.\n                 start codons",
+			"C.\n                 promoters",
+			"D.\n                 transcription factors"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 29,
+		"question": "29. Transcription of each set of rRNA genes by RNA polymerasel produces",
+		"options": [
+			"A.\n                 a single 45S rRNA precursor molecule",
+			"B.\n                 a single 5S rRNA precursor molecule",
+			"C.\n                 a single 18S rRNA precursor molecule",
+			"D.\n                 a single 28S rRNA precursor molecule"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 30,
+		"question": "30. The regions of a gene located at -10 and -35, with respect to the start of transcription, are termed",
+		"options": [
+			"A.\n                 start codons.",
+			"B.\n                 oriC regions.",
+			"C.\n                 Shine Dalgarno sequences.",
+			"D.\n                 promoters."
+		],
+		"answer": "D"
+	},
+	{
+		"number": 31,
+		"question": "31. Which of the following conditions would cause the release of the lac repressor protein from the lac operator site on DNA?",
+		"options": [
+			"A.\n                 Presence of glucose in the growth media",
+			"B.\n                 Presence of lactose in the growth media",
+			"C.\n                 Presence of IPTG (isopropyl thiogalactoside) in the growth media",
+			"D.\n                 Both (b) and (c)"
+		],
+		"answer": "D"
+	}
+]

@@ -1,0 +1,255 @@
+[
+	{
+		"number": 1,
+		"question": "1. Glycolytic pathway regulation involves",
+		"options": [
+			"A.\n                 allosteric stimulation by ADP",
+			"B.\n                 allosteric inhibition by ATP",
+			"C.\n                 feedback, or product, inhibition by ATP",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 2,
+		"question": "2. During catabolism, only about 40% of the energy available from oxidizing glucose is used to synthesize ATP. Remaining 60%",
+		"options": [
+			"A.\n                 is lost as heat",
+			"B.\n                 is used to reduce NADP",
+			"C.\n                 remains in the products of metabolism",
+			"D.\n                 is stored as fat."
+		],
+		"answer": "A"
+	},
+	{
+		"number": 3,
+		"question": "3. Why does the glycolytic pathway continue in the direction of glucose catabolism?",
+		"options": [
+			"A.\n                 There are essentially three irreversible reactions that act as the driving force for the pathway",
+			"B.\n                 High levels of ATP  keep the pathway going in a forward direction",
+			"C.\n                 The enzymes of glycolysis only function in one direction",
+			"D.\n                 Glycolysis occurs in either direction"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 4,
+		"question": "4. The released energy obtained by oxidation of glucose is stored as",
+		"options": [
+			"A.\n                 a concentration gradient across a membrane",
+			"B.\n                 ADP",
+			"C.\n                 ATP",
+			"D.\n                 NAD+"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 5,
+		"question": "5. A kinase is an enzyme that",
+		"options": [
+			"A.\n                 removes phosphate groups of substrates",
+			"B.\n                 uses ATP to add a phosphate group to the substrate",
+			"C.\n                 uses NADH to change the oxidation state of the substrate",
+			"D.\n                 removes water from a double bond"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 6,
+		"question": "6. For every one molecule of sugar glucose which is oxidized __________ molecule of pyruvic acid are produced.",
+		"options": [
+			"A.\n                 1",
+			"B.\n                 2",
+			"C.\n                 3",
+			"D.\n                 4"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 7,
+		"question": "7. In the glycogen synthase reaction, the precursor to glycogen is",
+		"options": [
+			"A.\n                 glucose-6-P",
+			"B.\n                 UTP-glucose",
+			"C.\n                 UDP-glucose",
+			"D.\n                 glucose-1-P"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 8,
+		"question": "8. The active form of glycogen phosphorylase is phosphorylated, while the dephosphorylation of which active form occurs?",
+		"options": [
+			"A.\n                 Glycogen synthase",
+			"B.\n                 Glycogen semisynthase",
+			"C.\n                 Glycogen hydrolase",
+			"D.\n                 Glycogen dehydrogenase"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 9,
+		"question": "9. The amount of energy received from one ATP is",
+		"options": [
+			"A.\n                 76 kcal",
+			"B.\n                 7.3 kcal",
+			"C.\n                 760 kcal",
+			"D.\n                 1000 kcal"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 10,
+		"question": "10. The enzymes of glycolysis in a eukaryotic cell are located in the",
+		"options": [
+			"A.\n                 intermembrane space",
+			"B.\n                 plasma membrane",
+			"C.\n                 cytosol",
+			"D.\n                 mitochondrial matrix"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 11,
+		"question": "11. When concentration of the reactants is higher than the equilibrium concentration then",
+		"options": [
+			"A.\n                 the gibbs free energy will be positive",
+			"B.\n                 the gibbs free energy will be negative",
+			"C.\n                 more products will be formed",
+			"D.\n                 both (b) and (c)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 12,
+		"question": "12. Which of the following is not true of glycolysis?",
+		"options": [
+			"A.\n                 ADP is phosphorylated to ATP via substrate level phosphorylation",
+			"B.\n                 The pathway does not require oxygen",
+			"C.\n                 The pathway oxidizes two moles of NADH to NAD+ for each mole of glucose that enters",
+			"D.\n                 The pathway requires two moles of ATP to get started catabo-lizing each mole of glucose"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 13,
+		"question": "13. In glycolysis, ATP is formed by the transfer of a high-energy phosphate from 1,3-bisphosphoglycerate to ADR No such high-energy phosphate donor has ever been isolated in mitochondria because",
+		"options": [
+			"A.\n                 the techniques for isolating the phosphate donor are not refined enough",
+			"B.\n                 no such phosphate donor exists",
+			"C.\n                 the high-energy phosphate donor is very short-lived and difficult to isolate",
+			"D.\n                 None of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 14,
+		"question": "14. ATP is from which general category of molecules?",
+		"options": [
+			"A.\n                 Polysaccharides",
+			"B.\n                 Proteins",
+			"C.\n                 Nucleotides",
+			"D.\n                 Amino acids"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 15,
+		"question": "15. The glycolytic pathway (glucose → 2 pyruvate) is found",
+		"options": [
+			"A.\n                 in all living organisms",
+			"B.\n                 primarily in animals excluding particles",
+			"C.\n                 only in eukaryotes",
+			"D.\n                 only in yeast"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 16,
+		"question": "16. Which of the following could act as an uncoupler of electron transport and ATP synthesis?",
+		"options": [
+			"A.\n                 The Fo base-piece of ATP synthase (without the Fl subunit)",
+			"B.\n                 Dinitrophenol",
+			"C.\n                 neither (a) nor (b)",
+			"D.\n                 Both (a) and (b)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 17,
+		"question": "17. Which of the following is not a mechanism for altering the flux of metabolites through the rate-determining step of a pathway?",
+		"options": [
+			"A.\n                 Allosteric control of the enzyme activity",
+			"B.\n                 Diffusional coupling between adjacent active sites",
+			"C.\n                 Genetic control of the enzyme concentration",
+			"D.\n                 Covalent modification of the enzyme"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 18,
+		"question": "18. Phosphofructokinase, the major flux-controlling enzyme of glycolysis is allosterically inhibited and activated respectively by",
+		"options": [
+			"A.\n                 ATP and PEP",
+			"B.\n                 AMP and Pi",
+			"C.\n                 ATP and ADP",
+			"D.\n                 Citrate and ATP"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 19,
+		"question": "19. Which of the following regulates glycolysis steps?",
+		"options": [
+			"A.\n                 Phosphofructokinase",
+			"B.\n                 Hexose kinase",
+			"C.\n                 Pyruvate kinase",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 20,
+		"question": "20. During glycolysis, the major energy generating step involves",
+		"options": [
+			"A.\n                 pyruvate kinase",
+			"B.\n                 phosphoglycerate kinase",
+			"C.\n                 glyceraldehyde-3 -dehydrogenase",
+			"D.\n                 Phosphofructokinase"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 21,
+		"question": "21. Fructose-2,6-bisphosphate",
+		"options": [
+			"A.\n                 activates fructose-1,6-bisphosphatase",
+			"B.\n                 activates phosphofructokinase",
+			"C.\n                 inhibits fructose-1,6-bisphosphatase",
+			"D.\n                 both (b) and (c)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 22,
+		"question": "22. Glucose from the breakdown of glycogen is obtained in",
+		"options": [
+			"A.\n                 the liver by phosphorolysis",
+			"B.\n                 the muscles by phosphorolysis",
+			"C.\n                 the muscles by hydrolysis",
+			"D.\n                 both (a) and (b)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 23,
+		"question": "23. Glycogen has",
+		"options": [
+			"A.\n                 α-1,4 linkage",
+			"B.\n                 α-1,6 linkages",
+			"C.\n                 α-1,4 and α-1,6 linkages",
+			"D.\n                 α-1,4 and β-1,6 linkage"
+		],
+		"answer": "C"
+	}
+]

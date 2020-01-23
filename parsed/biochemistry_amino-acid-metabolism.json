@@ -1,0 +1,222 @@
+[
+	{
+		"number": 1,
+		"question": "1. Histidine is degraded to α-ketoglutarate and is described as a",
+		"options": [
+			"A.\n                 gluco amino acid",
+			"B.\n                 glucogenic amino acid",
+			"C.\n                 ketogenic amino acid",
+			"D.\n                 keto-gluco amino acid"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 2,
+		"question": "2. Which of the following amino acids is considered as both ketogenic and glucogenic?",
+		"options": [
+			"A.\n                 Valine",
+			"B.\n                 Tryptophan",
+			"C.\n                 Lysine",
+			"D.\n                 None of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 3,
+		"question": "3. A glucogenic amino acid is one which is degraded to",
+		"options": [
+			"A.\n                 keto-sugars",
+			"B.\n                 either acetyl CoA or acetoacetyl CoA",
+			"C.\n                 pyruvate or citric acid cycle intermediates",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 4,
+		"question": "4. Which of the following is the best described glucogenic amino acid?",
+		"options": [
+			"A.\n                 Lysine",
+			"B.\n                 Tryptophan",
+			"C.\n                 Valine",
+			"D.\n                 None of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 5,
+		"question": "5. A person with phenylketonuria cannot convert",
+		"options": [
+			"A.\n                 phenylalanine to tyrosine",
+			"B.\n                 phenylalanine to isoleucine",
+			"C.\n                 phenol into ketones",
+			"D.\n                 phenylalanine to lysine"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. Oxidative deamination is the conversion of an amino",
+		"options": [
+			"A.\n                 group from an amino acid to a keto acid",
+			"B.\n                 acid to a carboxylic acid plus ammonia",
+			"C.\n                 acid to a keto acid plus ammonia",
+			"D.\n                 group from an amino acid to a carboxylic acid"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 7,
+		"question": "7. An example of a transamination process is",
+		"options": [
+			"A.\n                 glutamate = hexanoic acid + NH3",
+			"B.\n                 aspartate + hexanoic acid = glutamate + oxaloacetate",
+			"C.\n                 aspartate + α ketoglutarate = glutamate + oxaloacetate",
+			"D.\n                 glutamate = α-ketoglutarate + NH3"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 8,
+		"question": "8. Transamination is the process where",
+		"options": [
+			"A.\n                 carboxyl group is transferred from amino acid",
+			"B.\n                 α-amino group is removed from the amino acid",
+			"C.\n                 polymerisation of amino acid takes place",
+			"D.\n                 none of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 9,
+		"question": "9. The most toxic compounds is",
+		"options": [
+			"A.\n                 tyrosine",
+			"B.\n                 phenylpyruvate",
+			"C.\n                 lysine",
+			"D.\n                 phenylalanine"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 10,
+		"question": "10. A person with phenylketonuria is advised not to consume which of the following products?",
+		"options": [
+			"A.\n                 Glycine containing foods",
+			"B.\n                 Fat containing food",
+			"C.\n                 Glucose",
+			"D.\n                 Aspartame"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 11,
+		"question": "11. Tyrosine is degraded to acetoacetyl CoA and fumarate and is described as a",
+		"options": [
+			"A.\n                 glucogenic amino acid",
+			"B.\n                 ketogenic amino acid",
+			"C.\n                 ketogenic and glucogenic amino acid",
+			"D.\n                 keto-gluco amino acid"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 12,
+		"question": "12. Transaminase enzymes are present in",
+		"options": [
+			"A.\n                 liver",
+			"B.\n                 pancreas",
+			"C.\n                 intestine",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 13,
+		"question": "13. A person with phenylketonuria will convert",
+		"options": [
+			"A.\n                 phenylalanine to phenylpyruvate",
+			"B.\n                 phenylalanine to isoleucine",
+			"C.\n                 phenylpyruvate to phenylalanine",
+			"D.\n                 tyrosine to phenylalanine"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 14,
+		"question": "14. An example of the oxidative deamination is",
+		"options": [
+			"A.\n                 glutamate = hexanoic acid + NH3",
+			"B.\n                 aspartate + α-ketoglutarate = glutamate + oxaloacetate",
+			"C.\n                 glutamate = α-ketoglutarate + NH3",
+			"D.\n                 aspartate + hexanoic acid = glutamate + Oxaloacetate"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 15,
+		"question": "15. In the normal breakdown of phenylalanine, it is initially degraded to",
+		"options": [
+			"A.\n                 fumarate",
+			"B.\n                 tyrosine",
+			"C.\n                 lysine",
+			"D.\n                 phenylpuruvate"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 16,
+		"question": "16. Transamination is the transfer of an amino",
+		"options": [
+			"A.\n                 acid to a carboxylic acid plus ammonia",
+			"B.\n                 group from an amino acid to a keto acid",
+			"C.\n                 acid to a keto acid plus ammonia",
+			"D.\n                 group from an amino acid to a carboxylic acid"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 17,
+		"question": "17. Lysine is degraded to acetoacetyl CoA and is described as a",
+		"options": [
+			"A.\n                 ketogenic amino acid",
+			"B.\n                 glucogenic amino acid",
+			"C.\n                 keto-gluco amino acid",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 18,
+		"question": "18. A ketogenic amino acid is one which degrades to",
+		"options": [
+			"A.\n                 keto-sugars",
+			"B.\n                 either acetyl CoA or acetoacetyl CoA",
+			"C.\n                 pyruvate or citric acid cycle intermediates",
+			"D.\n                 multiple intermediates including pyruvate or citric acid cycle intermediates and acetyl CoA or acetoacetyl CoA"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 19,
+		"question": "19. A best described ketogenic amino acid is",
+		"options": [
+			"A.\n                 lysine",
+			"B.\n                 tryptophan",
+			"C.\n                 valine",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 20,
+		"question": "20. A person suffering from phenylketonuria on consumption food containing high phenylalanine may lead to the accumulation of",
+		"options": [
+			"A.\n                 phenylalanine",
+			"B.\n                 phenylpyruvate",
+			"C.\n                 tyrosine",
+			"D.\n                 isoleucine"
+		],
+		"answer": "B"
+	}
+]

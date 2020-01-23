@@ -1,0 +1,255 @@
+[
+	{
+		"number": 1,
+		"question": "1. Agarose gel electrophoresis and pulsed field gel electrophoresis may be used to resolve respectively",
+		"options": [
+			"A.\n                 2000 kb and 20kb DNA",
+			"B.\n                 1000 kb and l0kb DNA",
+			"C.\n                 20 kb and 2000 kb DNA",
+			"D.\n                 10 kb and 1000 kb DNA"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 2,
+		"question": "2. The IPTG is a gratuitous inducers of (β-galactosidase, and x-gal is a chromogenic substrate. When α-complementation occurs which colour is produced?",
+		"options": [
+			"A.\n                 Blue",
+			"B.\n                 White",
+			"C.\n                 Brown",
+			"D.\n                 No colour is produced"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 3,
+		"question": "3. The competitive immunoassay can be used",
+		"options": [
+			"A.\n                 to detect very small amounts of antigen",
+			"B.\n                 to detect antibody associated with allergies (IgE)",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 commonly to detect trace amounts of drugs."
+		],
+		"answer": "C"
+	},
+	{
+		"number": 4,
+		"question": "4. Which of the following is an immunodiffusion test?",
+		"options": [
+			"A.\n                 Double-diffusion",
+			"B.\n                 Gel diffusion",
+			"C.\n                 Ouchterloney technique",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 5,
+		"question": "5. In Counter immunoelectrophoresis",
+		"options": [
+			"A.\n                 electrophoresis will drive the antibody and antigen parallel to each other",
+			"B.\n                 electrophoresis will drive the antibody and antigen toward each other",
+			"C.\n                 the antibody will migrate towards anode",
+			"D.\n                 the antibody will migrate towards cathode"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 6,
+		"question": "6. What is the ELISA test intended to measure?",
+		"options": [
+			"A.\n                 Antibody to HIV only",
+			"B.\n                 Antigen to HIV only",
+			"C.\n                 Presence of free, circulating virus in the patient",
+			"D.\n                 Antibodies directed against HLA molecules"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. Immunoaffinity chromatography can be used in biochemical applications to",
+		"options": [
+			"A.\n                 break down antibody structure",
+			"B.\n                 purify protein antigen",
+			"C.\n                 break down antigen and analyze quantitatively",
+			"D.\n                 none of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 8,
+		"question": "8. Different form of a plasmid, on an agarose gel, after electrophoresis may be in which of the following sequence in decreasing molecular weight?",
+		"options": [
+			"A.\n                 Open circular, super coiled, linear plasmid DNA",
+			"B.\n                 Linear plasmid, open circular, super coiled plasmid",
+			"C.\n                 Open circular, super coiled, linear plasmid DNA",
+			"D.\n                 Open circular, linear plasmid, super coiled plasmid"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 9,
+		"question": "9. In Rocket Immunodiffusion the length of the rocket is",
+		"options": [
+			"A.\n                 proportional to the amount of antibody placed in each well",
+			"B.\n                 inversely proportional to the amount of antibody placed in each well",
+			"C.\n                 inversely proportional to the amount of antigen placed in each well",
+			"D.\n                 proportional to the amount of antigen placed in each well"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 10,
+		"question": "10. Radial Immunodiffusion is similar to",
+		"options": [
+			"A.\n                 double-diffusion",
+			"B.\n                 gel diffusion",
+			"C.\n                 Ouchterloney technique",
+			"D.\n                 all of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 11,
+		"question": "11. Agarose a porous matrix used in various molecular biology technique is made by repetitive units of",
+		"options": [
+			"A.\n                 maltose",
+			"B.\n                 agarobiose",
+			"C.\n                 agar",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 12,
+		"question": "12. What radioactive molecule is used to end-label an oligonucleotide?",
+		"options": [
+			"A.\n                 (alpha)-32P-ATP",
+			"B.\n                 (alpha)-32P-dUTP",
+			"C.\n                 (gamma)-32P-ATP",
+			"D.\n                 Any of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 13,
+		"question": "13. Which of the following radioactive element is generally involved in RIA?",
+		"options": [
+			"A.\n                 Tritium",
+			"B.\n                 Carbon-14",
+			"C.\n                 Iodine-125",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 14,
+		"question": "14. What is approximatively the half life of 32-Phosphorus?",
+		"options": [
+			"A.\n                 14 days",
+			"B.\n                 28 days",
+			"C.\n                 42 days",
+			"D.\n                 30 days"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 15,
+		"question": "15. Rocket Immunodiffusion is also known as",
+		"options": [
+			"A.\n                 gel diffusion",
+			"B.\n                 electroimmunodiffusion",
+			"C.\n                 double-diffusion",
+			"D.\n                 none of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 16,
+		"question": "16. DNA- footprinting is a suitable technique for identifying which of the following?",
+		"options": [
+			"A.\n                 Particular mRNA in mixture",
+			"B.\n                 Particular t-RNA in mixture",
+			"C.\n                 Introns within DNA",
+			"D.\n                 Protein binding site within DNA"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 17,
+		"question": "17. What would happen if serum is omitted from the ELISA, but all other steps remain same?",
+		"options": [
+			"A.\n                 Anti-human Ig-conjugate would not bind and be washed away",
+			"B.\n                 The OD values would be nearly the same as the assay control",
+			"C.\n                 Both (a) and (b)",
+			"D.\n                 Anti-human Ig-conjugate would bind non-specifically to the ELISA plate"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 18,
+		"question": "18. RAST test (radio allergosorbent test) is often used to detect",
+		"options": [
+			"A.\n                 antibodies associated with allergies (IgE)",
+			"B.\n                 antigen associated with allergies (IgE)",
+			"C.\n                 bacteriophages",
+			"D.\n                 None of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 19,
+		"question": "19. What would happen if the anti-human Ig-conjugate is not washed free of the well before the substrate is added?",
+		"options": [
+			"A.\n                 The ELISA would not develop when the substrate was added",
+			"B.\n                 The ELISA would develop normally",
+			"C.\n                 All wells would show uniform over-development due to unbound and excess anti-human Ig enzyme conjugate",
+			"D.\n                 None of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 20,
+		"question": "20. An antigen preparation and an antibody preparation are tested by immunodiffusion. Three bands are found, indicating that",
+		"options": [
+			"A.\n                 there was more than one antigen",
+			"B.\n                 the antibody was impure",
+			"C.\n                 the temperature was too high",
+			"D.\n                 there was one antibody and one antigen"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 21,
+		"question": "21. Immunoelectrophoresis techniques are designed to separate the mixture components from each other by using electrophoresis",
+		"options": [
+			"A.\n                 prior to reaction with antibody",
+			"B.\n                 prior to reaction with antigen",
+			"C.\n                 after reaction with antibody",
+			"D.\n                 after reaction with antigen"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 22,
+		"question": "22. Which of the following is a positively charged matrix for ion exchange chromatography?",
+		"options": [
+			"A.\n                 CM cellulose",
+			"B.\n                 DEAE cellulose",
+			"C.\n                 Phosphocellulose",
+			"D.\n                 None of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 23,
+		"question": "23. Which of the following is an immunoelectrophoresis technique?",
+		"options": [
+			"A.\n                 Two-dimensional immunoelectrophoresis",
+			"B.\n                 Counterimmunoelectrophoresis",
+			"C.\n                 Coimmunoelectrophoresis",
+			"D.\n                 Both (a) and (b)"
+		],
+		"answer": "D"
+	}
+]

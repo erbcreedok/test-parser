@@ -1,0 +1,123 @@
+[
+	{
+		"number": 1,
+		"question": "1. Membrane potential and the proton gradient",
+		"options": [
+			"A.\n                 are both required to make ATP",
+			"B.\n                 are sufficient, separately, to make ATP from ADP + Pi;",
+			"C.\n                 reinforce one another when respiratory inhibitors are present",
+			"D.\n                 cancel one another when uncouplers are present"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 2,
+		"question": "2. The irreversibility of the thiokinase reactions (formation of initial acyl-CoA)",
+		"options": [
+			"A.\n                 make this activation reaction the committed step on the pathway",
+			"B.\n                 is due to the subsequent hydrolysis of the product",
+			"C.\n                 applies only to even-chain fatty acids",
+			"D.\n                 both (a) and (b)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 3,
+		"question": "3. Long-chain fatty acids are oxidized step-wise in one carbon units starting from the",
+		"options": [
+			"A.\n                 carboxyl end",
+			"B.\n                 aliphatic end",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 4,
+		"question": "4. How many molecules of acetyl-CoA are produced in oxidation of palmitic acid (C16), which involves seven rounds of oxidation?",
+		"options": [
+			"A.\n                 6",
+			"B.\n                 7",
+			"C.\n                 8",
+			"D.\n                 9"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 5,
+		"question": "5. The oxidation of methanol (wood alcohol) in human retina tissue leads directly to the formation of",
+		"options": [
+			"A.\n                 formaldehyde",
+			"B.\n                 sugars",
+			"C.\n                 CO2",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. The maximum energy per gram on oxidization is yielded from",
+		"options": [
+			"A.\n                 fat",
+			"B.\n                 protein",
+			"C.\n                 glycogen",
+			"D.\n                 starch"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. The oxidation of methanol (wood alcohol) in human retina tissue indirectly leads to",
+		"options": [
+			"A.\n                 pressure builds up",
+			"B.\n                 colour blindness",
+			"C.\n                 blindness",
+			"D.\n                 all of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 8,
+		"question": "8. Each cycle of β-oxidation produces",
+		"options": [
+			"A.\n                 1 FADH2, 1 NAD+, and 1 acetyl-CoA",
+			"B.\n                 1 FADH2, 1 NADH and 1 acetyl-CoA",
+			"C.\n                 1 FADH2, 1 NADH and 2 CO2 molecules",
+			"D.\n                 1 FAD, 1 NAD+ and 2 CO2 molecules"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 9,
+		"question": "9. The three identical b subunits of the F1, complex during ATP synthesis have",
+		"options": [
+			"A.\n                 different affinities for ATP but not for ADP",
+			"B.\n                 different affinities for ADP but not for ATP",
+			"C.\n                 different affinities for ATP and for ADP",
+			"D.\n                 similar affinities for ADP and ATP"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 10,
+		"question": "10. Where the acyl-CoA formed in the cytosol is transported for oxidation?",
+		"options": [
+			"A.\n                 Mitochondrial matrix",
+			"B.\n                 Microsomes",
+			"C.\n                 Endoplasmic reticulum",
+			"D.\n                 Remains in cytosol"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 11,
+		"question": "11. The transport of acyl-CoA for oxidation using a shuttle involves formation of the intermediate",
+		"options": [
+			"A.\n                 3 acetyl-CoA",
+			"B.\n                 Acyl-coenzyme A",
+			"C.\n                 acyl-carnitine",
+			"D.\n                 None of these"
+		],
+		"answer": "C"
+	}
+]

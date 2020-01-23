@@ -1,0 +1,134 @@
+[
+	{
+		"number": 1,
+		"question": "1. For specific antigen recognition by T cells,",
+		"options": [
+			"A.\n                 antigen is bound by a T cell membrane antibody",
+			"B.\n                 denaturation of antigen does not reduce epitope recognition",
+			"C.\n                 MHC molecules are not required",
+			"D.\n                 antigen exposure during T cell maturation is required"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 2,
+		"question": "2. Antigen, when injected in the body activates its specific lymphocytes in the",
+		"options": [
+			"A.\n                 blood circulation",
+			"B.\n                 draining lymph nodes",
+			"C.\n                 MALT (mucosa associated",
+			"D.\n                 spleen lymphoid tissue"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 3,
+		"question": "3. A molecule that can be covalently linked to a non-immunogenic antigen to make it an immunogen is called a (n)",
+		"options": [
+			"A.\n                 adjuvant",
+			"B.\n                 carrier",
+			"C.\n                 hapten",
+			"D.\n                 mitogen"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 4,
+		"question": "4. Which of the following is incorrect with regard to antigen epitopes?",
+		"options": [
+			"A.\n                 An epitope may be shared by two different antigens",
+			"B.\n                 A protein molecule usually contains multiple epitopes",
+			"C.\n                 B cells bind only processed antigen epitopes",
+			"D.\n                 Epitopes may be linear or assembled"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 5,
+		"question": "5. Very low doses of antigen may induce",
+		"options": [
+			"A.\n                 hypersensitivity",
+			"B.\n                 immunological ignorance",
+			"C.\n                 low zone tolerance",
+			"D.\n                 low zone immunity"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 6,
+		"question": "6. During the lag period between antigen contact and detection of adaptive immunity,",
+		"options": [
+			"A.\n                 antigen is hidden from the immune system in macrophages",
+			"B.\n                 innate immune effectors are eliminating antigen",
+			"C.\n                 innate immunity blocks the activation of adaptive immune effector cells",
+			"D.\n                 new B and T cells with the appropriate antigen specificity must be produced in the bone marrow"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 7,
+		"question": "7. Lymphocytes are activated by antigen in the",
+		"options": [
+			"A.\n                 blood stream",
+			"B.\n                 bone marrow",
+			"C.\n                 liver",
+			"D.\n                 lymph nodes"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 8,
+		"question": "8. A pathogen can be a (n)",
+		"options": [
+			"A.\n                 agent that causes a disease",
+			"B.\n                 virus",
+			"C.\n                 bacteria",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 9,
+		"question": "9. CD antigens",
+		"options": [
+			"A.\n                 allow leukocytes to recognize antigen",
+			"B.\n                 are each expressed on only one cell type",
+			"C.\n                 are expressed on immune cells to mark them for separation",
+			"D.\n                 function as receptors for cytokine and CAMs"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 10,
+		"question": "10. A virus vaccine that can activate cytotoxic T cells must contain",
+		"options": [
+			"A.\n                 a high dose of virus particles",
+			"B.\n                 an adjuvant to stimulate T cell division",
+			"C.\n                 live virus",
+			"D.\n                 virus peptides"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 11,
+		"question": "11. The ability of an antigen to induce an immune response does not depend on the antigen's",
+		"options": [
+			"A.\n                 ability to enter the thyroid",
+			"B.\n                 degree of aggregation",
+			"C.\n                 dose",
+			"D.\n                 size"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 12,
+		"question": "12. The antibiotic penicillin is a small molecule that does not induce antibody formation. However, penicillin binds to serum proteins and forms a complex that in some people induces antibody formation resulting in an allergic reaction. Penicillin is therefore",
+		"options": [
+			"A.\n                 an antigen",
+			"B.\n                 a hapten",
+			"C.\n                 an immunogen",
+			"D.\n                 both an antigen and a hapten"
+		],
+		"answer": "D"
+	}
+]

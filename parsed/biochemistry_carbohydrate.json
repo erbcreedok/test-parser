@@ -1,0 +1,442 @@
+[
+	{
+		"number": 1,
+		"question": "1. Fructose is metabolized by",
+		"options": [
+			"A.\n                 fructose 1-phosphate pathway",
+			"B.\n                 fructose 6-phosphate pathway",
+			"C.\n                 glyceraldehyde 3-phosphate pathway",
+			"D.\n                 both (a) and (b)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 2,
+		"question": "2. A common way that cells capture the energy released during the breakdown of large molecules is to add electrons to smaller, specialized molecules that can accept them. This process of electron acceptance is otherwise known as",
+		"options": [
+			"A.\n                 biosynthesis",
+			"B.\n                 metabolism",
+			"C.\n                 reduction",
+			"D.\n                 catalysis"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 3,
+		"question": "3. Humans are unable to digest",
+		"options": [
+			"A.\n                 starch",
+			"B.\n                 complex carbohydrates",
+			"C.\n                 denatured proteins",
+			"D.\n                 cellulose"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 4,
+		"question": "4. How many ATP equivalents per mole of glucose input are required for gluconeogenesis?",
+		"options": [
+			"A.\n                 2",
+			"B.\n                 6",
+			"C.\n                 8",
+			"D.\n                 4"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 5,
+		"question": "5. Which of the following compounds is responsible for coordinated regulation of glucose and glycogen metabolism?",
+		"options": [
+			"A.\n                 NAD+",
+			"B.\n                 Fructose 2,6 bisphosphate",
+			"C.\n                 Acetyl-CoA",
+			"D.\n                 Fructose 1,6 bisphosphate"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 6,
+		"question": "6. Gluconeogenesis requires a higher amount of ATP equivalents as compared to that produced by glycolysis because",
+		"options": [
+			"A.\n                 gluconeogenesis releases energy as heat",
+			"B.\n                 glycolysis releases energy as heat",
+			"C.\n                 glycolysis occurs in the mitochondria while gluconeogenesis occurs in the cytosol",
+			"D.\n                 all of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 7,
+		"question": "7. Which of the following is carried out when cAMP functions as a second messenger?",
+		"options": [
+			"A.\n                 Acts second in importance to AMP",
+			"B.\n                 Activates all cytosolic protein kinases",
+			"C.\n                 Activates the cAMP-dependent protein kinase",
+			"D.\n                 Acts outside the cell to influence cellular processes"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 8,
+		"question": "8. The production or break down of __________ is often coupled with the metabolic reactions of biosynthesis and catabolism.",
+		"options": [
+			"A.\n                 aspirin",
+			"B.\n                 DNA",
+			"C.\n                 ATP",
+			"D.\n                 CO2"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 9,
+		"question": "9. The cells dependent solely on glucose as an energy source are",
+		"options": [
+			"A.\n                 muscle cells",
+			"B.\n                 brain cells",
+			"C.\n                 kidney cells",
+			"D.\n                 liver cells"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 10,
+		"question": "10. The main site for gluconeogenesis is",
+		"options": [
+			"A.\n                 kidney",
+			"B.\n                 liver",
+			"C.\n                 brain",
+			"D.\n                 muscle"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 11,
+		"question": "11. Which of the following statements about the energy needs of cells is false?",
+		"options": [
+			"A.\n                 Without a continuous input of energy, cell disorder will increase",
+			"B.\n                 The laws of thermodynamics force cells to acquire energy",
+			"C.\n                 Many cellular reactions have an associated activation energy",
+			"D.\n                 The most usable energy for cells comes from the rapid combustion of glucose"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 12,
+		"question": "12. In lysozyme catalysis, which of the following does not contribute?",
+		"options": [
+			"A.\n                 The abnormally high pKa of Glu35",
+			"B.\n                 The strained conformation of the D sugar",
+			"C.\n                 Formation of a covalent intermediate at Asp52",
+			"D.\n                 Formation of a covalent intermediate at Ser195"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 13,
+		"question": "13. Cellulose fibers resemble with the protein structure in the form of",
+		"options": [
+			"A.\n                 β-sheets",
+			"B.\n                 α-helices",
+			"C.\n                 β-turns",
+			"D.\n                 None of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 14,
+		"question": "14. During vigorous exercise, pyruvate produced by glycolysis is converted to",
+		"options": [
+			"A.\n                 acetate",
+			"B.\n                 lactate",
+			"C.\n                 monosodium phosphate",
+			"D.\n                 pyruvic acid"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 15,
+		"question": "15. Glucagon and epinephrine",
+		"options": [
+			"A.\n                 inhibits gluconeogenesis and stimulates glycolysis",
+			"B.\n                 stimulates gluconeogenesis and glycolysis",
+			"C.\n                 stimulates gluconeogenesis and inhibits glycolysis",
+			"D.\n                 inhibits gluconeogenesis and glycolysis"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 16,
+		"question": "16. The NAG6 substrate is hydrolyzed by human lysozyme to form",
+		"options": [
+			"A.\n                 6 glucosamines + 6 acetic acids",
+			"B.\n                 NAG4 + NAG2",
+			"C.\n                 NAG3 + NAG3",
+			"D.\n                 NAG3"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 17,
+		"question": "17. Gluconeogenesis uses",
+		"options": [
+			"A.\n                 3 ATPs and 2 GTPs per glucose",
+			"B.\n                 2 ATPs and 1 GTPs per glucose",
+			"C.\n                 3 ATPs and 3 GTPs per glucose",
+			"D.\n                 4 ATPs and 2 GTPs per glucose"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 18,
+		"question": "18. Saliva contains all of the following except",
+		"options": [
+			"A.\n                 hormones",
+			"B.\n                 amylase",
+			"C.\n                 bacteria-killing enzymes",
+			"D.\n                 antibodies"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 19,
+		"question": "19. The conversion of pyruvate to oxaloacetate",
+		"options": [
+			"A.\n                 requires biotin",
+			"B.\n                 involves the fixation of carbon dioxide",
+			"C.\n                 occurs in the mitochondria",
+			"D.\n                 all of  the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 20,
+		"question": "20. Gluconeogenesis is the",
+		"options": [
+			"A.\n                 formation of glycogen",
+			"B.\n                 breakdown of glucose to pyruvate",
+			"C.\n                 breakdown of glycogen to glucose",
+			"D.\n                 synthesis of glucose from non-carbohydrate precursors"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 21,
+		"question": "21. Hydrolysis of lactose yields",
+		"options": [
+			"A.\n                 galactose and fructose",
+			"B.\n                 galactose and glucose",
+			"C.\n                 glucose and fructose",
+			"D.\n                 fructose and galactose"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 22,
+		"question": "22. Two major products of pentose phosphate pathway are",
+		"options": [
+			"A.\n                 nicotinamide adenine dinucleotide and ribose 5-phosphate",
+			"B.\n                 flavine adenine dinuclueotide and glucose 5-phosphate",
+			"C.\n                 FAD and CoA",
+			"D.\n                 NADPH and NAD"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 23,
+		"question": "23. A catabolic intermediate which stimulates phosphofructokinase would stimulate",
+		"options": [
+			"A.\n                 gluconeogenesis",
+			"B.\n                 glycolysis",
+			"C.\n                 glycogen synthesis",
+			"D.\n                 none of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 24,
+		"question": "24. Pyruvate is initially converted to which of the following in the gluconeogenesis?",
+		"options": [
+			"A.\n                 Glycerol",
+			"B.\n                 Phosphoenol pyruvate",
+			"C.\n                 Oxaloacetate",
+			"D.\n                 Acetyl CoA"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 25,
+		"question": "25. Boat and chair conformations are found",
+		"options": [
+			"A.\n                 in pyranose sugars",
+			"B.\n                 in any sugar without axial -OH groups",
+			"C.\n                 in any sugar without equatorial -OH groups",
+			"D.\n                 only in D-glucopyranose"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 26,
+		"question": "26. The conversion of pyruvate to lactate is catalysed by",
+		"options": [
+			"A.\n                 pyruvate carboxylase",
+			"B.\n                 lactate dehydrogenase",
+			"C.\n                 pyruvate dismutase",
+			"D.\n                 pyruvate decarboxylase"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 27,
+		"question": "27. Which of the following can act as precursors for gluconeogenesis?",
+		"options": [
+			"A.\n                 Lactate",
+			"B.\n                 Glycerol",
+			"C.\n                 Alanine",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 28,
+		"question": "28. a-amylose is similar to",
+		"options": [
+			"A.\n                 β-sheets",
+			"B.\n                 β-turned coils",
+			"C.\n                 α-helices",
+			"D.\n                 the hydrophobic core"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 29,
+		"question": "29. Storage polysaccharide made by animals is",
+		"options": [
+			"A.\n                 amylopectin",
+			"B.\n                 glycogen",
+			"C.\n                 cellulose",
+			"D.\n                 collagen"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 30,
+		"question": "30. The glycosidic bond",
+		"options": [
+			"A.\n                 in maltose is not hydrolyzed in lactose intolerant humans",
+			"B.\n                 in sucrose is hydrolyzed by bees",
+			"C.\n                 joins glucose and fructose to form sucrose",
+			"D.\n                 both (b) and (c)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 31,
+		"question": "31. The sugar which forms major component of nucleic acids is",
+		"options": [
+			"A.\n                 ribose",
+			"B.\n                 galactose",
+			"C.\n                 mannose",
+			"D.\n                 maltose"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 32,
+		"question": "32. Under aerobic condition pyruvate is converted by pyruvate dehydrogenase to",
+		"options": [
+			"A.\n                 phosphoenol pyruvate",
+			"B.\n                 acetyl CoA",
+			"C.\n                 lactate",
+			"D.\n                 glyceraldehyde 3 phosphate"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 33,
+		"question": "33. Which of the following is not a disaccharide?",
+		"options": [
+			"A.\n                 Amylose",
+			"B.\n                 Cellobiose",
+			"C.\n                 Lactose",
+			"D.\n                 None of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 34,
+		"question": "34. Hexokinase activity in glycolysis is inhibited by",
+		"options": [
+			"A.\n                 glucose 6- phosphate",
+			"B.\n                 fructose 6-phosphate",
+			"C.\n                 fructose 1,6 biphosphate",
+			"D.\n                 phosphofructokinase"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 35,
+		"question": "35. The ultimate source of energy that sustains living systems is",
+		"options": [
+			"A.\n                 glucose",
+			"B.\n                 oxygen",
+			"C.\n                 sunlight",
+			"D.\n                 carbon dioxide"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 36,
+		"question": "36. Citric acid accumulation would",
+		"options": [
+			"A.\n                 stimulate phosphofructokinase activity",
+			"B.\n                 stimulate fructose 1,6 diphosphatase activity",
+			"C.\n                 inhibit phosphofructokinase activity",
+			"D.\n                 both (b) and (c)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 37,
+		"question": "37. Which of the following is not involved in the biosynthesis of DNA?",
+		"options": [
+			"A.\n                 Energy from ATP",
+			"B.\n                 Mononucleotides",
+			"C.\n                 Carbonic anhydrase",
+			"D.\n                 Enzymes"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 38,
+		"question": "38. Which of the following would be considered a part of metabolism?",
+		"options": [
+			"A.\n                 Biosynthetic pathways that build DNA",
+			"B.\n                 Catabolic pathways that break down complex carbohydrates",
+			"C.\n                 The capture of light energy for use in making glucose",
+			"D.\n                 All of  the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 39,
+		"question": "39. Insulin",
+		"options": [
+			"A.\n                 stimulates gluconeogenesis and glycolysis",
+			"B.\n                 stimulates gluconeogenesis and inhibits glycolysis",
+			"C.\n                 inhibits gluconeogenesis and glycolysis",
+			"D.\n                 inhibits gluconeogenesis and stimulates glycolysis"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 40,
+		"question": "40. What is present in the stomach to prevent self-digestion?",
+		"options": [
+			"A.\n                 Mucus",
+			"B.\n                 acid",
+			"C.\n                 Enzymes",
+			"D.\n                 hormones"
+		],
+		"answer": "A"
+	}
+]

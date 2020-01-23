@@ -1,0 +1,101 @@
+[
+	{
+		"number": 1,
+		"question": "1. In an SDS-PAGE",
+		"options": [
+			"A.\n                 proteins are denatured by the SDS",
+			"B.\n                 proteins have the same charge-to-mass ratio",
+			"C.\n                 smaller proteins migrate more rapidly through the gel",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 2,
+		"question": "2. Proteins can be visualized directly in gels by",
+		"options": [
+			"A.\n                 staining them with the dye",
+			"B.\n                 using electron microscope only",
+			"C.\n                 measuring their molecular weight",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 3,
+		"question": "3. In SDS-PAGE, the protein sample is first",
+		"options": [
+			"A.\n                 treated with a reducing agent and then with anionic detergent followed by fractionation by electrophoresis",
+			"B.\n                 fractionated by electrophoresis then treated with an oxidizing agent followed by anionic detergent.",
+			"C.\n                 treated with a oxidizing agent and then with anionic detergent followed by fractionation by electrophoresis",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 4,
+		"question": "4. Electrophoresis of histones and myoglobin under non-denaturing conditions (pH = 7.0) results in",
+		"options": [
+			"A.\n                 both proteins migrate to the anode",
+			"B.\n                 histones migrate to the anode and myoglobin migrates to the cathode",
+			"C.\n                 histones migrate to the cathode and myoglobin migrates to the anode",
+			"D.\n                 both proteins migrate to the cathode"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 5,
+		"question": "5. In isoelectric focusing, proteins are separated on the basis of their",
+		"options": [
+			"A.\n                 relative content of positively charged residue only",
+			"B.\n                 relative content of negatively charged residue only",
+			"C.\n                 size",
+			"D.\n                 relative content of positively and negatively charged residue"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 6,
+		"question": "6. In a gel filtration column",
+		"options": [
+			"A.\n                 smaller proteins enter the beads more readily",
+			"B.\n                 large proteins elute first",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 large proteins enter the beads more readily"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 7,
+		"question": "7. In a native PAGE, proteins are separated on the basis of",
+		"options": [
+			"A.\n                 net negative charge",
+			"B.\n                 net charge and size",
+			"C.\n                 net positive charges size",
+			"D.\n                 net positive charge"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 8,
+		"question": "8. The subunit molecular weight as well as the number of subunits in the quaternary structure can be determined by",
+		"options": [
+			"A.\n                 SDS-PAGE electrophoresis",
+			"B.\n                 gel filtration chromatography",
+			"C.\n                 combining information from (a)and (b)",
+			"D.\n                 isoelectric focusing"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 9,
+		"question": "9. Proteins are separated in an SDS-PAGE experiment on the basis of their",
+		"options": [
+			"A.\n                 positively charged side chains",
+			"B.\n                 molecular weight",
+			"C.\n                 negatively charged side chains",
+			"D.\n                 different isoelectric points"
+		],
+		"answer": "B"
+	}
+]

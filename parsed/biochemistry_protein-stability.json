@@ -1,0 +1,123 @@
+[
+	{
+		"number": 1,
+		"question": "1. Unpaired H-bond donors and acceptors are found in the hydrophobic core of a protein",
+		"options": [
+			"A.\n                 only at the ends of a-helices",
+			"B.\n                 only at the turns connecting p-strands",
+			"C.\n                 only on Pro residues",
+			"D.\n                 rarely"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 2,
+		"question": "2. For the unfolding reaction of Protein G, ΔH° =210.6 kJ/mol, this means that",
+		"options": [
+			"A.\n                 unfolding is favored enthalpically",
+			"B.\n                 folding is favored enthalpically",
+			"C.\n                 the entropy is positive at all temperatures",
+			"D.\n                 the entropy is negative at all temperatures"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 3,
+		"question": "3. Attractive Vander Waals forces occur between",
+		"options": [
+			"A.\n                 apolar molecules in the liquid state",
+			"B.\n                 any pair of nearby atoms",
+			"C.\n                 polar molecules in the solid state",
+			"D.\n                 only if other forces are less favorable"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 4,
+		"question": "4. Which of the following forces is the most favorable for protein folding?",
+		"options": [
+			"A.\n                 Conformational entropy",
+			"B.\n                 Hydrophobic Interactions",
+			"C.\n                 Vander Waals interactions",
+			"D.\n                 Hydrogen bonds"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 5,
+		"question": "5. At the midpoint of a temperature transition curve,",
+		"options": [
+			"A.\n                 half of the protein is denatured",
+			"B.\n                 Keq = 1.0 and ΔG = 0",
+			"C.\n                 [Native] = [Unfolded]",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 6,
+		"question": "6. Which of the following is the most correct?",
+		"options": [
+			"A.\n                 Charged amino acids are never buried in the interior of a protein",
+			"B.\n                 Charged amino acids are seldom buried in the interior of a protein",
+			"C.\n                 All hydrophobic amino acids are buried when a protein folds",
+			"D.\n                 Tyrosine is only found in the interior of proteins"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 7,
+		"question": "7. Which of the following forces is the most unfavorable for protein folding?",
+		"options": [
+			"A.\n                 Conformational entropy",
+			"B.\n                 Hydrophobic interactions",
+			"C.\n                 Vander Waals interactions",
+			"D.\n                 Electrostatic interactions"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 8,
+		"question": "8. Since ΔG° = -RTlnK",
+		"options": [
+			"A.\n                 a 10-fold increase in K decreases ΔG° by about 10-fold",
+			"B.\n                 a 10-fold decrease in K decreases ΔG° by about 2.3*RT",
+			"C.\n                 a 10-fold increase in K decreases ΔG° by about 2.3*RT",
+			"D.\n                 a 10-fold decrease in K increases ΔG° by about 10-fold"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 9,
+		"question": "9. The correlation between free energy ΔG transfer between the aqueous/organic phases and the surface area of amino acid residues",
+		"options": [
+			"A.\n                 reflects the reduction in solvent-accessible area during protein folding",
+			"B.\n                 is only meaningful for the polar amino acids",
+			"C.\n                 ignores the important contribution of the peptide bond",
+			"D.\n                 is similar to effects seen with SDS denaturation"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 10,
+		"question": "10. If the egg white protein, ovalbumin, is denatured in a hard-boiled egg, then which of the following is least affected?",
+		"options": [
+			"A.\n                 The primary structure of ovalbumin",
+			"B.\n                 The secondary structure of ovalbumin",
+			"C.\n                 The tertiary structure of ovalbumin",
+			"D.\n                 The quaternary structure of ovalbumin"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 11,
+		"question": "11. Buried hydrophobic side chains in a globular protein fit into a hole formed by the side chains of",
+		"options": [
+			"A.\n                 1-3 other amino acids",
+			"B.\n                 5-7 other amino acids",
+			"C.\n                 9-12 other amino acids",
+			"D.\n                 13-15 other amino acids"
+		],
+		"answer": "B"
+	}
+]

@@ -1,0 +1,299 @@
+[
+	{
+		"number": 1,
+		"question": "1. The viruses that can achieve neoplastic transformation are called",
+		"options": [
+			"A.\n                 DNA tumor viruses",
+			"B.\n                 RNA tumor viruses",
+			"C.\n                 retroviruses HIV",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 2,
+		"question": "2. For gene transfer to be effective, transforming DNA must be",
+		"options": [
+			"A.\n                 incorporated into the bacterial chromosome",
+			"B.\n                 incorporated into a viral genome",
+			"C.\n                 free in the bacterial cytoplasm",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 3,
+		"question": "3. Double stranded DNA denaturation with specified limit of temperature is",
+		"options": [
+			"A.\n                 reversible reaction",
+			"B.\n                 irreversible reaction",
+			"C.\n                 either (a) or (b)",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 4,
+		"question": "4. From a single molecule of DNA, PCR can make",
+		"options": [
+			"A.\n                 one additional copy",
+			"B.\n                 hundreds of copies",
+			"C.\n                 thousands of copies",
+			"D.\n                 millions of copies"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 5,
+		"question": "5. Genomic libraries are made from",
+		"options": [
+			"A.\n                 genomic DNA of an organism",
+			"B.\n                 genomic RNA of an organism",
+			"C.\n                 genomic cDNA of an organism",
+			"D.\n                 genomic mRNA of an organism"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. Bacteriophages are",
+		"options": [
+			"A.\n                 cells in the blood that eat bacteria",
+			"B.\n                 a class of bacteria",
+			"C.\n                 bacterial viruses",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 7,
+		"question": "7. Specialized transduction occurs when",
+		"options": [
+			"A.\n                 the bacteriophage incorporates randomly in the bacterial chromosome",
+			"B.\n                 the bacteriophage never incorporates into the bacterial chromosome",
+			"C.\n                 the bacteriophage always incorporates at the same position in the bacterial chromosome",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 8,
+		"question": "8. PCR is used",
+		"options": [
+			"A.\n                 to diagnose genetic diseases",
+			"B.\n                 to solve crimes",
+			"C.\n                 to study gene function",
+			"D.\n                 all of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 9,
+		"question": "9. To clone into a plasmid vector, both the plasmid and the foreign DNA are cut",
+		"options": [
+			"A.\n                 with the same restriction enzyme and mixed together",
+			"B.\n                 with different restriction enzyme and mixed together",
+			"C.\n                 with the combination of enzymes and then seperated",
+			"D.\n                 with the combination of enzymes and mixed together"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 10,
+		"question": "10. PCR can be used to amplify a specific fragment of DNA from which of the following?",
+		"options": [
+			"A.\n                 A drop of blood",
+			"B.\n                 A hair follicle",
+			"C.\n                 A fragment of skin",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 11,
+		"question": "11. Transformation means",
+		"options": [
+			"A.\n                 formation of a pilus",
+			"B.\n                 acquiring DNA from the bacterial cell environment",
+			"C.\n                 plasmid containing a F factor",
+			"D.\n                 F+ and F- strains of bacteria"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 12,
+		"question": "12. Restriction maps",
+		"options": [
+			"A.\n                 allows comparison between DNA molecules without the need to determine nucleotide sequence",
+			"B.\n                 allows comparison between DNA molecules but requires to determine nucleotide sequence",
+			"C.\n                 does not allow comparison between DNA molecules",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 13,
+		"question": "13. Which of the following is correct?",
+		"options": [
+			"A.\n                 HIV is a retrovirus that kills human helper T cells",
+			"B.\n                 Causes acquired immune deficiency syndrome (AIDS)",
+			"C.\n                 Cripples the immunity systems",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 14,
+		"question": "14. A PCR cycle consists of",
+		"options": [
+			"A.\n                 three steps, denaturation, primer annealing and elongation",
+			"B.\n                 three steps, denaturation, initiation and elongation",
+			"C.\n                 three steps, primer annealing, elongation and termination",
+			"D.\n                 three steps, initiation, elongation and termination"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 15,
+		"question": "15. How many ds DNA molecule can be produced, which comprise precisely the target region in double strand form during 4th cycle of PCR?",
+		"options": [
+			"A.\n                 Two ds DNA molecule",
+			"B.\n                 Three ds DNA molecule",
+			"C.\n                 Eight ds DNA molecule",
+			"D.\n                 Four ds DNA molecule"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 16,
+		"question": "16. PCR can be used in",
+		"options": [
+			"A.\n                 cloning",
+			"B.\n                 sequencing",
+			"C.\n                 medical diagnosis and forensic medicine",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 17,
+		"question": "17. PCR (Polymerase Chain Reaction) can make multiple copies of",
+		"options": [
+			"A.\n                 DNA",
+			"B.\n                 RNA",
+			"C.\n                 protein",
+			"D.\n                 carbohydrate"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 18,
+		"question": "18. PCR is an abbreviation for",
+		"options": [
+			"A.\n                 Protein Change Reaction",
+			"B.\n                 Polymerase Chain Reaction",
+			"C.\n                 Positive Charge Reaction:",
+			"D.\n                 Preliminary Change Rate"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 19,
+		"question": "19. PCR amplifies millions of copies of",
+		"options": [
+			"A.\n                 a short fragment of DNA",
+			"B.\n                 the entire genome (all the DNA in a sample)",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 short chain RNA"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 20,
+		"question": "20. Southern blotting involves",
+		"options": [
+			"A.\n                 electrophoresis of DNA molecules and then blotting the separated DNA bands followed by incubation",
+			"B.\n                 electrophoresis of DNA molecules and then blotting the separated RNA bands followed by incubation",
+			"C.\n                 electrophoresis of DNA molecules followed by incubation",
+			"D.\n                 electrophoresis of RNA molecules and then blotting the separated RNA bands followed by incubation"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 21,
+		"question": "21. Bactriophages absorb to a bacterial surface and inject the phage DNA through the",
+		"options": [
+			"A.\n                 cell wall into cytosol",
+			"B.\n                 cell wall into plasmamembrane",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 cell wall into endoplasmic reticulum"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 22,
+		"question": "22. In a PCR reaction after four cycles, each molecule of a duplex DNA will give rise to",
+		"options": [
+			"A.\n                 16 single strands of DNA",
+			"B.\n                 16 double stranded DNA",
+			"C.\n                 18 single strands of DNA",
+			"D.\n                 18 double stranded DNA"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 23,
+		"question": "23. Additional mono saccharides are added in Golgi to produce",
+		"options": [
+			"A.\n                 either high mannose type oligosaccharide or a complex type",
+			"B.\n                 either fructose type monosaccharide or a complex type",
+			"C.\n                 either high sucrose type polysaccharide or a complex type",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 24,
+		"question": "24. The PCR, polymerase chain reaction is becoming the method of choice for",
+		"options": [
+			"A.\n                 Alteration of gene",
+			"B.\n                 screening gene",
+			"C.\n                 sterilization of gene",
+			"D.\n                 all of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 25,
+		"question": "25. Northern blotting is",
+		"options": [
+			"A.\n                 widely different than southern blotting",
+			"B.\n                 another name for southern blotting",
+			"C.\n                 analogous to southern blotting",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 26,
+		"question": "26. What technique can be used to determine the murderer who left blood with the victim?",
+		"options": [
+			"A.\n                 DNA sequencing",
+			"B.\n                 PCR amplification",
+			"C.\n                 Western blot",
+			"D.\n                 RFLP mapping"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 27,
+		"question": "27. DNA fragments in a restriction digest can be separated by electrophoresis in",
+		"options": [
+			"A.\n                 poly acrylamide",
+			"B.\n                 agarose gel",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 none of these"
+		],
+		"answer": "C"
+	}
+]

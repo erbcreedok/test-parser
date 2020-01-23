@@ -1,0 +1,354 @@
+[
+	{
+		"number": 1,
+		"question": "1. On the ribosome, mRNA binds",
+		"options": [
+			"A.\n                 between the subunits",
+			"B.\n                 to the large subunit",
+			"C.\n                 to the small subunit",
+			"D.\n                 none of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 2,
+		"question": "2. Type I proteins (plasma membrane) have a",
+		"options": [
+			"A.\n                 cleavage N- terminal signal sequence and a hydrophobic stop transfer sequence",
+			"B.\n                 cleavaged N- terminal signal sequence that doubles as the membrane anchoring sequence",
+			"C.\n                 multiple signal sequence and a hydrophobic stop transfer sequence",
+			"D.\n                 multiple signal sequence that doubles as the membrane anchoring sequence"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 3,
+		"question": "3. Which of the following is not a necessary component of translation?",
+		"options": [
+			"A.\n                 Anticodon",
+			"B.\n                 mRNA",
+			"C.\n                 Ligase",
+			"D.\n                 Amino acid"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 4,
+		"question": "4. A polysome could be best described as",
+		"options": [
+			"A.\n                 an active site of DNA synthesis.",
+			"B.\n                 an active site of protein synthesis.",
+			"C.\n                 an active site of lipid synthesis.",
+			"D.\n                 all of the above."
+		],
+		"answer": "B"
+	},
+	{
+		"number": 5,
+		"question": "5. Eukaryotic mRNA binding to the ribosomes is facilitated by __________ .",
+		"options": [
+			"A.\n                 the Shine Dalgarno sequence",
+			"B.\n                 the 7-methyl guanosine cap",
+			"C.\n                 tRNA",
+			"D.\n                 poly A tail"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 6,
+		"question": "6. Amino acids are joined together into a protein chain by which of the following?",
+		"options": [
+			"A.\n                 Transfer RNA",
+			"B.\n                 DNA polymerase",
+			"C.\n                 Hydrogen bonds",
+			"D.\n                 Messenger RNA"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. Phosphorus is taken up by the cell during the process of",
+		"options": [
+			"A.\n                 carbohydrate synthesis.",
+			"B.\n                 protein synthesis,",
+			"C.\n                 lipid synthesis.",
+			"D.\n                 ATP synthesis."
+		],
+		"answer": "D"
+	},
+	{
+		"number": 8,
+		"question": "8. Protein synthesis rates in prokaryotes are limited by the rate of mRNA synthesis. If RNA synthesis occurs at the rate of 50 nucleotides/sec, then rate of protein synthesis occurs at",
+		"options": [
+			"A.\n                 10 amino acids/sec",
+			"B.\n                 17 amino acids/sec",
+			"C.\n                 25 amino acids/sec",
+			"D.\n                 50 amino acids/sec"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 9,
+		"question": "9. The site of protein synthesis is",
+		"options": [
+			"A.\n                 Ribosome",
+			"B.\n                 Nucleus",
+			"C.\n                 Endoplasmic reticulum",
+			"D.\n                 Chromosome"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 10,
+		"question": "10. The structure in a bacterium that indicates an active site for protein synthesis is",
+		"options": [
+			"A.\n                 a chromosome.",
+			"B.\n                 a cell membrane,",
+			"C.\n                 a flagellum.",
+			"D.\n                 a polysome."
+		],
+		"answer": "D"
+	},
+	{
+		"number": 11,
+		"question": "11. The lac operon contains the z, y and a structural genes",
+		"options": [
+			"A.\n                 encoding p-galactosidase, galactose permeases and thio-galactosidase transacetylase respectively",
+			"B.\n                 encoding p-galactosidase and galactose permeases",
+			"C.\n                 encoding P-galactosidase only",
+			"D.\n                 None of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 12,
+		"question": "12. Proteins contain __________ different amino acids, whereas DNA and RNA are composed of __________ different nucleotides",
+		"options": [
+			"A.\n                 20,64",
+			"B.\n                 3,20",
+			"C.\n                 4,20",
+			"D.\n                 20,4"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 13,
+		"question": "13. Which of the following is not necessary for protein synthesis to occur, once transcription is completed?",
+		"options": [
+			"A.\n                 tRNA",
+			"B.\n                 Ribosomes",
+			"C.\n                 mRNA",
+			"D.\n                 DNA"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 14,
+		"question": "14. Ribosomes select the correct tRNAs",
+		"options": [
+			"A.\n                 then bind to the appropriate mRNA",
+			"B.\n                 solely on the basis of their anticodons",
+			"C.\n                 depending on their abundance in the cytosol",
+			"D.\n                 with the least abundant anticodons"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 15,
+		"question": "15. Signal peptide protein removal that is translocated across a membrane is accomplished by",
+		"options": [
+			"A.\n                 fMet aminopeptidase",
+			"B.\n                 trypsin",
+			"C.\n                 signal peptidase",
+			"D.\n                 chymotrypsin"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 16,
+		"question": "16. The direction of amino acid transfer to the growing polypeptide chain is",
+		"options": [
+			"A.\n                 from the A (aminoacyl tRNA site) site to the P (peptidyl tRNA site) site on the ribosome",
+			"B.\n                 from the P site to the A site on the ribosome",
+			"C.\n                 from the A site to the E (exit tRNA site) site on the ribosome",
+			"D.\n                 from the P site to the E site on the ribosome"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 17,
+		"question": "17. The pathway of a tRNA during polypeptide elongation on the ribosome is",
+		"options": [
+			"A.\n                 A site → P site → E site",
+			"B.\n                 P site → entry site → exit site",
+			"C.\n                 A site → P site → entry site",
+			"D.\n                 P site → A site → E site"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 18,
+		"question": "18. Which of the following has unusual bases?",
+		"options": [
+			"A.\n                 mRNA",
+			"B.\n                 tRNA",
+			"C.\n                 rRNA",
+			"D.\n                 hnRNA"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 19,
+		"question": "19. The site on a bacterial chromosome that marks the termination point for chromosome replication is called",
+		"options": [
+			"A.\n                 ter",
+			"B.\n                 a stop codon.",
+			"C.\n                 a stem-loop",
+			"D.\n                 pau"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 20,
+		"question": "20. Degenerated codon differs mostly in",
+		"options": [
+			"A.\n                 the identities of their second base",
+			"B.\n                 the identities of their third base",
+			"C.\n                 the wobble position",
+			"D.\n                 both (b) and (c)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 21,
+		"question": "21. Translation in prokaryotes begins by the formation of a 30S initiation complex between the",
+		"options": [
+			"A.\n                 30S ribosomal subunit, mRNA, initiation factors and N-fMet tRNA",
+			"B.\n                 30S ribosomal subunit, tRNA and initiation factors",
+			"C.\n                 30S ribosomal subunit and mRNA only",
+			"D.\n                 30S ribosomal subunit, mRNA and initiation factors"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 22,
+		"question": "22. The anticodon of tRNA",
+		"options": [
+			"A.\n                 binds to rRNA",
+			"B.\n                 binds to an amino acid",
+			"C.\n                 binds to the Shine Dalgarno sequence",
+			"D.\n                 binds to an mRNA codon"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 23,
+		"question": "23. The peptidyl transferase reaction occurs",
+		"options": [
+			"A.\n                 on the large subunit",
+			"B.\n                 on the small subunit",
+			"C.\n                 between the subunit",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 24,
+		"question": "24. Processive synthesis is a characteristic feature of",
+		"options": [
+			"A.\n                 all DNA polymerases.",
+			"B.\n                 DNA Pol III at a replication fork.",
+			"C.\n                 removal of RNA primers on Okasaki fragments.",
+			"D.\n                 DNA mismatch repair"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 25,
+		"question": "25. Which site of the tRNA molecule binds to the mRNA molecule?",
+		"options": [
+			"A.\n                 Anticodon",
+			"B.\n                 Codon",
+			"C.\n                 Amino acid",
+			"D.\n                 5 prime end"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 26,
+		"question": "26. The first step in translation is",
+		"options": [
+			"A.\n                 binding of the two ribosomal subunits to each other",
+			"B.\n                 binding of mRNA to the two ribosomal subunits",
+			"C.\n                 binding of tRNA to the small ribosomal subunit",
+			"D.\n                 binding of mRNA to the small ribosomal subunit"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 27,
+		"question": "27. Which of the following amino acid starts all proteins synthesis?",
+		"options": [
+			"A.\n                 Glycine",
+			"B.\n                 Proline",
+			"C.\n                 Thymine",
+			"D.\n                 Methionine"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 28,
+		"question": "28. The growing polypeptide chain is released from the ribosomes when",
+		"options": [
+			"A.\n                 a chain terminating codon is reached",
+			"B.\n                 a chain terminating tRNA binds to the ribosome",
+			"C.\n                 the 7-methyl guanosine cap is reached",
+			"D.\n                 the poly A tail is reached"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 29,
+		"question": "29. Which of the following RNAs bind to an amino acid?",
+		"options": [
+			"A.\n                 mRNA",
+			"B.\n                 tRNA",
+			"C.\n                 rRNA",
+			"D.\n                 hnRNA"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 30,
+		"question": "30. How many bases of nucleic acid determine a single amino acid?",
+		"options": [
+			"A.\n                 Four",
+			"B.\n                 One",
+			"C.\n                 Two",
+			"D.\n                 Three"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 31,
+		"question": "31. The ribosomes are composed of",
+		"options": [
+			"A.\n                 proteins",
+			"B.\n                 RNA",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 lipids"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 32,
+		"question": "32. Which is required for protein synthesis?",
+		"options": [
+			"A.\n                 tRNA",
+			"B.\n                 mRNA",
+			"C.\n                 rRNA",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	}
+]

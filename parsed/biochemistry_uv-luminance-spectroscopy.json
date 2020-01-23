@@ -1,0 +1,90 @@
+[
+	{
+		"number": 1,
+		"question": "1. What is the relationship between wavelength and wave number?",
+		"options": [
+			"A.\n                 Wavenumber = 1 / wavelength in centimeters",
+			"B.\n                 Wavenumber - wavelength in nanometers = 1",
+			"C.\n                 Wavelength in nanometers x wavenumber = 1",
+			"D.\n                 None of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 2,
+		"question": "2. In the intersystem crossing",
+		"options": [
+			"A.\n                 the spin of an excited electron reverses, changing the state of the molecule (from singlet state to triplet state or vice versa)",
+			"B.\n                 a molecule converts its excess energy to light, and emits a photon",
+			"C.\n                 a molecule converts excess electronic energy to vibrational energy",
+			"D.\n                 all of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 3,
+		"question": "3. Why must the radiation source for fluorescence spectrometry be more powerful than for absorption spectroscopy?",
+		"options": [
+			"A.\n                 Because the magnitude of the output signal is proportional to the power of the incident radiation",
+			"B.\n                 Because the sample won't fluoresce if the incident radiation is of low power",
+			"C.\n                 To allow for scattering by the sample",
+			"D.\n                 None of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 4,
+		"question": "4. Why do fluorescence spectrometers often use double-beam optics?",
+		"options": [
+			"A.\n                 So a reference solution can be used",
+			"B.\n                 To compensate for beam attenuation by the monochromator",
+			"C.\n                 To compensate for power fluctuations in the radiation source",
+			"D.\n                 All of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 5,
+		"question": "5. For a molecule to absorb IR, why must the molecule's vibrations cause fluctuations in the dipole moment of the molecule?",
+		"options": [
+			"A.\n                 Because a change in dipole moment lowers the energy required for electronic transitions",
+			"B.\n                 Because for absorption to occur, the radiation must interact with the electric field caused by changing dipole moment",
+			"C.\n                 Because fluctuations in the dipole moment allow the molecule to deform by bending and stretching",
+			"D.\n                 All of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 6,
+		"question": "6. Internal conversion is where",
+		"options": [
+			"A.\n                 the spin of an excited electron reverses, changing the state of the molecule (from singlet state to triplet state or vice versa)",
+			"B.\n                 A molecule converts its excess energy to light, and emits a photon",
+			"C.\n                 A molecule converts excess electronic energy to vibrational energy",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 7,
+		"question": "7. Why phosphorescence measurements are usually made at a low temperature?",
+		"options": [
+			"A.\n                 To prevent thermal degradation of the phosphorescent species",
+			"B.\n                 To promote phosphorescence by slowing the rate of radiationless transfer processes",
+			"C.\n                 To increase the efficiency of the detector",
+			"D.\n                 To decease the efficiency of detector"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 8,
+		"question": "8. Fluorescence occurs when",
+		"options": [
+			"A.\n                 a molecule returns to the electronic ground state from an excited triplet state by losing it's excess energy as a photon",
+			"B.\n                 a molecule returns to the electronic ground state from an excited singlet state by losing it's excess energy as a photon",
+			"C.\n                 a molecule lowers its vibrational energy by losing it's excess energy as a photon",
+			"D.\n                 none of the above"
+		],
+		"answer": "B"
+	}
+]

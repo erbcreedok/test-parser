@@ -1,0 +1,222 @@
+[
+	{
+		"number": 1,
+		"question": "1. Lack of reaction to our own human leukocyte antigens (HLAs) is known as?",
+		"options": [
+			"A.\n                 autoimmunity",
+			"B.\n                 complement system",
+			"C.\n                 clonal selection",
+			"D.\n                 tolerance"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 2,
+		"question": "2. Which of the following components of the vertebrate immune response occurs first upon invasion by a virus or bacterium?",
+		"options": [
+			"A.\n                 Activation of killer T lymphocytes",
+			"B.\n                 Activation of B lymphocytes",
+			"C.\n                 The inflammatory response",
+			"D.\n                 Mobilization of complement proteins"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 3,
+		"question": "3. Which of the following white blood cells act as scavengers when they engulf and digest pathogens?",
+		"options": [
+			"A.\n                 Macrophages",
+			"B.\n                 T cells",
+			"C.\n                 B cells",
+			"D.\n                 Lymphocytes"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 4,
+		"question": "4. A cell which defends against body cells in which viruses are reproducing is",
+		"options": [
+			"A.\n                 Exotoxin",
+			"B.\n                 Cytotoxic T cell",
+			"C.\n                 Endotoxin",
+			"D.\n                 Suppressor T cell"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 5,
+		"question": "5. Which of the following is most likely to produce anaphylaxis in a susceptible individual?",
+		"options": [
+			"A.\n                 Pollen",
+			"B.\n                 Mold",
+			"C.\n                 Dust",
+			"D.\n                 Bee sting"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 6,
+		"question": "6. What type of B cell remains dormant in the body, but can respond rapidly if the same antigen appears again?",
+		"options": [
+			"A.\n                 T cells",
+			"B.\n                 Memory cells",
+			"C.\n                 Plasma cells",
+			"D.\n                 Macrophages"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 7,
+		"question": "7. The maturation of T cells and the production of particular T cell receptors occurs in the",
+		"options": [
+			"A.\n                 thyroid gland",
+			"B.\n                 thymus gland",
+			"C.\n                 testes",
+			"D.\n                 all of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 8,
+		"question": "8. Which of the following provide specific defense against viruses and bacteria?",
+		"options": [
+			"A.\n                 T cells",
+			"B.\n                 B cells",
+			"C.\n                 Complement",
+			"D.\n                 inflammation"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 9,
+		"question": "9. Which of these is a type of specific defense against pathogens?",
+		"options": [
+			"A.\n                 Lymphocytes",
+			"B.\n                 Macrophages",
+			"C.\n                 Phagocytes",
+			"D.\n                 Leukocytes"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 10,
+		"question": "10. In animals, blood clots serve the function of",
+		"options": [
+			"A.\n                 consuming invading organisms",
+			"B.\n                 helping them match the background coloration of the habitat",
+			"C.\n                 stimulating production of killer T lymphocytes",
+			"D.\n                 repairing damage to the body wall"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 11,
+		"question": "11. What is the result of invasion of a body by pathogens?",
+		"options": [
+			"A.\n                 Infection",
+			"B.\n                 Inflammation",
+			"C.\n                 Swelling",
+			"D.\n                 Pus"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 12,
+		"question": "12. What is the behavior in which T cells and B cells constantly travel throughout the body seeking out and destroying foreign substances?",
+		"options": [
+			"A.\n                 Antibody-mediated immune response",
+			"B.\n                 Immune surveillance",
+			"C.\n                 Cell-mediated immune response",
+			"D.\n                 Vaccination"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 13,
+		"question": "13. In a fetus, where are lymphocytes produced?",
+		"options": [
+			"A.\n                 In the spleen",
+			"B.\n                 In the bone marrow",
+			"C.\n                 In the liver",
+			"D.\n                 In the heart"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 14,
+		"question": "14. Which of the following produces the antibodies employed in the specific immune response of vertebrates?",
+		"options": [
+			"A.\n                 B lymphocytes",
+			"B.\n                 T lymphocytes",
+			"C.\n                 Neutrophils",
+			"D.\n                 Macrophages"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 15,
+		"question": "15. Which of the following is not part of the vertebrate immune system?",
+		"options": [
+			"A.\n                 Lymphocytes",
+			"B.\n                 Antibodies",
+			"C.\n                 Cardiac glycosides",
+			"D.\n                 Lymph nodes"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 16,
+		"question": "16. The protein, produced by B cells that binds to a specific antigen is",
+		"options": [
+			"A.\n                 phagocyte",
+			"B.\n                 leukocyte",
+			"C.\n                 vaccine",
+			"D.\n                 antibody"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 17,
+		"question": "17. Which of the following characteristics are common in lymphocytes, macrophages, and neutrophils?",
+		"options": [
+			"A.\n                 They are all part of the nonspecific immune response in vertebrates",
+			"B.\n                 They are all part of the specific immune response in vertebrates",
+			"C.\n                 They are all part of the internal defenses of nonvertebrates",
+			"D.\n                 They are all types of white blood cells"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 18,
+		"question": "18. Which of the following blood proteins can destroy pathogens?",
+		"options": [
+			"A.\n                 Major histocompatibility complex",
+			"B.\n                 Platelets",
+			"C.\n                 Fibrinogen",
+			"D.\n                 Complement system"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 19,
+		"question": "19. Which of these is part of the lymphoid system in humans?",
+		"options": [
+			"A.\n                 Liver",
+			"B.\n                 Stomach",
+			"C.\n                 Tonsils",
+			"D.\n                 Kidneys"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 20,
+		"question": "20. What type of B cell is like a tiny factory that produces antibodies identical to the B cell receptor that bind to the original antigen?",
+		"options": [
+			"A.\n                 T cells",
+			"B.\n                 Memory cells",
+			"C.\n                 Plasma cells",
+			"D.\n                 Macrophages"
+		],
+		"answer": "C"
+	}
+]

@@ -1,0 +1,376 @@
+[
+	{
+		"number": 1,
+		"question": "1. Which of these restriction enzymes produce blunt ends?",
+		"options": [
+			"A.\n                 SaII",
+			"B.\n                 EcoRV",
+			"C.\n                 XhoI",
+			"D.\n                 HindIII"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 2,
+		"question": "2. The RP13 gene of chromosome 17 codes for a protein __________ .",
+		"options": [
+			"A.\n                 involved in glucose transport",
+			"B.\n                 that is a component of hair and nails",
+			"C.\n                 involved in eye development",
+			"D.\n                 involved in the determination of personality"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 3,
+		"question": "3. Isoschizomers recognize",
+		"options": [
+			"A.\n                 same recognition sequence but different recognition site",
+			"B.\n                 same recognition site and recognition sequence",
+			"C.\n                 same recognition site and different recognition sequence",
+			"D.\n                 different recognition site and different recognition sequence"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 4,
+		"question": "4. Restriction enzymes are named for",
+		"options": [
+			"A.\n                 the person who discovered",
+			"B.\n                 the bacterium they are derived from",
+			"C.\n                 the viral DNA that they attack",
+			"D.\n                 none of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 5,
+		"question": "5. Which of these genes codes for a protein that plays a role in white blood cell function?",
+		"options": [
+			"A.\n                 DCP1",
+			"B.\n                 MPO",
+			"C.\n                 GLUT4",
+			"D.\n                 RP13"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 6,
+		"question": "6. When populations are small, gene frequencies can change from generation to generation and some alleles may become fixed in a population. This is called __________ .",
+		"options": [
+			"A.\n                 assortative mating",
+			"B.\n                 inbreeding",
+			"C.\n                 heterosis",
+			"D.\n                 genetic drift"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 7,
+		"question": "7. Which of the following is correct in terms of determination of location of genetic traits?",
+		"options": [
+			"A.\n                 Known protein coding sequences are too far apart to allow linkage determination for most new genes",
+			"B.\n                 Restriction sites allow DNAs to be digested",
+			"C.\n                 Protein-coding genes are always associated with a restriction pattern",
+			"D.\n                 None of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 8,
+		"question": "8. In gel electrophoresis, DNA molecules migrate from __________ to __________ ends of the gel.",
+		"options": [
+			"A.\n                 negative ... positive",
+			"B.\n                 basic ... acidic",
+			"C.\n                 long ... short",
+			"D.\n                 positive to negative"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 9,
+		"question": "9. Restriction enzymes",
+		"options": [
+			"A.\n                 protect bacteria from viral infection",
+			"B.\n                 cut DNA in a staggered fashion",
+			"C.\n                 cut DNAs producing a blunt end",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 10,
+		"question": "10. First discovered, Type II restriction endonuclease was",
+		"options": [
+			"A.\n                 Hinf I",
+			"B.\n                 Eco K",
+			"C.\n                 Hind II",
+			"D.\n                 EcoRI"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 11,
+		"question": "11. Which of the following techniques can be used to determine the defective gene and for developing cancer?",
+		"options": [
+			"A.\n                 Western blot",
+			"B.\n                 Southern blot",
+			"C.\n                 Northern blot",
+			"D.\n                 Eastern blot"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 12,
+		"question": "12. The transfer of antibiotic-resistant genes from genetically engineered bacteria to disease-causing bacteria __________ .",
+		"options": [
+			"A.\n                 would be of no concern if it occurred.",
+			"B.\n                 has occurred",
+			"C.\n                 can never occur",
+			"D.\n                 seems unlikely"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 13,
+		"question": "13. Both DNA gel electrophoresis and SDS-PAGE of proteins are similar because",
+		"options": [
+			"A.\n                 in both cases molecules migrate to the anode",
+			"B.\n                 both techniques rely on a constant charge to mass ratio",
+			"C.\n                 both techniques utilize the sieving properties of gels",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 14,
+		"question": "14. Some genetic diseases cannot be diagnosed by changes in restriction sites. Some of these can be detected by allele-specific oligonucleotide probes. These are",
+		"options": [
+			"A.\n                 copies of the gene with an altered sequence so that a restriction site is inserted",
+			"B.\n                 mutagenized copies of a gene",
+			"C.\n                 short sequences that will hybridize only to a specific base sequence",
+			"D.\n                 PCR-amplified variable numbers of tandem repeats (VNTRs)"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 15,
+		"question": "15. In order to insert a foreign gene into a plasmid, both must __________",
+		"options": [
+			"A.\n                 have identical DNA sequences",
+			"B.\n                 originate from the same type of cell",
+			"C.\n                 be cut by the same restriction enzyme",
+			"D.\n                 be of the same length"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 16,
+		"question": "16. Which of the following genetic diseases would be amenable to genetic engineering?",
+		"options": [
+			"A.\n                 Down's syndrome",
+			"B.\n                 Muscular dystrophy",
+			"C.\n                 Cystic fibrosis",
+			"D.\n                 Cri du Chat"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 17,
+		"question": "17. X-rays cause",
+		"options": [
+			"A.\n                 the formation of thymine dimers",
+			"B.\n                 ionization of water in the cell",
+			"C.\n                 heat",
+			"D.\n                 none of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 18,
+		"question": "18. The order for the construction of a cDNA fragment from mRNA is to",
+		"options": [
+			"A.\n                 bind oligo-dT, treat with reverse transcriptase, digest with RNase, add G residues to the 3' end, bind oligo-dC, treat with DNA polymerase",
+			"B.\n                 treat with reverse transcriptase, digest with RNase, add G residues to the 3' end, bind oligo-dC, treat with DNA polymerase and bind oligo-dT",
+			"C.\n                 digest with RNase, add G residues to the 3' end, treat with reverse transcriptase, add G residues to the 3' end and treat with DNA polymerase",
+			"D.\n                 bind oligo-dC, treat with reverse transcriptase, digest with RNase, add G residues to the 3' end, bind oligo-dT and treat with DNA polymerase"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 19,
+		"question": "19. The TP53 gene of chromosome 17 codes for a protein __________ .",
+		"options": [
+			"A.\n                 that plays a role in the digestive process",
+			"B.\n                 involved in glucose transport",
+			"C.\n                 involved in the regulation of the cell cycle",
+			"D.\n                 that is like a white blood cell protein"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 20,
+		"question": "20. Why is golden rice pale yellow in color?",
+		"options": [
+			"A.\n                 It is rich in chlorophyll a.",
+			"B.\n                 It is rich in beta-carotene.",
+			"C.\n                 It is rich in chlorophyll b.",
+			"D.\n                 It is rich in phycobilins."
+		],
+		"answer": "B"
+	},
+	{
+		"number": 21,
+		"question": "21. Which type of restriction enzymes do not usually require ATP?",
+		"options": [
+			"A.\n                 Type I",
+			"B.\n                 Type II",
+			"C.\n                 Type III",
+			"D.\n                 Type IV"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 22,
+		"question": "22. An example of a restriction fragment length polymorphism is",
+		"options": [
+			"A.\n                 an Eco RI cuts DNA at a different sequence than Hind III",
+			"B.\n                 different length fragments of DNA resulting from loss or gain of a restriction site",
+			"C.\n                 cystic fibrosis results from a three base deletion in most cases but in other cases, other mutations are involved",
+			"D.\n                 all of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 23,
+		"question": "23. Knockout mice are created by",
+		"options": [
+			"A.\n                 mutagenizing a mouse and selecting for mutant offspring",
+			"B.\n                 creating a chimera by fusing cells from two different cell lines",
+			"C.\n                 infecting the mouse with a retrovirus",
+			"D.\n                 transfecting embryonic stem cells with an altered gene sequence"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 24,
+		"question": "24. A plasmid",
+		"options": [
+			"A.\n                 is a circular DNA molecule",
+			"B.\n                 always contains an origin of replication",
+			"C.\n                 usually contains one or more restriction sites",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 25,
+		"question": "25. Under which of the following conditions would population gene frequencies remain the same?",
+		"options": [
+			"A.\n                 Selection for homozygotes",
+			"B.\n                 Small population size",
+			"C.\n                 Active migration between groups",
+			"D.\n                 Random mating"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 26,
+		"question": "26. Plant transformation can be obtained by",
+		"options": [
+			"A.\n                 combining plant and animal cells in culture",
+			"B.\n                 shooting DNA into plant cells with a gun",
+			"C.\n                 using the E. coli bacterium to infect plant roots",
+			"D.\n                 infecting plants with a tobacco mosaic virus"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 27,
+		"question": "27. An expression vector",
+		"options": [
+			"A.\n                 always contains an origin of replication",
+			"B.\n                 usually contains a gene that confers antibiotic resistance to the bacterial host",
+			"C.\n                 always contains DNA segments for the regulation of mRNA production",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 28,
+		"question": "28. The unpaired nucleotides produced by the action of restriction enzymes are referred to have",
+		"options": [
+			"A.\n                 sticky ends",
+			"B.\n                 single strands",
+			"C.\n                 restriction fragments",
+			"D.\n                 ligases"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 29,
+		"question": "29. Which of the following is not true of small inbreeding populations?",
+		"options": [
+			"A.\n                 They tend to loose genetic diversity",
+			"B.\n                 There is an increased incidence of recessive diseases",
+			"C.\n                 Alleles may become fixed",
+			"D.\n                 Mutation is increased"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 30,
+		"question": "30. Which of these genes codes for a protein that plays a role in growth?",
+		"options": [
+			"A.\n                 DCP1",
+			"B.\n                 SCLC6A4",
+			"C.\n                 KRTHA1",
+			"D.\n                 GH1"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 31,
+		"question": "31. Which of the following pair will produce complementary sticky ends?",
+		"options": [
+			"A.\n                 Eco RI & MspI",
+			"B.\n                 Msp I & HPA II",
+			"C.\n                 Sau 3A & Bam HI",
+			"D.\n                 Mbo I & Sau 3A"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 32,
+		"question": "32. A human cDNA library",
+		"options": [
+			"A.\n                 contains DNA for specific human proteins",
+			"B.\n                 contains DNA for virtually all of the human proteins in vectors",
+			"C.\n                 cannot be used to obtain human genes because it would be radioactive",
+			"D.\n                 none of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 33,
+		"question": "33. What enzyme forms covalent bonds between restriction fragments?",
+		"options": [
+			"A.\n                 DNA primase",
+			"B.\n                 DNA helicase",
+			"C.\n                 DNA polymerase",
+			"D.\n                 DNA ligase"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 34,
+		"question": "34. Which of the following can be diagnosed by amniocentesis?",
+		"options": [
+			"A.\n                 Down's syndrome",
+			"B.\n                 Cystic Fibrosis",
+			"C.\n                 Sickle cell anemia",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	}
+]

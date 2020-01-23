@@ -1,0 +1,123 @@
+[
+	{
+		"number": 1,
+		"question": "1. The conformational changes from the T to the R state is initiated by",
+		"options": [
+			"A.\n                 binding of oxygen to the heme",
+			"B.\n                 movement of the proximal histidine towards the heme",
+			"C.\n                 movement of the F-helix, which contains the proximal His",
+			"D.\n                 reorganization of protein-protein contacts between the individual subunits"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 2,
+		"question": "2. An allosteric activator",
+		"options": [
+			"A.\n                 increases the binding affinity",
+			"B.\n                 decreases the binding affinity",
+			"C.\n                 stabilizes the R state of the protein",
+			"D.\n                 both (a) and (c)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 3,
+		"question": "3. Bisphosphoglycerate (BPG) cannot bind to the oxygenated R state of hemoglobin because",
+		"options": [
+			"A.\n                 it is displaced from the heme by oxygen",
+			"B.\n                 it is displaced from the heme by movement of the proximal histidine",
+			"C.\n                 its binding pocket becomes too small to accommodate BPG",
+			"D.\n                 BPG binds to the R state with the same affinity as the T state"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 4,
+		"question": "4. The Hill coefficient (nH) for myoglobin and hemoglobin are respectively",
+		"options": [
+			"A.\n                 2.8 and 1.0",
+			"B.\n                 1.0 and 2.8",
+			"C.\n                 1.2 and 4.5",
+			"D.\n                 4.5 and 1.2"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 5,
+		"question": "5. When protein binds two ligands in a non-cooperative manner, then the x-intercept of the Scatchard Plot is",
+		"options": [
+			"A.\n                 1",
+			"B.\n                 2",
+			"C.\n                 not defined",
+			"D.\n                 none of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 6,
+		"question": "6. O2 binding to hemoglobin results in",
+		"options": [
+			"A.\n                 100-fold higher affinity for the last O2 bound than for the first",
+			"B.\n                 extensive protein conformational change",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 100-fold lower affinity for the last O2 bound than for the first"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 7,
+		"question": "7. In hemoglobin, allosteric effects occur",
+		"options": [
+			"A.\n                 only in humans",
+			"B.\n                 for maintaining Fe in the Fe2+ state",
+			"C.\n                 to minimize oxygen delivery to the tissues",
+			"D.\n                 to maximize oxygen delivery to the tissues"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 8,
+		"question": "8. A protein that binds two ligands in a non-cooperative manner will show",
+		"options": [
+			"A.\n                 a sigmodial binding curve",
+			"B.\n                 a hyperbolic binding curve",
+			"C.\n                 a linear Scatchard Plot",
+			"D.\n                 both (b) and (c)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 9,
+		"question": "9. Small molecules affect hemoglobin (Hb) by",
+		"options": [
+			"A.\n                 decreasing Hb affinity for O2",
+			"B.\n                 increasing [H+]",
+			"C.\n                 increasing Hb affinity for O2",
+			"D.\n                 increasing [H+] and decreasing Hb affinity for O2"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 10,
+		"question": "10. A protein that shows infinite cooperative for binding of n ligands will",
+		"options": [
+			"A.\n                 show a Hill coefficient (nH) of 0.0",
+			"B.\n                 only be found in either the unliganded form or the fully liganded form",
+			"C.\n                 show a Hill coefficient (nH) of n",
+			"D.\n                 both (b) and (c)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 11,
+		"question": "11. The specificity of a ligand binding site on a protein is based on",
+		"options": [
+			"A.\n                 the absence of competing ligands",
+			"B.\n                 the amino acid residues lining the binding site",
+			"C.\n                 the presence of hydrating water molecules",
+			"D.\n                 the opposite chirality of the binding ligand"
+		],
+		"answer": "B"
+	}
+]

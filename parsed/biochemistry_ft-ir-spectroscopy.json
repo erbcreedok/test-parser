@@ -1,0 +1,178 @@
+[
+	{
+		"number": 1,
+		"question": "1. Which of the following is the basis of first dimension of separation for two-dimensional electrophoresis?",
+		"options": [
+			"A.\n                 Molecular mass",
+			"B.\n                 Solubility",
+			"C.\n                 Isoelectric point",
+			"D.\n                 Folding"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 2,
+		"question": "2. What is meant by rotating frame of reference?",
+		"options": [
+			"A.\n                 That the sample is spun rapidly in the applied field",
+			"B.\n                 If the laboratory itself is imagined to be rotated at the Larmor frequency, viewing that individual magnetic moment vectors are fixed in space",
+			"C.\n                 That the detector rotates around the sample",
+			"D.\n                 None of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 3,
+		"question": "3. The sequence of amino acids in proteins can be determined by means of",
+		"options": [
+			"A.\n                 identification of the -NH2 terminal amino acids",
+			"B.\n                 identification of the -COOH terminal amino acids",
+			"C.\n                 partial cleavage of the original polypeptide into smaller polypeptides",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 4,
+		"question": "4. Why is it advantageous to record many FID signals from the same sample and then add them together?",
+		"options": [
+			"A.\n                 To ensure that all target nuclei in the sample have been excited",
+			"B.\n                 To remove inaccuracies caused by fluctuations in the applied magnetic field",
+			"C.\n                 To increase sensitivity",
+			"D.\n                 None of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 5,
+		"question": "5. In FT-NMR, how are nuclei excited?",
+		"options": [
+			"A.\n                 By radio-frequency radiation whose frequency is swept across a predetermined range",
+			"B.\n                 By an intense pulse of radiation which contains a wide range of frequencies",
+			"C.\n                 By an intense pressure",
+			"D.\n                 None of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. What is the name given to the relaxation process due to an interaction between an excited nucleus and the magnetic fields caused by nuclei in molecules moving around in the sample?",
+		"options": [
+			"A.\n                 Spin - lattice relaxation",
+			"B.\n                 Spin - spin relaxation",
+			"C.\n                 Spin - spin - spin relaxation",
+			"D.\n                 None of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. Cytochrome C has an isoelectric pH of",
+		"options": [
+			"A.\n                 8.5",
+			"B.\n                 10.05",
+			"C.\n                 7.5",
+			"D.\n                 11.05"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 8,
+		"question": "8. What does the Michelson interferometer do?",
+		"options": [
+			"A.\n                 Split a polychromatic beam of radiation into its component wavelengths",
+			"B.\n                 Selectively filter certain wavelengths from a beam of I.R. radiation",
+			"C.\n                 Modulate the I.R. signal at a lower frequency, so that it can be observed by a detector",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 9,
+		"question": "9. In scanning electron microscopy",
+		"options": [
+			"A.\n                 a specimen is fixed and then coated with thin layer of a heavy metal",
+			"B.\n                 a specimen is fixed and then coated with transition metal",
+			"C.\n                 a specimen is not fixed and then coated with thin layer of a heavy metal",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 10,
+		"question": "10. The frequency of precession, the transition frequency and the Larmor frequency are",
+		"options": [
+			"A.\n                 different terms for the same frequency",
+			"B.\n                 same terms for the same frequency",
+			"C.\n                 different terms for the different frequency",
+			"D.\n                 same terms for the different frequency"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 11,
+		"question": "11. How do you turn a signal recorded in the time domain into a frequency domain signal?",
+		"options": [
+			"A.\n                 Fourier transformation",
+			"B.\n                 Measurement of peak areas",
+			"C.\n                 By use of a Michelson interferometer",
+			"D.\n                 None of  the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 12,
+		"question": "12. How many possible orientations do spin 1/2 nuclei have when they are located in an applied magnetic field?",
+		"options": [
+			"A.\n                 2",
+			"B.\n                 4",
+			"C.\n                 3",
+			"D.\n                 6"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 13,
+		"question": "13. In immunofluroscence microscopy, fluroscent compounds are attached to",
+		"options": [
+			"A.\n                 an antibody specific for the subcellular structure",
+			"B.\n                 an antigen specific for the subcellular structure",
+			"C.\n                 bound antibody specific for the subcellular structure",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 14,
+		"question": "14. An FT-IR instrument record a signal in the",
+		"options": [
+			"A.\n                 time domain",
+			"B.\n                 frequency domain",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 15,
+		"question": "15. When radiation energy is absorbed by a spin 1/2 nucleus in a magnetic field, what happens?",
+		"options": [
+			"A.\n                 The processional frequency of the nucleus increases",
+			"B.\n                 The nucleus spins faster",
+			"C.\n                 The angle of precession flips so that the magnetic moment of the nucleus opposes the applied field",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 16,
+		"question": "16. Negative staining is a technique used in",
+		"options": [
+			"A.\n                 electron microscopy",
+			"B.\n                 gel electrophoresis",
+			"C.\n                 immunocytochemistry",
+			"D.\n                 light microscopy"
+		],
+		"answer": "A"
+	}
+]

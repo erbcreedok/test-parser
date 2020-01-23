@@ -1,0 +1,178 @@
+[
+	{
+		"number": 1,
+		"question": "1. Molar absorbtivities of compounds exhibiting charge transfer absorption are",
+		"options": [
+			"A.\n                 small",
+			"B.\n                 moderate",
+			"C.\n                 large",
+			"D.\n                 none of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 2,
+		"question": "2. Molar absorbtivity is the measure of the",
+		"options": [
+			"A.\n                 amount of light absorbed per unit length",
+			"B.\n                 amount of light absorbed per unit concentration",
+			"C.\n                 amount of light reflected and absorbed per unit concentration",
+			"D.\n                 None of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 3,
+		"question": "3. Which of the following relationships between absorbance and %transmittance is incorrect?",
+		"options": [
+			"A.\n                 A = log10 100 / %T",
+			"B.\n                 A = 2 - log10 %T",
+			"C.\n                 A = log10 1 / T",
+			"D.\n                 All are correct"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 4,
+		"question": "4. Why is it generally preferable to use absorbance as a measure of absorption rather than % transmittance?",
+		"options": [
+			"A.\n                 Because %T cannot be measured as accurately as absorbance",
+			"B.\n                 Because %T is dependant on the power of the incident radiation",
+			"C.\n                 Because absorbance is proportional to the concentration of the analyte, whereas %T is not",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 5,
+		"question": "5. In the past, IR spectra had to be aquired one wavelength at a time, which took a long time. Today quick spectra is due to the",
+		"options": [
+			"A.\n                 the Fourier Transfer Algorithm allows us to scan all frequencies at once",
+			"B.\n                 light is faster today that it used to be",
+			"C.\n                 absence of broad spectrum of wavelenth",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. Which of the following is not an IR vibrational mode?",
+		"options": [
+			"A.\n                 Stretching",
+			"B.\n                 Scissoring",
+			"C.\n                 Rocking",
+			"D.\n                 Rolling"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 7,
+		"question": "7. Which of the following will oscillate the fastest?",
+		"options": [
+			"A.\n                 A large mass on a weak spring",
+			"B.\n                 A large mass on a stiff spring",
+			"C.\n                 A small mass on a stiff spring",
+			"D.\n                 A small mass on a weak spring"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 8,
+		"question": "8. In the equation, A = ε bc, what quantity is represented by \"ε\"?",
+		"options": [
+			"A.\n                 Absorbtivity",
+			"B.\n                 Molar absorbtivity",
+			"C.\n                 Path length",
+			"D.\n                 None of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 9,
+		"question": "9. Why must the voltage supplied to a tungsten lamp be very stable?",
+		"options": [
+			"A.\n                 Because if it wasn't, the lamp would bum out",
+			"B.\n                 Because amount of energy the lamp emits is proportional to the fourth power of the operating voltage",
+			"C.\n                 Because the lamp will only function at a specific voltage",
+			"D.\n                 All of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 10,
+		"question": "10. Where does a carbonyl (C=0) stretch appear in an IR spectrum?",
+		"options": [
+			"A.\n                 1740-1720",
+			"B.\n                 1870-1650",
+			"C.\n                 3640-3250",
+			"D.\n                 160-110"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 11,
+		"question": "11. Which of the following components of a monochromator is the dispersing element?",
+		"options": [
+			"A.\n                 The collimating lens",
+			"B.\n                 The entrance slit",
+			"C.\n                 The diffraction grating",
+			"D.\n                 None of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 12,
+		"question": "12. A simple harmonic oscillator may absorb energy",
+		"options": [
+			"A.\n                 at anytime.",
+			"B.\n                 when the frequencies match exactly",
+			"C.\n                 when the amplitudes are the same.",
+			"D.\n                 at no time."
+		],
+		"answer": "B"
+	},
+	{
+		"number": 13,
+		"question": "13. UV-Vis spectroscopy of organic compounds is usually concerned with which electronic transition(s)?",
+		"options": [
+			"A.\n                 σ → σ*",
+			"B.\n                 n → σ*",
+			"C.\n                 n → π* and π → π*",
+			"D.\n                 none of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 14,
+		"question": "14. Vibrational spectroscopy is",
+		"options": [
+			"A.\n                 a large mass on a weak spring",
+			"B.\n                 a flashlight through a prism and shake it",
+			"C.\n                 a class of spectroscopic techniques which analyzes molecular motions",
+			"D.\n                 an Infrared spectroscopy"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 15,
+		"question": "15. Why are rotational transitions of little use to a spectroscopist?",
+		"options": [
+			"A.\n                 Because the energy required to induce a rotational transition is so small that it cannot be measured",
+			"B.\n                 Because rotational transitions are extremely rare",
+			"C.\n                 Because, in liquids and solids, spectral lines corresponding to rotational transitions are broadened as the result of molecular collisions and other interactions",
+			"D.\n                 All of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 16,
+		"question": "16. Beer's Law states that",
+		"options": [
+			"A.\n                 absorbance is proportional to both the path length and concentration of the absorbing species",
+			"B.\n                 absorbance is proportional to the log of the concentration of the absorbing species",
+			"C.\n                 absorbance is equal to P0 / P",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	}
+]

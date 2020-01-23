@@ -1,0 +1,288 @@
+[
+	{
+		"number": 1,
+		"question": "1. Which of the following is not used for detection in GC?",
+		"options": [
+			"A.\n                 Infrared spectroscopy",
+			"B.\n                 NMR",
+			"C.\n                 Flame ionisation",
+			"D.\n                 Electrical conductivity"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 2,
+		"question": "2. Which of these effects result from slow injection of a large sample volume?",
+		"options": [
+			"A.\n                 Increased resolution",
+			"B.\n                 Decreased resolution",
+			"C.\n                 Non-linear detector response",
+			"D.\n                 Constant resolution"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 3,
+		"question": "3. The GC trace obtained after an experiment is called a",
+		"options": [
+			"A.\n                 chromatograph",
+			"B.\n                 chromatogram",
+			"C.\n                 chromatophore",
+			"D.\n                 graph"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 4,
+		"question": "4. Which of the following detectors give concentration-dependent signals?",
+		"options": [
+			"A.\n                 Electron-capture detector",
+			"B.\n                 Thermal conductivity",
+			"C.\n                 Infra-red detector",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 5,
+		"question": "5. What useful information can be found from a Van Deemter plot?",
+		"options": [
+			"A.\n                 The selectivity factor",
+			"B.\n                 Optimum mobile phase flow rate",
+			"C.\n                 Optimum column temperature",
+			"D.\n                 Optimum column length"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 6,
+		"question": "6. What is the typical internal diameter of fused silica capillary columns?",
+		"options": [
+			"A.\n                 0.2-0.3 mm",
+			"B.\n                 0.3-0.5mm",
+			"C.\n                 0.5-1.0 mm",
+			"D.\n                 1.0-2.0 mm"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. Resolution is proportional to the",
+		"options": [
+			"A.\n                 number of theoretical plates in a column",
+			"B.\n                 square root of the number of theoretical plates in a column",
+			"C.\n                 square of the number of theoretical plates in a column",
+			"D.\n                 cube root of the number of theoretical plates in a column"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 8,
+		"question": "8. Derivatisation of a sample is carried out to",
+		"options": [
+			"A.\n                 reduce polarity of the analytes",
+			"B.\n                 increase the detector response",
+			"C.\n                 increase volatility of the analytes",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 9,
+		"question": "9. Which of the statements is correct?",
+		"options": [
+			"A.\n                 Gas chromatography is used to analyse gases",
+			"B.\n                 Gas chromatography is used to analyse solids",
+			"C.\n                 Gas chromatography is used to analyse gases, solutions and solids",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 10,
+		"question": "10. In column switching chromatography",
+		"options": [
+			"A.\n                 compounds trapped on one column are eluted to another column",
+			"B.\n                 one column is removed and replaced by another",
+			"C.\n                 the flow to the column is switched on and off repeatedly",
+			"D.\n                 any of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 11,
+		"question": "11. A retention gap is placed between the injector and the front of the column to",
+		"options": [
+			"A.\n                 retain contaminants and prevent them from reaching the column",
+			"B.\n                 retain the sample and release it gradually to the column",
+			"C.\n                 prevent backflush of the injected solution",
+			"D.\n                 all of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 12,
+		"question": "12. Which of the following detectors give mass flow-dependent signals?",
+		"options": [
+			"A.\n                 Electron capture detector",
+			"B.\n                 Field ionisation detector",
+			"C.\n                 Thermal conductivity detector",
+			"D.\n                 All of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 13,
+		"question": "13. Headspace analysis is carried out in order to",
+		"options": [
+			"A.\n                 analyse volatile compounds from solid or liquid samples",
+			"B.\n                 determine the psychological state of the tutor",
+			"C.\n                 analyse the column contents ahead of the sample",
+			"D.\n                 determine non-volatiles"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 14,
+		"question": "14. Split injection is carried out by",
+		"options": [
+			"A.\n                 splitting the sample into smaller portions to inject sequentially",
+			"B.\n                 splitting the sample into smaller portions to inject at the same time through parallel ports",
+			"C.\n                 splitting off some of the sample so that it does not enter the column",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 15,
+		"question": "15. What does the retention factor, k', describe?",
+		"options": [
+			"A.\n                 The distribution of an analyte between the stationary and the mobile phase",
+			"B.\n                 The migration rate of an analyte through a column",
+			"C.\n                 The velocity of the mobile phase",
+			"D.\n                 All of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 16,
+		"question": "16. Theoretical plates are used to",
+		"options": [
+			"A.\n                 estimate the efficiency of a column",
+			"B.\n                 determine the thickness of the stationary phase",
+			"C.\n                 measure the distribution of the analyte between mobile and stationary phases",
+			"D.\n                 None of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 17,
+		"question": "17. What does the selectivity factor describe?",
+		"options": [
+			"A.\n                 The proportional difference in widths of two chromatographic peaks",
+			"B.\n                 The maximum number of different species which a column can separate simultaneously",
+			"C.\n                 The relative separation achieved between two species",
+			"D.\n                 None of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 18,
+		"question": "18. Helium is generally preferred as carrier gas over nitrogen and hydrogen because",
+		"options": [
+			"A.\n                 it is inert",
+			"B.\n                 it has a lower viscosity",
+			"C.\n                 it doubles up as a party gas for balloons and funny voices",
+			"D.\n                 all of above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 19,
+		"question": "19. The column is heated to",
+		"options": [
+			"A.\n                 prevent analyte condensation within the column",
+			"B.\n                 control elution of the different analytes",
+			"C.\n                 reduce band broadening to get sharper peaks",
+			"D.\n                 all of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 20,
+		"question": "20. What are the benefits of decreasing the column internal diameter?",
+		"options": [
+			"A.\n                 Increased sample capacity",
+			"B.\n                 Increased resolution",
+			"C.\n                 Reduced risk of column overloading",
+			"D.\n                 All of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 21,
+		"question": "21. Sample retention in the column is measured by",
+		"options": [
+			"A.\n                 retention time",
+			"B.\n                 retention factor",
+			"C.\n                 retention index",
+			"D.\n                 all of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 22,
+		"question": "22. Column bleeding occurs when",
+		"options": [
+			"A.\n                 elution of the analyte is extended over time",
+			"B.\n                 the column is cracked and stationary phase leaks out",
+			"C.\n                 traces of the stationary phase are eluted",
+			"D.\n                 the column breaks during installation and causes personal injury"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 23,
+		"question": "23. Which of the following are not used as stationary phases in a GC column?",
+		"options": [
+			"A.\n                 Polysiloxanes",
+			"B.\n                 Silica",
+			"C.\n                 Cyclodextrins",
+			"D.\n                 None are used as stationary phases"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 24,
+		"question": "24. Doubling the column's length increases resolution by a factor of",
+		"options": [
+			"A.\n                 (2)0.5",
+			"B.\n                 2",
+			"C.\n                 3",
+			"D.\n                 4"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 25,
+		"question": "25. Sample injection is considered successful if",
+		"options": [
+			"A.\n                 all of the sample in the injector has been added to the column",
+			"B.\n                 the sample is concentrated at the start of the column",
+			"C.\n                 the sample is spread evenly along the column",
+			"D.\n                 the sample is homogenously spread along the column"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 26,
+		"question": "26. Which of the following gases is unsuitable for use as a GC carrier gas?",
+		"options": [
+			"A.\n                 Nitrogen",
+			"B.\n                 Helium",
+			"C.\n                 Oxygen",
+			"D.\n                 All of the above"
+		],
+		"answer": "C"
+	}
+]

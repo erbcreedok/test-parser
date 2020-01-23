@@ -1,0 +1,123 @@
+[
+	{
+		"number": 1,
+		"question": "1. Beta pleated sheets are examples of protein's",
+		"options": [
+			"A.\n                 primary structure",
+			"B.\n                 secondary structure",
+			"C.\n                 tertiary structure",
+			"D.\n                 quaternary structure"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 2,
+		"question": "2. BRACl, an inherited form of breast cancer, regulates cell division by",
+		"options": [
+			"A.\n                 binding to a DNA sequence",
+			"B.\n                 complexing with cyclins",
+			"C.\n                 binding to the cell outer membrane",
+			"D.\n                 binding to the protein RAD 51 which repairs DNA damage"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 3,
+		"question": "3. Metastasis involves",
+		"options": [
+			"A.\n                 ability of cells to dissolve cellular matrix",
+			"B.\n                 metalloprotein levels",
+			"C.\n                 decreased levels of proteins that regulate metalloproteins",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 4,
+		"question": "4. Signal sequences are part of a protein that",
+		"options": [
+			"A.\n                 signal folding of the protein",
+			"B.\n                 signal the protein synthesis on the ribosomes is ended",
+			"C.\n                 transport proteins to other sites within the cell",
+			"D.\n                 refold proteins in prion-associated diseases"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 5,
+		"question": "5. Individuals with PKU disease are mentally retarded unless",
+		"options": [
+			"A.\n                 phenylalanine in the diet is restricted",
+			"B.\n                 tyrosine in the diet is restricted",
+			"C.\n                 homogentisic acid in the diet is restricted",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. Marfan's syndrome is thought to be a mutation affecting",
+		"options": [
+			"A.\n                 hemoglobin synthesis",
+			"B.\n                 collagen synthesis",
+			"C.\n                 metabolism of homogentisic acid",
+			"D.\n                 insufficient thyroid production"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 7,
+		"question": "7. Cyclins are proteins that",
+		"options": [
+			"A.\n                 regulate ability of cells to invade tissue",
+			"B.\n                 regulate passage from one stage of cell division to another",
+			"C.\n                 regulate apoptosis of damaged cells",
+			"D.\n                 none of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 8,
+		"question": "8. Over 50% of common cancers are associated with damage to a protein, p53. This protein",
+		"options": [
+			"A.\n                 is a cyclin",
+			"B.\n                 is a tumor supressor",
+			"C.\n                 is an oncogene",
+			"D.\n                 regulates apoptosis"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 9,
+		"question": "9. Protein folding is",
+		"options": [
+			"A.\n                 automatic, mediated by the protein itself",
+			"B.\n                 mediated by other proteins called chaperones",
+			"C.\n                 mediated by the ribosomes",
+			"D.\n                 none of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 10,
+		"question": "10. Sickle cell disease is due to",
+		"options": [
+			"A.\n                 a mutation in the beta chain of Hb",
+			"B.\n                 a mutation in the alpha chain of Hb",
+			"C.\n                 infection with a parasite",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 11,
+		"question": "11. The four subunits of the hemoglobin (Hb) gene represent protein's",
+		"options": [
+			"A.\n                 primary structure",
+			"B.\n                 secondary structure",
+			"C.\n                 tertiary structure",
+			"D.\n                 quaternary structure"
+		],
+		"answer": "D"
+	}
+]

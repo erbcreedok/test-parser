@@ -1,0 +1,497 @@
+[
+	{
+		"number": 1,
+		"question": "1. The symptoms of retinol excess are",
+		"options": [
+			"A.\n                 bone fragility",
+			"B.\n                 nausea",
+			"C.\n                 weakness",
+			"D.\n                 all of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 2,
+		"question": "2. Main function of insulin hormone is to",
+		"options": [
+			"A.\n                 increase glycogen in liver",
+			"B.\n                 decrease glycogen in liver",
+			"C.\n                 increase blood sugar",
+			"D.\n                 decrease blood sugar"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 3,
+		"question": "3. Ascorbic acid acts as an",
+		"options": [
+			"A.\n                 reducing agent",
+			"B.\n                 oxidizing agent",
+			"C.\n                 oxidizing and reducing agent both",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 4,
+		"question": "4. A deficiency of thiamin produces the disease known as",
+		"options": [
+			"A.\n                 beri-beri",
+			"B.\n                 scurvy",
+			"C.\n                 cataract",
+			"D.\n                 anemia"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 5,
+		"question": "5. Acyl carrier protein (ACP) plays an important role in the biosynthesis of",
+		"options": [
+			"A.\n                 fatty acids",
+			"B.\n                 amino acids",
+			"C.\n                 sugars",
+			"D.\n                 carbohydrates"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. Vitamin B12 (Cobalamin) is only synthesized by",
+		"options": [
+			"A.\n                 fishes",
+			"B.\n                 micro-organisms",
+			"C.\n                 plants",
+			"D.\n                 animals"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 7,
+		"question": "7. Which of the following are reduced coenzymes?",
+		"options": [
+			"A.\n                 NADH and FADH2",
+			"B.\n                 NAD+ and FAD",
+			"C.\n                 ATP and GTP",
+			"D.\n                 Coenzyme A and ubiquinone"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 8,
+		"question": "8. The absence of ascorbic acid in the human diet gives rise to",
+		"options": [
+			"A.\n                 rickets",
+			"B.\n                 pernicious anemia",
+			"C.\n                 cataract",
+			"D.\n                 beri-beri"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 9,
+		"question": "9. Vitamins are essential because the organism",
+		"options": [
+			"A.\n                 can't synthesize these compounds at all",
+			"B.\n                 can synthesize these compounds partially",
+			"C.\n                 can't synthesize these compounds in the adequate amounts",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 10,
+		"question": "10. The prosthetic group biotin is a carrier of which type of molecule?",
+		"options": [
+			"A.\n                 Activated carbon dioxide (CO2)",
+			"B.\n                 Ammonia",
+			"C.\n                 Methyl group",
+			"D.\n                 Sulfhydryl group"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 11,
+		"question": "11. Lipoic acid exists in",
+		"options": [
+			"A.\n                 oxidized form",
+			"B.\n                 reduced form",
+			"C.\n                 oxidized and reduced form both",
+			"D.\n                 none of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 12,
+		"question": "12. Vitamin B12 is useful in the prevention and treatment of",
+		"options": [
+			"A.\n                 pernicious anemia",
+			"B.\n                 scurvy",
+			"C.\n                 cataract",
+			"D.\n                 beri-beri"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 13,
+		"question": "13. An example of a digestive hormone is",
+		"options": [
+			"A.\n                 lipase",
+			"B.\n                 pepsin",
+			"C.\n                 amylase",
+			"D.\n                 gastrin"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 14,
+		"question": "14. In the co-enzyme B12the position occupied by a cyanide ion in vitamin B12 is bonded directly to the __________ of the ribose of adenosine.",
+		"options": [
+			"A.\n                 adenine",
+			"B.\n                 5-6 dimethylbenzimidazole",
+			"C.\n                 hydroxycobalamin",
+			"D.\n                 cyanocobalamin"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 15,
+		"question": "15. The reductant, NADH, transfers the electrons via a flavo-proteins to the specific disulfide (S-S) protein to form a dithiol (SH,SH) protein which converts vitamin",
+		"options": [
+			"A.\n                 B12(Co2+)to B12(Co)",
+			"B.\n                 B12(Co) to B12(Co2+)",
+			"C.\n                 B12(Co2+)to B12(Co+)",
+			"D.\n                 B12(Co+)to B12(Co2+)"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 16,
+		"question": "16. An early sign of retinol deficiencies in man is",
+		"options": [
+			"A.\n                 night blindness",
+			"B.\n                 keratinization",
+			"C.\n                 xeropthalmia",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 17,
+		"question": "17. An enzyme, L-folate reductase reduces folic acid to",
+		"options": [
+			"A.\n                 hydrofolic acid",
+			"B.\n                 dihydrofolic acid",
+			"C.\n                 trihydrofolic acid",
+			"D.\n                 tetrahydrofolic acid"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 18,
+		"question": "18. What compound of raw egg white causes a syndrome similar to vitamin B deficiency?",
+		"options": [
+			"A.\n                 Avidin",
+			"B.\n                 Betabindin",
+			"C.\n                 Ovalbumin",
+			"D.\n                 Albumin"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 19,
+		"question": "19. The disease Beriberi is due to a dietary deficiency in",
+		"options": [
+			"A.\n                 vitamin B1 (thiamine)",
+			"B.\n                 vitamin B2 (riboflavin)",
+			"C.\n                 vitamin B6 (pyridoxine)",
+			"D.\n                 vitamin B12"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 20,
+		"question": "20. Which of these is a symptom of vitamin A deficiency?",
+		"options": [
+			"A.\n                 Osteoporosis",
+			"B.\n                 Impaired taste perception",
+			"C.\n                 Blindness",
+			"D.\n                 Impaired blood clotting"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 21,
+		"question": "21. Vitamin-C is considered as a",
+		"options": [
+			"A.\n                 water soluble",
+			"B.\n                 fat soluble",
+			"C.\n                 fat and water soluble",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 22,
+		"question": "22. The vitamin niacin is part of the __________ molecule.",
+		"options": [
+			"A.\n                 ferredoxin",
+			"B.\n                 pyridoxal phosphate",
+			"C.\n                 pyrophosphate",
+			"D.\n                 NAD+"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 23,
+		"question": "23. Which of these hormones is a catecholamine?",
+		"options": [
+			"A.\n                 Follitropin",
+			"B.\n                 Norepinephrine",
+			"C.\n                 Tetraiodothyronine",
+			"D.\n                 Tetrahydrofolate"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 24,
+		"question": "24. Dihydroorotate dehydrogenase contains",
+		"options": [
+			"A.\n                 4 flavins and 4 atoms of iron per molecule",
+			"B.\n                 2 flavins and 4 atoms of iron per molecule",
+			"C.\n                 2 flavins and 2 atoms of iron per molecule",
+			"D.\n                 4 flavins and 2 atoms of iron per molecule"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 25,
+		"question": "25. E.coli ACP has its molecular weight as around",
+		"options": [
+			"A.\n                 9000",
+			"B.\n                 19000",
+			"C.\n                 39000",
+			"D.\n                 90,000"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 26,
+		"question": "26. The vitamin riboflavin is part of the __________ molecule.",
+		"options": [
+			"A.\n                 ferredoxin",
+			"B.\n                 FAD",
+			"C.\n                 pyridoxal phosphat",
+			"D.\n                 pyrophosphate"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 27,
+		"question": "27. The most prominent role that tocopherol has in in-vitro systems is as a strong",
+		"options": [
+			"A.\n                 antioxidants",
+			"B.\n                 reducing agent",
+			"C.\n                 oxidizing agent",
+			"D.\n                 all of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 28,
+		"question": "28. Biotin occurs mainly in combined forms bound to protein through",
+		"options": [
+			"A.\n                 ε-N-lysine moiety",
+			"B.\n                 ε-S-lysine moiety",
+			"C.\n                 ε-N-biotinyl-L-lysine",
+			"D.\n                 ε-N-lipoyl - L-lysine"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 29,
+		"question": "29. Lipoic acid is a co-factor of the",
+		"options": [
+			"A.\n                 pyruvic dehydrogenase",
+			"B.\n                 α-ketoglutaric dehydrogenase",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 di-hydroorotate dehydrogenase"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 30,
+		"question": "30. β-carotene together with α-carotene, γ-carotene and cryptoxanthine are synthesized by",
+		"options": [
+			"A.\n                 plants",
+			"B.\n                 animal",
+			"C.\n                 plants and animals both",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 31,
+		"question": "31. Vitamin-D deficiency can cause",
+		"options": [
+			"A.\n                 rickets",
+			"B.\n                 pernicious anemia",
+			"C.\n                 cataract",
+			"D.\n                 beri-beri"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 32,
+		"question": "32. A deficiency of Vitamin K results in a decreased level of",
+		"options": [
+			"A.\n                 prothrombin",
+			"B.\n                 thrombin",
+			"C.\n                 fibrin",
+			"D.\n                 fibrinogen"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 33,
+		"question": "33. The vitamin riboflavin, which occurs as a yellow pigment in egg yolk and milk become",
+		"options": [
+			"A.\n                 colorless on reduction with Zn in acid and regained its color on re-oxidation",
+			"B.\n                 colorless on oxidation and regained its color on reduction with Zn in acid",
+			"C.\n                 more deep in color on reduction with Zn in acid and regained its color on re-oxidation",
+			"D.\n                 more deep in color on oxidation and regained its color on reduction with Zn in acid"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 34,
+		"question": "34. Which of the following compounds/(s) belong/(s) to the vitamin B6 group?",
+		"options": [
+			"A.\n                 Pyridoxal",
+			"B.\n                 Pyridoxine",
+			"C.\n                 Pyridoxamine",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 35,
+		"question": "35. What metal ion is specifically bound by vitamin B12?",
+		"options": [
+			"A.\n                 Cobalt",
+			"B.\n                 Copper",
+			"C.\n                 Zinc",
+			"D.\n                 Iron"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 36,
+		"question": "36. A fat-soluble vitamin that regulates blood clotting is",
+		"options": [
+			"A.\n                 vitamin A",
+			"B.\n                 vitamin K",
+			"C.\n                 vitamin C",
+			"D.\n                 niacin"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 37,
+		"question": "37. Which of these is a vitamin A precursor?",
+		"options": [
+			"A.\n                 Cobalamin",
+			"B.\n                 Pyridoxine",
+			"C.\n                 Beta-Carotene",
+			"D.\n                 Thiamine"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 38,
+		"question": "38. In one  iron-metalloflavoprotein, the iron is present as a",
+		"options": [
+			"A.\n                 heme-protein",
+			"B.\n                 nonheme type",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 flavin moiety"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 39,
+		"question": "39. Vitamin K1 was first isolated from alfalalfa and has the phytyl side chain consisting of",
+		"options": [
+			"A.\n                 four isoprene units",
+			"B.\n                 six isoprene units",
+			"C.\n                 nine isoprene units",
+			"D.\n                 four isoprene units"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 40,
+		"question": "40. Which of these molecules is vitamin H?",
+		"options": [
+			"A.\n                 Biotin",
+			"B.\n                 Carnitine",
+			"C.\n                 Folic acid",
+			"D.\n                 None of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 41,
+		"question": "41. The occurrence of metals such as iron or molybdenum in some flavoproteins can",
+		"options": [
+			"A.\n                 stabilize the semiquinone",
+			"B.\n                 de-stabilize the semiquinone",
+			"C.\n                 form chelation",
+			"D.\n                 all of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 42,
+		"question": "42. Models of end-linked Osaka VI Fibrinogen dimers, a bilayer dimer is linked at",
+		"options": [
+			"A.\n                 both ends by one disulfide bond",
+			"B.\n                 either end via two disulfide bonds",
+			"C.\n                 either end via a single disulfide bond",
+			"D.\n                 both ends by two disulfide bonds"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 43,
+		"question": "43. A deficiency of niacin causes",
+		"options": [
+			"A.\n                 pellagra",
+			"B.\n                 scurvy",
+			"C.\n                 cataract",
+			"D.\n                 anemia"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 44,
+		"question": "44. Selenium is an essential component of the enzyme glutathione peroxidase which",
+		"options": [
+			"A.\n                 scavenges toxic hydoperoxycompounds in tissues",
+			"B.\n                 reduces toxic hydoperoxycompounds in tissues",
+			"C.\n                 oxidizes toxic hydoperoxycompounds in tissues",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 45,
+		"question": "45. Who discovered vitamin C (ascorbic acid)?",
+		"options": [
+			"A.\n                 Paul Berg",
+			"B.\n                 Linus Pauling",
+			"C.\n                 Albert Szent-Gyorgyi",
+			"D.\n                 Kerry Mull is"
+		],
+		"answer": "C"
+	}
+]

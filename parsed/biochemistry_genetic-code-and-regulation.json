@@ -1,0 +1,178 @@
+[
+	{
+		"number": 1,
+		"question": "1. Which of the following techniques was carried out by Nirenberg and Matthaei in 1961 to determine the first codon?",
+		"options": [
+			"A.\n                 In vitro synthesis of a polypeptide using UUUUU",
+			"B.\n                 Labeled peptide binding to a ribosome",
+			"C.\n                 Mixed co-polymer mRNA synthesis",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 2,
+		"question": "2. Bacterial protein called catabolic activator protein (CAP) is an example of",
+		"options": [
+			"A.\n                 negative control of gene expression",
+			"B.\n                 positive control of gene expression",
+			"C.\n                 second type of positive control of gene expression",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 3,
+		"question": "3. How many different codons are possible?",
+		"options": [
+			"A.\n                 3",
+			"B.\n                 20",
+			"C.\n                 64",
+			"D.\n                 An infinite number"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 4,
+		"question": "4. The genetic code is",
+		"options": [
+			"A.\n                 universal",
+			"B.\n                 universal except for rare exceptions in mitochondria and some protozoa",
+			"C.\n                 species-specific",
+			"D.\n                 kingdom-specific"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 5,
+		"question": "5. Which of the following has been used as an evidence that primitive life forms lacked both DNA and enzymes?",
+		"options": [
+			"A.\n                 RNA can both code genetic information and act as a catalyst",
+			"B.\n                 DNA and enzymes are only present in the most advanced cells",
+			"C.\n                 Advanced cells lack RNA",
+			"D.\n                 All of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. Crick demonstrated that the genetic code involved three bases and suggested that the code was degenerated. What experimental technique Crick conducted to suggest genetic code degeneration?",
+		"options": [
+			"A.\n                 Gel electrophoresis",
+			"B.\n                 Density gradient centrifugation",
+			"C.\n                 Frameshift mutagenesis",
+			"D.\n                 Restriction digests of the rII gene"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 7,
+		"question": "7. Codon that specify the amino acids often differs in the",
+		"options": [
+			"A.\n                 first base",
+			"B.\n                 second base",
+			"C.\n                 third base",
+			"D.\n                 none of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 8,
+		"question": "8. In some organelles in eukaryotes, the genetic code for some codons",
+		"options": [
+			"A.\n                 differs from that used in prokaryotes",
+			"B.\n                 are same",
+			"C.\n                 are partially same",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 9,
+		"question": "9. The codons which do not specify an amino acid are called",
+		"options": [
+			"A.\n                 initiation code",
+			"B.\n                 termination code",
+			"C.\n                 propagation code",
+			"D.\n                 none of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 10,
+		"question": "10. The genetic code is degenerated. Which of the following codons represents the principle of degeneracy?",
+		"options": [
+			"A.\n                 UAA and UAC",
+			"B.\n                 AUG and AUA",
+			"C.\n                 CAU and CAC",
+			"D.\n                 UUA and UUC"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 11,
+		"question": "11. The sequence of one strand of DNA is: 5' ATTGCCA 3', what is the sequence of the other strand?",
+		"options": [
+			"A.\n                 5' TAACGGT 3'",
+			"B.\n                 5' TGGCAAT 3'",
+			"C.\n                 5' ATTGCCA 3'",
+			"D.\n                 5' UAAGCCU3'"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 12,
+		"question": "12. In prokaryotes, AUG encodes",
+		"options": [
+			"A.\n                 methionine",
+			"B.\n                 N-formyl methionine",
+			"C.\n                 a stop codon",
+			"D.\n                 alanine"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 13,
+		"question": "13. How many amino acids will be encoded by 5' GAU GGU UGA UGU 3' sequence?",
+		"options": [
+			"A.\n                 One",
+			"B.\n                 Two",
+			"C.\n                 Three",
+			"D.\n                 Four"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 14,
+		"question": "14. In protein synthesis in prokaryotes",
+		"options": [
+			"A.\n                 the initiating amino acid is N- formyl methionine",
+			"B.\n                 the initiating amino acid is methionine",
+			"C.\n                 the initiating amino acid is phenyl alanine",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 15,
+		"question": "15. AUG codes for methionine act as a",
+		"options": [
+			"A.\n                 initiation code",
+			"B.\n                 elongation code",
+			"C.\n                 termination code",
+			"D.\n                 propagation code"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 16,
+		"question": "16. Translation begins",
+		"options": [
+			"A.\n                 at the replication fork",
+			"B.\n                 on the lagging strand",
+			"C.\n                 at the start codon",
+			"D.\n                 in nucleus"
+		],
+		"answer": "C"
+	}
+]

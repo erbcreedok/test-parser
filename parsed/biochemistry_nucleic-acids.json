@@ -1,0 +1,178 @@
+[
+	{
+		"number": 1,
+		"question": "1. Because DNA is a highly charged polyanion, its stability to heat denaturation",
+		"options": [
+			"A.\n                 does not depend on hydrophobic interactions",
+			"B.\n                 increases with increasing salt",
+			"C.\n                 is independent of G - C content",
+			"D.\n                 decreases with increasing salt"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 2,
+		"question": "2. The sugar in RNA is __________ , the sugar in DNA is __________",
+		"options": [
+			"A.\n                 deoxyribose, ribose",
+			"B.\n                 ribose, deoxyribose",
+			"C.\n                 ribose, phosphate",
+			"D.\n                 ribose, uracil"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 3,
+		"question": "3. Nucleoside is a pyrimidine or purine base",
+		"options": [
+			"A.\n                 covalently bonded to a sugar",
+			"B.\n                 ionically bonded to a sugar",
+			"C.\n                 hydrogen bonded to a sugar",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 4,
+		"question": "4. In gel electrophoresis, what fragments will move most quickly through a gel?",
+		"options": [
+			"A.\n                 Large fragments",
+			"B.\n                 Small fragments",
+			"C.\n                 Large genome",
+			"D.\n                 None of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 5,
+		"question": "5. Which pyrimidine base contains an amino group at carbon 4?",
+		"options": [
+			"A.\n                 Cytosine",
+			"B.\n                 Thymine",
+			"C.\n                 Uracil",
+			"D.\n                 Adenine"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. Nucleotide bases and aromatic amino acids absorb light respectively at",
+		"options": [
+			"A.\n                 280 and 260 nm",
+			"B.\n                 260 and 280 nm",
+			"C.\n                 270 and 280 nm",
+			"D.\n                 260 and 270 nm"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 7,
+		"question": "7. The glycosidic bonds in DNA and RNA",
+		"options": [
+			"A.\n                 connect the sugar to the base",
+			"B.\n                 can be hydrolyzed by OH- ion",
+			"C.\n                 stabilize Watson-Crick H-bonds",
+			"D.\n                 are free to rotate over about 180°"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 8,
+		"question": "8. Nucleic acids can be analyzed experimentally by their",
+		"options": [
+			"A.\n                 molecular weight",
+			"B.\n                 absorption of visible light",
+			"C.\n                 absorption of uv light",
+			"D.\n                 none of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 9,
+		"question": "9. Thymidine",
+		"options": [
+			"A.\n                 can participate in hydrophobic interactions due to its methyl group",
+			"B.\n                 is replaced by uracil in RNA",
+			"C.\n                 normally forms two hydrogen bonds with adenosine",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 10,
+		"question": "10. A nucleotide consists of",
+		"options": [
+			"A.\n                 a sugar, a base and a phosphate",
+			"B.\n                 a sugar and a phosphate",
+			"C.\n                 paired bases",
+			"D.\n                 a sugar, a base and three phosphates"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 11,
+		"question": "11. A five carbon sugar lacking a hydrogen at the number 2 carbon is found in",
+		"options": [
+			"A.\n                 DNA",
+			"B.\n                 RNA",
+			"C.\n                 mRNA",
+			"D.\n                 rDNA"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 12,
+		"question": "12. The unfavourable free energy associated with not satisfying a hydrogen bond after formation of the double helix is approximately",
+		"options": [
+			"A.\n                 10 kJ/mol",
+			"B.\n                 20 kJ/mol",
+			"C.\n                 25 kJ/mol",
+			"D.\n                 30 kJ/mol"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 13,
+		"question": "13. The most stabilizing force for nucleic acids is",
+		"options": [
+			"A.\n                 hydrogen bonds",
+			"B.\n                 electrostatic bond",
+			"C.\n                 Van der Waals",
+			"D.\n                 conformational entropy"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 14,
+		"question": "14. A purine with an amine (NH2) group on the 6th carbon is",
+		"options": [
+			"A.\n                 adenine",
+			"B.\n                 cytosine",
+			"C.\n                 thymine",
+			"D.\n                 guanine"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 15,
+		"question": "15. Which of the following is found on RNA but not DNA?",
+		"options": [
+			"A.\n                 Uracil",
+			"B.\n                 Deoxyribose",
+			"C.\n                 Phosphate",
+			"D.\n                 Adenine"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 16,
+		"question": "16. Which of the following is a purine?",
+		"options": [
+			"A.\n                 Cytosine",
+			"B.\n                 Adenine",
+			"C.\n                 Thymine",
+			"D.\n                 Uracil"
+		],
+		"answer": "B"
+	}
+]

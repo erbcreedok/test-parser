@@ -1,0 +1,178 @@
+[
+	{
+		"number": 1,
+		"question": "1. Enzyme-driven metabolic pathways can be made more efficient by",
+		"options": [
+			"A.\n                 concentrating enzymes within specific cellular compartments",
+			"B.\n                 grouping enzymes into free-floating, multienzyme complexes",
+			"C.\n                 fixing enzymes into membranes so that they are adjacent to each other",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 2,
+		"question": "2. Which of the following (s) is/are serine proteases?",
+		"options": [
+			"A.\n                 Chymotrypsin",
+			"B.\n                 Trypsin",
+			"C.\n                 Elastase",
+			"D.\n                 all of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 3,
+		"question": "3. Which of the following statements about enzymes or their function is true?",
+		"options": [
+			"A.\n                 Enzymes do not alter the overall change in free energy for a reaction",
+			"B.\n                 Enzymes are proteins whose three-dimensional form is key to their function",
+			"C.\n                 Enzymes speed up reactions by lowering activation energy",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 4,
+		"question": "4. Tryprotophan synthetase of E.coli, a typical bifunctional oligomeric enzyme consist of",
+		"options": [
+			"A.\n                 a protein designated A",
+			"B.\n                 two proteins designated A and B",
+			"C.\n                 a protein A and one-subunit a",
+			"D.\n                 a protein designated B"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 5,
+		"question": "5. What is the specificity of the Clostripain protease?",
+		"options": [
+			"A.\n                 It cleave after Arg residues",
+			"B.\n                 It cleave after His residues",
+			"C.\n                 It cleave after Lys residues",
+			"D.\n                 None of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. The proteolysis rate enhancement by chymotrypsin (~1010 folds) corresponds to a reduction in activation energy of about",
+		"options": [
+			"A.\n                 40 kJ/mol",
+			"B.\n                 49 kJ/mol",
+			"C.\n                 58 kJ/mol",
+			"D.\n                 88 kJ/mol"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 7,
+		"question": "7. Which of the following is false statement with regard to comparison between Serine and HIV proteases?",
+		"options": [
+			"A.\n                 Both use nucleophilic attack to hydrolyze the peptide bond",
+			"B.\n                 Both require water to complete the catalytic cycle",
+			"C.\n                 Both forms an acyl-enzyme intermediate",
+			"D.\n                 Both show specificity for certain amino acid sequences"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 8,
+		"question": "8. In the enzyme-catalyzed reaction shown below, what will be the effect on substances A, B, C, and D of inactivating the enzyme labeled E2?  A ---(E1)---> B ---(E2)---> C ---(E3)---> ",
+		"options": [
+			"A.\n                 A, B, C, and D will all still be produced",
+			"B.\n                 A, B, and C will still be produced, but not D",
+			"C.\n                 A and B will still be produced, but not C or D",
+			"D.\n                 A will still be produced, but not B, C, or D"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 9,
+		"question": "9. The nucleophile in serine proteases is",
+		"options": [
+			"A.\n                 Serine",
+			"B.\n                 water",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 Asparagine"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 10,
+		"question": "10. The role of Asp 102 and His 57 during trypsin catalysis is to",
+		"options": [
+			"A.\n                 neutralize the charge on the other's side chain",
+			"B.\n                 keep the specificity pocket open",
+			"C.\n                 function as a proton shuttle",
+			"D.\n                 clamp the substrate into the active site"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 11,
+		"question": "11. The cleavage specificity of trypsin and chymotrypsin depend in part on the",
+		"options": [
+			"A.\n                 proximity of Ser 195 to the active site or specificity pocket",
+			"B.\n                 size, shape, and charge of the active site or specificity pocket",
+			"C.\n                 presence of a low-barrier hydrogen bond in the active site or specificity pocket",
+			"D.\n                 absence of water in the active site"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 12,
+		"question": "12. The E.coli pyruvic acid dehydrogenase complex is reported to",
+		"options": [
+			"A.\n                 decatalyze the oxidation of pyruvic acid to acetyl Co A and CO2",
+			"B.\n                 Catalyze the oxidation of pyruvic acid to acetyl Co A and CO2",
+			"C.\n                 retard the reduction of pyruvic acid to acetyl Co A and CO2",
+			"D.\n                 Catalyze the reduction of pyruvic acid to acetyl Co A and CO2"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 13,
+		"question": "13. Which of the common features are shared between serine and aspartate proteases?",
+		"options": [
+			"A.\n                 Both require water to complete the catalytic cycle",
+			"B.\n                 Both use a base to activate the nucleophile",
+			"C.\n                 Both show specificity for certain amino acid sequences",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 14,
+		"question": "14. Before they can react, many molecules need to be destabilized. This state is typically achieved through",
+		"options": [
+			"A.\n                 changing the three-dimensional shape of the molecule",
+			"B.\n                 oxidizing the molecules by removing electrons",
+			"C.\n                 changing the reaction from a biosynthetic to a catabolic pathway",
+			"D.\n                 the input of a small amount of activation energy"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 15,
+		"question": "15. Common feature in all serine proteases is a",
+		"options": [
+			"A.\n                 hydrophobic specificity pocket",
+			"B.\n                 hydrophilic specificity pocket",
+			"C.\n                 cluster of reactive serine residues",
+			"D.\n                 single reactive serine residue"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 16,
+		"question": "16. How is the enzyme COX-1 important in human health?",
+		"options": [
+			"A.\n                 It helps to transport carbon dioxide in the blood",
+			"B.\n                 It is critical for the biosynthesis of DNA",
+			"C.\n                 It is a chemical derivative of aspirin",
+			"D.\n                 It catalyzes the production of hormones that maintain the stomach lining"
+		],
+		"answer": "D"
+	}
+]

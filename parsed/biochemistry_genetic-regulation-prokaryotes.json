@@ -1,0 +1,255 @@
+[
+	{
+		"number": 1,
+		"question": "1. Sex lethal (sxl) in Drosophila is transcribed when",
+		"options": [
+			"A.\n                 the X autosome balance is less than 0.5",
+			"B.\n                 the X autosome balance is 1 or greater",
+			"C.\n                 the X autosome balance equals 0.5",
+			"D.\n                 none of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 2,
+		"question": "2. A mutation in the tip binding site of the repressor would result in",
+		"options": [
+			"A.\n                 constitutive trp operon expression",
+			"B.\n                 inducible trp operon expression",
+			"C.\n                 no operon expression",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 3,
+		"question": "3. The first protein complex to bind to the TATA box is",
+		"options": [
+			"A.\n                 transcription factor IIA",
+			"B.\n                 transcription factor IIB",
+			"C.\n                 transcription factor IID",
+			"D.\n                 all of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 4,
+		"question": "4. Which of the following is not part of the lac operon?",
+		"options": [
+			"A.\n                 I",
+			"B.\n                 O",
+			"C.\n                 P",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 5,
+		"question": "5. The lac operon is transcribed in which segments?",
+		"options": [
+			"A.\n                 1",
+			"B.\n                 2",
+			"C.\n                 3",
+			"D.\n                 4"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. A frameshift mutation occurs in the sigma subunit gene transcribed as part of SPOl early genes. What will be the immediate result?",
+		"options": [
+			"A.\n                 Early genes will not be translated",
+			"B.\n                 Middle genes will not be transcribed",
+			"C.\n                 The bacterial host will lyse immediately",
+			"D.\n                 Infection will proceed as usual"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 7,
+		"question": "7. In the presence of high levels of tryptophan",
+		"options": [
+			"A.\n                 attenuator allows transcription of trp structural genes",
+			"B.\n                 attenuator propogates transcription",
+			"C.\n                 attenuator terminates transcription",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 8,
+		"question": "8. Tubulin is regulated by",
+		"options": [
+			"A.\n                 binding of tubulin to tubulin mRNA",
+			"B.\n                 splicing of the tubulin transcript",
+			"C.\n                 binding of tubulin to the tubulin translational product",
+			"D.\n                 binding of tubulin to DNA"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 9,
+		"question": "9. Transcription factors are",
+		"options": [
+			"A.\n                 regions of DNA in the promoter area",
+			"B.\n                 regions of DNA in the enhancer area",
+			"C.\n                 any protein which binds to DNA",
+			"D.\n                 proteins which bind DNAand initiate transcription"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 10,
+		"question": "10. Genes which need to be coordinately regulated but are not in operons may be regulated by",
+		"options": [
+			"A.\n                 common transcription factor binding domains",
+			"B.\n                 TATA boxes",
+			"C.\n                 CAAT regions",
+			"D.\n                 GC regions"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 11,
+		"question": "11. What are genes?",
+		"options": [
+			"A.\n                 The functional unit of inheritance",
+			"B.\n                 A fragment of DNA",
+			"C.\n                 A portion of a chromosome",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 12,
+		"question": "12. Which of the following is not a transcription factor?",
+		"options": [
+			"A.\n                 Helix-turn-helix proteins",
+			"B.\n                 Zinc finger proteins",
+			"C.\n                 Leucine zipper proteins",
+			"D.\n                 Steroid hormones"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 13,
+		"question": "13. Sex determination in Drosophila involves",
+		"options": [
+			"A.\n                 alternate splicing",
+			"B.\n                 methylation",
+			"C.\n                 gene amplification",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 14,
+		"question": "14. Enhancers differ from promoters in that",
+		"options": [
+			"A.\n                 they initiate transcription",
+			"B.\n                 they are adjacent to the start codon",
+			"C.\n                 their orientation can be inverted without effect",
+			"D.\n                 they are restricted to a specific gene"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 15,
+		"question": "15. Methylated gene are",
+		"options": [
+			"A.\n                 active",
+			"B.\n                 silent",
+			"C.\n                 dynamic",
+			"D.\n                 either (a) or (b)"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 16,
+		"question": "16. Which of the following occur in the presence of glucose?",
+		"options": [
+			"A.\n                 lac Z gene expression is increased",
+			"B.\n                 cAMP increases",
+			"C.\n                 Binding of CAP-cAMP complex to the promoter area decreases",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 17,
+		"question": "17. Sex hormones activate transcription of specific genes by",
+		"options": [
+			"A.\n                 binding to a transcription factor",
+			"B.\n                 binding to RNA polymerase",
+			"C.\n                 binding to DNA enhancer region",
+			"D.\n                 binding to DNA promoter region"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 18,
+		"question": "18. The lac operon is translated into __________ proteins.",
+		"options": [
+			"A.\n                 1",
+			"B.\n                 2",
+			"C.\n                 3",
+			"D.\n                 4"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 19,
+		"question": "19. In the presence of tryptophan in the cell, the repressor is __________",
+		"options": [
+			"A.\n                 bound to tryptophan",
+			"B.\n                 bound to DNA",
+			"C.\n                 bound to both DNA and tryptophan",
+			"D.\n                 bound to neither tryptophan nor DNA"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 20,
+		"question": "20. Catabolite activating protein exerts __________ control on transcription of the lac operon genes.",
+		"options": [
+			"A.\n                 positive",
+			"B.\n                 negative",
+			"C.\n                 may be positive or negative",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 21,
+		"question": "21. DNA is methylated at",
+		"options": [
+			"A.\n                 AC sequences",
+			"B.\n                 TATA sequences",
+			"C.\n                 CAAT sequences",
+			"D.\n                 CG sequences"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 22,
+		"question": "22. Why are several structural genes regulated as a unit in bacteria?",
+		"options": [
+			"A.\n                 An accident of evolution",
+			"B.\n                 It allows coordinating regulation of genes with a common function",
+			"C.\n                 The bacteria chromosome is so small; many different genes must be controlled by the same promoter",
+			"D.\n                 none of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 23,
+		"question": "23. Alternate splicing of RNA transcripts is a mechanism to regulate",
+		"options": [
+			"A.\n                 tubulin",
+			"B.\n                 tachykinins",
+			"C.\n                 DNA methylation",
+			"D.\n                 leucine zippers"
+		],
+		"answer": "B"
+	}
+]

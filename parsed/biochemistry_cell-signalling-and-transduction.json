@@ -1,0 +1,354 @@
+[
+	{
+		"number": 1,
+		"question": "1. Small charged molecules, often biogenic amines function as",
+		"options": [
+			"A.\n                 hormones",
+			"B.\n                 neurotransmitters",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 none of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 2,
+		"question": "2. SH2 domains specifically bind to",
+		"options": [
+			"A.\n                 phosphorylated serine residues",
+			"B.\n                 phosphorylated tyrosine residues",
+			"C.\n                 GDP",
+			"D.\n                 Ca2+"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 3,
+		"question": "3. In paracrine signaling, the signaling molecules affects only",
+		"options": [
+			"A.\n                 target cells close to the cell from which it was secreted",
+			"B.\n                 target cells distant from its site of synthesis in cells of an endocrine organ",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 4,
+		"question": "4. Simple nerve reflexes use signaling molecules called",
+		"options": [
+			"A.\n                 neurotransmitters",
+			"B.\n                 nitric oxides",
+			"C.\n                 G proteins",
+			"D.\n                 proteases"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 5,
+		"question": "5. Which of the following is not a type of signaling molecule?",
+		"options": [
+			"A.\n                 Testosterone",
+			"B.\n                 Insulin",
+			"C.\n                 Thyroxin",
+			"D.\n                 Adenylate cyclase"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 6,
+		"question": "6. Self-phosphorylation is an excellent mechanism for triggering specific catalytic function of the proteins involved in signal cascades because it",
+		"options": [
+			"A.\n                 changes the shape and thus the enzymatic activity of the proteins involved",
+			"B.\n                 makes the receptor more likely to capture the signaling, molecule",
+			"C.\n                 allows hydrophilic signaling molecules to cross the plasma membrane",
+			"D.\n                 None of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. Which of the following statements about G proteins is false?",
+		"options": [
+			"A.\n                 They are involved in signal cascades",
+			"B.\n                 They bind to and are regulated by guanine nucleotides",
+			"C.\n                 They become activated when bound to GDP",
+			"D.\n                 They must be active before the cell can make needed cAMP"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 8,
+		"question": "8. When a __________ reaches its __________ , there is a specific means of receiving it and acting on the message. This task is the responsibility of specialized proteins called __________ .",
+		"options": [
+			"A.\n                 signaling molecule; receptor; G proteins",
+			"B.\n                 signaling molecule; target cell; G proteins",
+			"C.\n                 signaling molecule; target cell; receptors",
+			"D.\n                 kinase; receptor; proteases"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 9,
+		"question": "9. Why is it that inhaling nitric oxide reduces blood pressure only in the lung tissue and not elsewhere in the body*?",
+		"options": [
+			"A.\n                 Because other body tissues use a different signaling molecule",
+			"B.\n                 Because nitric oxide cannot cross cell membranes and enter the blood",
+			"C.\n                 Because nitric oxide breaks down quickly and thus cannot travel far",
+			"D.\n                 None of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 10,
+		"question": "10. Which of the following comes under the category of cell surface receptor?",
+		"options": [
+			"A.\n                 Enzyme linked receptors",
+			"B.\n                 Ion-channel linked receptors",
+			"C.\n                 G protein linked receptors",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 11,
+		"question": "11. Which of the following is true about a hydrophilic signaling molecule?",
+		"options": [
+			"A.\n                 Its receptor is located in the cytosol of the target cell",
+			"B.\n                 It might trigger a signal cascade that causes some effect in a cell",
+			"C.\n                 Since it can enter the cell, it directly affects some specific cell process",
+			"D.\n                 It is a steroid"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 12,
+		"question": "12. cAMP and cGMP are derived from",
+		"options": [
+			"A.\n                 ATP and GTP by the actions of adenylate cyclase and guanylate cyclase respectively",
+			"B.\n                 GTP and ATP by the actions of adenylate cyclase and guanylate cyclase respectively",
+			"C.\n                 ATP and GTP by the actions of guanylate cyclase and adenylate cyclase respectively",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 13,
+		"question": "13. Nitroglycerin has long been administered to human patients suffering from chronic chest pain (angina). This medication works because it",
+		"options": [
+			"A.\n                 mimics the action of signal receptors",
+			"B.\n                 is broken down into hormones that affect the heart",
+			"C.\n                 interferes with chemical cascades that trigger contraction of heart muscle",
+			"D.\n                 breaks down into nitric oxide, which increases blood flow to the heart"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 14,
+		"question": "14. If a disease of the blood vessels caused the endothelial cells of the vessel to die, what effect would that have on the cellular activities associated with vasodilation?",
+		"options": [
+			"A.\n                 Nitric oxide would no longer be produced",
+			"B.\n                 Smooth muscle cells could not be made to relax",
+			"C.\n                 It would be more difficult to increase blood flow and reduce blood pressure",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 15,
+		"question": "15. In terms of cell communication, what do bacterial pathogens such as cholera and anthrax have in common?",
+		"options": [
+			"A.\n                 They destroy the receptors for key signaling molecules",
+			"B.\n                 They prevent the production of key signaling molecules",
+			"C.\n                 They alter the chemical structure of key signaling molecules",
+			"D.\n                 They block the normal functioning of signal transduction mechanisms"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 16,
+		"question": "16. What is the name of the protein signaling molecule that alters glucose uptake, and where would its receptors be located?",
+		"options": [
+			"A.\n                 Insulin; many different cell types that use glucose for fuel",
+			"B.\n                 Insulin; beta cells of the pancreas",
+			"C.\n                 PDGF; the blood",
+			"D.\n                 NGF; the nerves involved in simple reflexes"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 17,
+		"question": "17. In the signal transduction mechanism known as protein phosphorylation",
+		"options": [
+			"A.\n                 the signaling molecule binds to a surface receptor",
+			"B.\n                 receptor kinases play a key role in triggering the signal cascade",
+			"C.\n                 phosphorylated proteins act with enzymes to trigger the signal cascade",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 18,
+		"question": "18. Cell signaling can be classified into",
+		"options": [
+			"A.\n                 three distinct types based on the distance over which the signaling molecules act",
+			"B.\n                 two distinct types based on the distance over which the signaling molecules act",
+			"C.\n                 three distinct types based on the signaling molecules",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 19,
+		"question": "19. Which of the following statement is correct?",
+		"options": [
+			"A.\n                 Cell communicate with one another in multicellular organisms using extracellular signaling molecules or hormones",
+			"B.\n                 Cell communicate with one another in unicellular organisms using extracellular signaling antigen and antibody",
+			"C.\n                 Cell communicate with one another in multicellular organisms using intracellular signaling molecules only",
+			"D.\n                 Cell communicate with one another in unicellular organisms using intracellular signaling antigen and antibody"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 20,
+		"question": "20. In vasodilation, proper nerve signals sent to blood vessels cause",
+		"options": [
+			"A.\n                 the release of nitric oxide from endothelial cells",
+			"B.\n                 relaxation of smooth muscle cells",
+			"C.\n                 reduced blood pressure",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 21,
+		"question": "21. A cell is known to respond to a particular signaling molecule. Which of the following must be true of this cell?",
+		"options": [
+			"A.\n                 It is in the heart muscle",
+			"B.\n                 It is also the site of production for the signaling molecule",
+			"C.\n                 It contains the receptor for the signaling molecule",
+			"D.\n                 It is incapable of signal transduction"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 22,
+		"question": "22. The enzyme that catalyzes the splitting of PIP2 into two molecules of inositol triphosphate (IP3) and diacylglycerol in cell signaling, is",
+		"options": [
+			"A.\n                 phosphokinase C",
+			"B.\n                 phospholipase C",
+			"C.\n                 phosphodiesterase C",
+			"D.\n                 lipokinase"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 23,
+		"question": "23. The binding of ligands to many G-proteins linked receptors leads to shortlived",
+		"options": [
+			"A.\n                 increase in the concentration of certain intracellular signaling molecules called second messenger",
+			"B.\n                 decrease in the concentration of certain intracellular signaling molecules called second messenger",
+			"C.\n                 increase in the concentration of certain extracellular signaling molecules called first messenger",
+			"D.\n                 decrease in the concentration of certain extracellular signaling molecules called first messenger"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 24,
+		"question": "24. Which of the following processes involve the combining of a message from one signaling molecule with that of another to either enhance or inhibit a cellular effect?",
+		"options": [
+			"A.\n                 Signal transduction",
+			"B.\n                 Signal reception",
+			"C.\n                 Signal integration",
+			"D.\n                 Signal amplification"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 25,
+		"question": "25. A signal cascade induced by adrenaline or thyroxine",
+		"options": [
+			"A.\n                 must begin with receipt of the signal molecule by a surface receptor",
+			"B.\n                 involves the activation of a G protein",
+			"C.\n                 results in the activation of a sequence of enzymes needed for the cell effect",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 26,
+		"question": "26. Which of the following is a second messenger?",
+		"options": [
+			"A.\n                 lnositol 1,4,5-triphosphate",
+			"B.\n                 Diacyl glycerol",
+			"C.\n                 Phospholipase C",
+			"D.\n                 Both (a) and (b)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 27,
+		"question": "27. Which of the following statement is incorrect?",
+		"options": [
+			"A.\n                 The principal lipophilic hormones that binds to receptors located in the plasma membranes are prostaglandins",
+			"B.\n                 Prostaglandins are synthesized from arachidonic acid",
+			"C.\n                 Prostaglandins act as paracrine signaling molecules",
+			"D.\n                 None of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 28,
+		"question": "28. Two key organizing principles for large multicellular organisms are",
+		"options": [
+			"A.\n                 prokaryotic cell structure and cell specialization",
+			"B.\n                 cell specialization and communication between cells",
+			"C.\n                 communication between cells and simple nerve reflexes",
+			"D.\n                 simple nerve reflexes and cell specialization"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 29,
+		"question": "29. Which of the following is a hormone whose action requires a cell surface receptor?",
+		"options": [
+			"A.\n                 Nitric oxide",
+			"B.\n                 Progesterone",
+			"C.\n                 Adrenaline",
+			"D.\n                 Growth factors"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 30,
+		"question": "30. The hormone or ligand can be considered as",
+		"options": [
+			"A.\n                 first messenger",
+			"B.\n                 second messenger",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 31,
+		"question": "31. The major second messengers are",
+		"options": [
+			"A.\n                 cAMP",
+			"B.\n                 cGMP",
+			"C.\n                 DAG",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 32,
+		"question": "32. The signaling molecules called steroid hormones",
+		"options": [
+			"A.\n                 are made in one location of the body but have their effects some distance away",
+			"B.\n                 are hydrophilic and so cannot penetrate the plasma membrane",
+			"C.\n                 bind to cell surface receptors to trigger chemical cascades",
+			"D.\n                 never enter the blood of humans"
+		],
+		"answer": "A"
+	}
+]

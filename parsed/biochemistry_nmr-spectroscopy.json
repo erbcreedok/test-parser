@@ -1,0 +1,79 @@
+[
+	{
+		"number": 1,
+		"question": "1. What is shielding in NMR?",
+		"options": [
+			"A.\n                 Using a curved piece of metal to block an opponents attack",
+			"B.\n                 Putting metal around an Rf source",
+			"C.\n                 When the magnetic moment of an atom blocks the full induced magnetic field from surrounding nuclei",
+			"D.\n                 Blocking parts of a molecule from Rf radiation"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 2,
+		"question": "2. What is used to cool the superconducting coil?",
+		"options": [
+			"A.\n                 Hydrogen",
+			"B.\n                 Ice",
+			"C.\n                 Dry ice",
+			"D.\n                 Liquid helium"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 3,
+		"question": "3. Coupling causes the peaks in 1H NMR spectra to be split into",
+		"options": [
+			"A.\n                 two peaks",
+			"B.\n                 multiple peaks equal to the number of hydrogens on surrounding atoms",
+			"C.\n                 multiple peaks equal to the number of surrounding carbon atoms",
+			"D.\n                 multiple peaks equal to the number of hydrogen on surrounding atoms, plus one"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 4,
+		"question": "4. When placed in a magnetic field, all the random spins of the nuclei",
+		"options": [
+			"A.\n                 stop",
+			"B.\n                 reverse direction",
+			"C.\n                 align with the magnetic field",
+			"D.\n                 rotate to 90° away from the induced field"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 5,
+		"question": "5. Better understanding of the nuclei is possible,",
+		"options": [
+			"A.\n                 with the help of wavelength spectrum",
+			"B.\n                 with the help of frequencies ranges",
+			"C.\n                 with the help of a mathematical translator called the fourier transfer algorithm",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 6,
+		"question": "6. All hydrogen atoms",
+		"options": [
+			"A.\n                 have the same resonance frequency",
+			"B.\n                 resonate at different frequencies depending on their environment.",
+			"C.\n                 are attached to carbon",
+			"D.\n                 resonate at about the same frequency as carbon"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 7,
+		"question": "7. Why is it important to use a deuterated solvent?",
+		"options": [
+			"A.\n                 NMR uses least of  this solvent",
+			"B.\n                 So the spectrometer can lock onto the sample to prevent the spectrum from drifting during aquisition",
+			"C.\n                 Expensive solvents work best with NMR",
+			"D.\n                 They dissolve polymer the fastest"
+		],
+		"answer": "B"
+	}
+]

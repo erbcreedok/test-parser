@@ -1,0 +1,90 @@
+[
+	{
+		"number": 1,
+		"question": "1. How many molecules of ATP are hydrolysed to form two molecule of ammonia?",
+		"options": [
+			"A.\n                 10",
+			"B.\n                 5",
+			"C.\n                 16",
+			"D.\n                 15"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 2,
+		"question": "2. The nitrogen atoms of urea produced in the urea cycle are derived from",
+		"options": [
+			"A.\n                 nitrate",
+			"B.\n                 ammonia and aspartic acid",
+			"C.\n                 nitrite",
+			"D.\n                 ammonia"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 3,
+		"question": "3. The products of urea cycle are",
+		"options": [
+			"A.\n                 1 molecule of urea, 1 molecule of ammonia, 1 molecule of ATP and 1 molecule of fumaric acid",
+			"B.\n                 1 molecule of fumaric acid, 1 molecule of urea, 1 molecule of AMP, 2 molecules of ADP",
+			"C.\n                 1 molecule of aspartic acid, 1 molecule of ammonia, 1 molecule of fumaric acid, 1 molecule of ATP",
+			"D.\n                 None of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 4,
+		"question": "4. Nitrate reduction can be carried out by",
+		"options": [
+			"A.\n                 only microorganism",
+			"B.\n                 plant and microorganism",
+			"C.\n                 only plants",
+			"D.\n                 none of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 5,
+		"question": "5. Which of the following is used as carbon atom source while producing urea in the urea cycle?",
+		"options": [
+			"A.\n                 Arginine",
+			"B.\n                 Aspartic acid",
+			"C.\n                 Carbon dioxide",
+			"D.\n                 Glucose"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 6,
+		"question": "6. Which of the following amino acid do not fall under the category of essential amino acid?",
+		"options": [
+			"A.\n                 Histidine",
+			"B.\n                 Leucine",
+			"C.\n                 Glycine",
+			"D.\n                 Methionine"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 7,
+		"question": "7. Urea cycle converts",
+		"options": [
+			"A.\n                 ammonia into a less toxic form",
+			"B.\n                 ketoacids into amino acids",
+			"C.\n                 amino acids into ketoacids",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 8,
+		"question": "8. The inputs to one cycle of the urea cycle are",
+		"options": [
+			"A.\n                 1 molecule of aspartic acid, 1 molecule of ammonia, 1 molecule of carbon dioxide, 3 molecules of ATP",
+			"B.\n                 1 molecule of urea, 1 molecule of ammonia, 3 molecules of ATP and 1 molecule of fumaric acid",
+			"C.\n                 1 molecule of fumaric acid, 1 molecule of urea, 3 molecules of AMP",
+			"D.\n                 None of the above"
+		],
+		"answer": "A"
+	}
+]

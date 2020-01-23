@@ -1,0 +1,178 @@
+[
+	{
+		"number": 1,
+		"question": "1. FAD is reduced to FADH2 during",
+		"options": [
+			"A.\n                 electron transport phosphorylation",
+			"B.\n                 lactate fermentation",
+			"C.\n                 Krebs cycle",
+			"D.\n                 glycolysis"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 2,
+		"question": "2. During glycolysis, electrons removed from glucose are passed to",
+		"options": [
+			"A.\n                 FAD",
+			"B.\n                 NAD+",
+			"C.\n                 acetyl CoA",
+			"D.\n                 pyruvic acid"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 3,
+		"question": "3. A biological redox reaction always involves",
+		"options": [
+			"A.\n                 an oxidizing agent",
+			"B.\n                 a gain of electrons",
+			"C.\n                 a reducing agent",
+			"D.\n                 all of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 4,
+		"question": "4. Coenzyme Q is involved in electron transport as",
+		"options": [
+			"A.\n                 directly to O2",
+			"B.\n                 a water-soluble electron donor",
+			"C.\n                 covalently attached cytochrome cofactor",
+			"D.\n                 a lipid-soluble electron carrier"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 5,
+		"question": "5. The carbon dioxide is primary a product of",
+		"options": [
+			"A.\n                 Krebs cycle",
+			"B.\n                 glycolysis",
+			"C.\n                 electron transport phosphorylation.",
+			"D.\n                 lactate fermentation."
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. Which of the following is not a feature of oxidative phosphorylation?",
+		"options": [
+			"A.\n                 Direct transfer of phosphate from a substrate molecule to ADP",
+			"B.\n                 An electrochemical gradient across the inner mitochondrial membrane",
+			"C.\n                 A membrane bound ATP synthase",
+			"D.\n                 A protonmotive force"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. Which of the following is not a significant biological oxidizing agent?",
+		"options": [
+			"A.\n                 FAD",
+			"B.\n                 Fe3+",
+			"C.\n                 O2",
+			"D.\n                 NAD+"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 8,
+		"question": "8. How many CO2 molecules are exhaled for each O2 molecule utilized in cellular respiration?",
+		"options": [
+			"A.\n                 1",
+			"B.\n                 3",
+			"C.\n                 6",
+			"D.\n                 12"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 9,
+		"question": "9. What happens after glycolysis when oxygen is available as an electron acceptor?",
+		"options": [
+			"A.\n                 Pyruvate is formed",
+			"B.\n                 NADH is produced",
+			"C.\n                 Fermentation",
+			"D.\n                 Oxidative phosphorylation"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 10,
+		"question": "10. Lactic acid is produced by human muscles during strenuous exercise because of lack of",
+		"options": [
+			"A.\n                 oxygen",
+			"B.\n                 NAD+",
+			"C.\n                 glucose",
+			"D.\n                 ADP and Pi"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 11,
+		"question": "11. Which of the following is correct sequence of processes in the oxidation of glucose?",
+		"options": [
+			"A.\n                 Krebs cycle - glycolysis - electron transport",
+			"B.\n                 Glycolysis - Krebs cycle - eletron transport",
+			"C.\n                 Electron transport - Krebs cycle - glycolysis",
+			"D.\n                 Krebs cycle - electron transport - glycolysis"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 12,
+		"question": "12. In electron transport, electrons ultimately pass to",
+		"options": [
+			"A.\n                 ADP",
+			"B.\n                 cytochrome b",
+			"C.\n                 oxygen",
+			"D.\n                 none of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 13,
+		"question": "13. The complete oxidation of glucose yields usable energy in the form of",
+		"options": [
+			"A.\n                 FADH2",
+			"B.\n                 coenzyme A",
+			"C.\n                 ATP",
+			"D.\n                 pyruvic acid"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 14,
+		"question": "14. During electron transport, protons are pumped out of the mitochondrion at each of the major sites except for",
+		"options": [
+			"A.\n                 complex I",
+			"B.\n                 complex II",
+			"C.\n                 complex III",
+			"D.\n                 complex IV"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 15,
+		"question": "15. The aerobic breakdown of glucose known as respiration involves",
+		"options": [
+			"A.\n                 electron transport phosphorylation",
+			"B.\n                 glycolysis",
+			"C.\n                 Krebs Cycle",
+			"D.\n                 all of  the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 16,
+		"question": "16. In aerobic respiration, the compound that enters a mitochondrion is",
+		"options": [
+			"A.\n                 acetyl CoA",
+			"B.\n                 pyruvate",
+			"C.\n                 phosphoglyceraldehyde",
+			"D.\n                 oxaloacetate"
+		],
+		"answer": "B"
+	}
+]

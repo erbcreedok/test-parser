@@ -1,0 +1,79 @@
+[
+	{
+		"number": 1,
+		"question": "1. Reverse transcripase from HIV does not",
+		"options": [
+			"A.\n                 uses RNA as a template",
+			"B.\n                 has a 5' to 3' polymerase activity",
+			"C.\n                 has a 3'- 5' exonuclease activity",
+			"D.\n                 requires a primer"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 2,
+		"question": "2. Which of the following amino acids can interact with the DNA or RNA nucleotide bases via hydrogen bonding?",
+		"options": [
+			"A.\n                 Asn and Gln",
+			"B.\n                 Cys and Met",
+			"C.\n                 Lys and Leu",
+			"D.\n                 Ile and Val"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 3,
+		"question": "3. Different DNA polymerases play distinct roles in DNA replication and repair in both prokaryotic and eukaryotic cells. All known DNA polymerases synthesize DNA only in the __________ by the addition of dNTPs to a performed primer strand of DNA.",
+		"options": [
+			"A.\n                 positive direction",
+			"B.\n                 3' to 5' direction",
+			"C.\n                 5' to 3' direction",
+			"D.\n                 negative direction"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 4,
+		"question": "4. The type II restriction endonucleases, bind to DNA sites",
+		"options": [
+			"A.\n                 using H-bonds for specificity",
+			"B.\n                 that are usually palindromic",
+			"C.\n                 using non-sequence-dependent backbone interactions",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 5,
+		"question": "5. The enzyme that joins DNA cuts is called",
+		"options": [
+			"A.\n                 joinase",
+			"B.\n                 ligase",
+			"C.\n                 DNA phosphorylase",
+			"D.\n                 reverse transcriptase"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 6,
+		"question": "6. Cleavage of DNA by EcoRI endonuclease results in the formation of",
+		"options": [
+			"A.\n                 two 3'-OH ends and two 5'-phosphate ends",
+			"B.\n                 one 3'-OH end and one 5'-phosphate end",
+			"C.\n                 two 3'-phosphate ends and two 3'-OH ends",
+			"D.\n                 one 3'-OH end and two 5'-phosphate end"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. Which of the following amino acids interact with the DNA or RNA backbone (i.e. phosphate)?",
+		"options": [
+			"A.\n                 Ile and Val",
+			"B.\n                 Lys and Arg",
+			"C.\n                 Leu and Ala",
+			"D.\n                 Cys and Met"
+		],
+		"answer": "B"
+	}
+]

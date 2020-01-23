@@ -1,0 +1,167 @@
+[
+	{
+		"number": 1,
+		"question": "1. HPLC stands for",
+		"options": [
+			"A.\n                 High Pressure Liquid Chromatography",
+			"B.\n                 High Performance Liquid Chromatography",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 Highly Placed Liquid Chromatography"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 2,
+		"question": "2. The eluent strength is a measure of",
+		"options": [
+			"A.\n                 solvent adsorption energy",
+			"B.\n                 solvent absorption energy",
+			"C.\n                 solvent diffusivity",
+			"D.\n                 solvent mixing index"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 3,
+		"question": "3. HPLC methods include",
+		"options": [
+			"A.\n                 liquid/liquid (partition) chromatography",
+			"B.\n                 liquid/solid (adsorption) chromatography",
+			"C.\n                 ion exchange and size exclusion chromatography",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 4,
+		"question": "4. Column efficiency is measured in terms of number of plates which is",
+		"options": [
+			"A.\n                 inversely related to the square of the peak width",
+			"B.\n                 directly related to the square of the peak width",
+			"C.\n                 inversely related to the cube root of the peak width",
+			"D.\n                 directly related to the square of the peak width"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 5,
+		"question": "5. For a typical adsorbent such as silica gel, the most popular pore diameters are",
+		"options": [
+			"A.\n                 10 and 50 A°",
+			"B.\n                 60 and 100 A°",
+			"C.\n                 100 and 150 A°",
+			"D.\n                 150 and 200 A°"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 6,
+		"question": "6. An isocratic elution in HPLC is one in which the composition of the solvent",
+		"options": [
+			"A.\n                 remains constant",
+			"B.\n                 changes continuously",
+			"C.\n                 changes in a series of steps",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. In reversed phase HPLC, there is a",
+		"options": [
+			"A.\n                 non polar solvent/polar column",
+			"B.\n                 polar solvent/non-polar column",
+			"C.\n                 non polar solvent/non-polar column",
+			"D.\n                 any of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 8,
+		"question": "8. Which of the following statements is true for a refractive index detector in HPLC?",
+		"options": [
+			"A.\n                 It is more sensitive than a UV detector",
+			"B.\n                 It can only be used for isocratic elutions",
+			"C.\n                 It does not respond to many solutes",
+			"D.\n                 none of above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 9,
+		"question": "9. A gradient elution in HPLC is one in which the composition of the solvent",
+		"options": [
+			"A.\n                 remains constant",
+			"B.\n                 is changed continuously or in a series of steps",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 none of the above"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 10,
+		"question": "10. An eluotropic series",
+		"options": [
+			"A.\n                 ranks solvents by their relative abilities to displace solutes from a given absorbent",
+			"B.\n                 ranks column packing material by their relative abilities to retain solutes on the column",
+			"C.\n                 is a measure of the solvent adsorption energy",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 11,
+		"question": "11. Dwell volume is defined as",
+		"options": [
+			"A.\n                 the volume of solvent contained in a liquid chromatographic column",
+			"B.\n                 the time required for the gradient to reach the column",
+			"C.\n                 the volume of the column between the point at which solvents are mixed and the beginning of the column",
+			"D.\n                 none of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 12,
+		"question": "12. Void volume refers to the",
+		"options": [
+			"A.\n                 total volume of eluent in the column the remainder being taken up by the packing material",
+			"B.\n                 the volume of solvent contained in a liquid chromatographic column",
+			"C.\n                 the time required for the gradient to reach the column",
+			"D.\n                 the volume of the column between the point at which solvents are mixed and the beginning of the column"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 13,
+		"question": "13. In normal phase HPLC, there is a",
+		"options": [
+			"A.\n                 non polar solvent/polar column",
+			"B.\n                 polar solvent/non-polar column",
+			"C.\n                 non polar solvent/non-polar column",
+			"D.\n                 any of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 14,
+		"question": "14. Which of the following(s) is/are the advantage of HPLC over traditional LPLC (low-pressure liquid chromatography)?",
+		"options": [
+			"A.\n                 Greater sensitivity and reusable columns",
+			"B.\n                 Ideal for ionic species and large molecules",
+			"C.\n                 Sample recovery",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 15,
+		"question": "15. Which can be used as a mobile phase in HPLC applications?",
+		"options": [
+			"A.\n                 Any compound with solubility in liquid",
+			"B.\n                 Any compound with limited solubility in liquid",
+			"C.\n                 Any compound with non-solubility in liquid",
+			"D.\n                 Any of the above"
+		],
+		"answer": "A"
+	}
+]

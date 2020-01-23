@@ -1,0 +1,178 @@
+[
+	{
+		"number": 1,
+		"question": "1. Which of the following immune cells would have an especially low count in a patient with advanced AIDS?",
+		"options": [
+			"A.\n                 Killer T lymphocytes",
+			"B.\n                 Helper T lymphocyte",
+			"C.\n                 B lymphocytes",
+			"D.\n                 None of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 2,
+		"question": "2. In cellular immunity, T lymphocytes are responsible for the recognition and killing of foreign invaders. The cells are",
+		"options": [
+			"A.\n                 cytotoxic T lymphocytes (CTL)",
+			"B.\n                 killer T cells",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 3,
+		"question": "3. Plasma cells produce thousands of __________ that are released into the bloodstream",
+		"options": [
+			"A.\n                 antigens",
+			"B.\n                 antibodies",
+			"C.\n                 helper T cells",
+			"D.\n                 virus fragments"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 4,
+		"question": "4. If a person is vaccinated against a disease sometime in the past, which of the following is currently in your body?",
+		"options": [
+			"A.\n                 The disease organism itself and antigens for the disease organism",
+			"B.\n                 A very high level of antibodies against the disease antigens",
+			"C.\n                 Memory B lymphocytes for the antigen of this disease organism",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 5,
+		"question": "5. What is a protein produced by host cells infected by viruses?",
+		"options": [
+			"A.\n                 Interferon",
+			"B.\n                 Histamine",
+			"C.\n                 Antiserum",
+			"D.\n                 Vaccine"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. Polysaccharides on the surface of infecting microorganisms can also activate complement directly in the absence of",
+		"options": [
+			"A.\n                 antibody via the alternative pathway",
+			"B.\n                 antigen via the alternative pathway",
+			"C.\n                 antibody via metabolic pathway",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. Antibodies bound to an invading microorganism activate the complement system via",
+		"options": [
+			"A.\n                 classical pathway",
+			"B.\n                 metabolic pathway",
+			"C.\n                 Embden Meyerhof pathway",
+			"D.\n                 Entner-Doudoroff pathway"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 8,
+		"question": "8. The immune response to a booster vaccine is called a(n)",
+		"options": [
+			"A.\n                 cellular response",
+			"B.\n                 innate response",
+			"C.\n                 primary response",
+			"D.\n                 secondary response"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 9,
+		"question": "9. Immunological memory is due to",
+		"options": [
+			"A.\n                 short lived macrophage that can recognize specific pathogens",
+			"B.\n                 long lived B cells that secrete a specific antibody",
+			"C.\n                 long lived B cells that secrete a specific antigen",
+			"D.\n                 short lived helper T cells that signal macrophage to divide"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 10,
+		"question": "10. What is the result of an abnormal response of the immune system to part of a person's own body?",
+		"options": [
+			"A.\n                 Passive immunity",
+			"B.\n                 Cancer",
+			"C.\n                 An allergic response",
+			"D.\n                 An autoimmune disease"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 11,
+		"question": "11. What are the solutions prepared from weakened or dead microorganisms, viruses, or toxins that provide some immunity from diseases?",
+		"options": [
+			"A.\n                 Vaccines",
+			"B.\n                 Histamines",
+			"C.\n                 Drugs",
+			"D.\n                 Antibiotics"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 12,
+		"question": "12. During exposure to a foreign invader, there are more __________ present in the vertebrate body than before exposure",
+		"options": [
+			"A.\n                 antibodies",
+			"B.\n                 lymphocytes",
+			"C.\n                 macrophages and antigens",
+			"D.\n                 all of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 13,
+		"question": "13. To elicit the best antibodies to mouse MHC I, it should be injected into a",
+		"options": [
+			"A.\n                 goat",
+			"B.\n                 mouse of the same genetic background (strain)",
+			"C.\n                 mouse of a different strain",
+			"D.\n                 rat"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 14,
+		"question": "14. To detect a humoral immune response to influenza virus, it is possible to measure",
+		"options": [
+			"A.\n                 cytotoxicity of virus-infected cells in tissue culture",
+			"B.\n                 dividing T cells in the draining lymph nodes",
+			"C.\n                 plasma cytokine levels",
+			"D.\n                 serum antibody titer"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 15,
+		"question": "15. Which of the following is in the lymph nodes of a person battling a cold virus?",
+		"options": [
+			"A.\n                 Huge numbers of white blood cells",
+			"B.\n                 Trapped viruses that have been roaming the body",
+			"C.\n                 Lymph ducts that enter and exit the nodes and Lymph fluid",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 16,
+		"question": "16. Immunogenicity",
+		"options": [
+			"A.\n                 depends on the ability of the native antigen to be presented by MHC",
+			"B.\n                 is usually a property of self antigens such as eye tissue",
+			"C.\n                 is not a property of antibodies",
+			"D.\n                 is not a property of haptens"
+		],
+		"answer": "D"
+	}
+]

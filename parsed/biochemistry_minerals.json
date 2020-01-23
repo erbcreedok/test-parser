@@ -1,0 +1,332 @@
+[
+	{
+		"number": 1,
+		"question": "1. Which of the following mineral is involved in protein metabolism and oxidation reactions?",
+		"options": [
+			"A.\n                 Molybdenum",
+			"B.\n                 Manganese",
+			"C.\n                 Magnesium",
+			"D.\n                 calcium"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 2,
+		"question": "2. Which of the following mineral deficiency may result into impaired growth and development, skin lesions and loss of appetite?",
+		"options": [
+			"A.\n                 Zinc",
+			"B.\n                 Cobalt",
+			"C.\n                 Iron",
+			"D.\n                 Magnesium"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 3,
+		"question": "3. Which of the following is not a function of iron?",
+		"options": [
+			"A.\n                 Oxygen transport",
+			"B.\n                 Immune function",
+			"C.\n                 Brain function",
+			"D.\n                 Gene regulation"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 4,
+		"question": "4. Consumption of which nutrient leads to the multiplication of oral bacteria?",
+		"options": [
+			"A.\n                 Fat",
+			"B.\n                 Carbohydrate",
+			"C.\n                 Protein",
+			"D.\n                 Fluoride"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 5,
+		"question": "5. Examples of goitrogenic foods are __________ and __________ .",
+		"options": [
+			"A.\n                 turnips and corn",
+			"B.\n                 rutabagas and okra",
+			"C.\n                 raw cabbage and turnips",
+			"D.\n                 cassava and lettuce"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 6,
+		"question": "6. Which of the following carbohydrate is effective in promoting the calcium absorption?",
+		"options": [
+			"A.\n                 Lactose",
+			"B.\n                 Maltose",
+			"C.\n                 Sucrose",
+			"D.\n                 Xylose"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. What condition is caused by iodine deficiency during pregnancy and is characterized by stunted growth, deafness, and mental retardation?",
+		"options": [
+			"A.\n                 Cretinism",
+			"B.\n                 Keshan disease",
+			"C.\n                 Multiple sclerosis",
+			"D.\n                 Crohn's disease"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 8,
+		"question": "8. Iodine is a part of thyroid hormone and is essential for the prevention of",
+		"options": [
+			"A.\n                 goiter",
+			"B.\n                 osteoporosis",
+			"C.\n                 muscle weakness",
+			"D.\n                 diarrhea"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 9,
+		"question": "9. What transports copper from the intestinal cells to the liver?",
+		"options": [
+			"A.\n                 Ceruloplasmin",
+			"B.\n                 Secretin",
+			"C.\n                 Acrolein",
+			"D.\n                 Albumin"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 10,
+		"question": "10. Which group is most often affected with copper deficiency?",
+		"options": [
+			"A.\n                 Elderly woman",
+			"B.\n                 Alcoholics",
+			"C.\n                 Active toddlers with limited",
+			"D.\n                 Preterm infants food variety"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 11,
+		"question": "11. What is the main source of natural fluoride?",
+		"options": [
+			"A.\n                 Mushrooms",
+			"B.\n                 Potatoes",
+			"C.\n                 Meat",
+			"D.\n                 Water"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 12,
+		"question": "12. Which of the following mineral is involved in the enzyme -controlled energy yielding reactions of metabolism?",
+		"options": [
+			"A.\n                 Calcium",
+			"B.\n                 Phosphorus",
+			"C.\n                 Iron",
+			"D.\n                 Copper"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 13,
+		"question": "13. The mineral which aids in the utilization of iron and in hemoglobin synthesis is",
+		"options": [
+			"A.\n                 calcium",
+			"B.\n                 phosphorus",
+			"C.\n                 cobalt",
+			"D.\n                 copper"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 14,
+		"question": "14. The mineral which is considered important in maintaining electrical potential in nerves and membranes is",
+		"options": [
+			"A.\n                 magnesium",
+			"B.\n                 manganese",
+			"C.\n                 calcium",
+			"D.\n                 iron"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 15,
+		"question": "15. Wilson's disease is an example of __________ and Menkes' syndrome is an example of __________ .",
+		"options": [
+			"A.\n                 zinc deficiency; zinc toxicity",
+			"B.\n                 zinc toxicity; zinc deficiency",
+			"C.\n                 copper deficiency; copper toxicity",
+			"D.\n                 copper toxicity; copper deficiency"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 16,
+		"question": "16. Which of the following is correct?",
+		"options": [
+			"A.\n                 Cobalt is part of vitamin B12.",
+			"B.\n                 Cobalt will not replace the need for vitamin B12 in humans",
+			"C.\n                 Both (a) and (b)",
+			"D.\n                 Cobalt will replace the need for vitamin B12 in humans"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 17,
+		"question": "17. Which of the following is required as a component of blood hemoglobin?",
+		"options": [
+			"A.\n                 Iron",
+			"B.\n                 Magnesium",
+			"C.\n                 Calcium",
+			"D.\n                 Copper"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 18,
+		"question": "18. Adding __________ to a breakfast of cereal will help your body absorb iron.",
+		"options": [
+			"A.\n                 milk",
+			"B.\n                 orange juice",
+			"C.\n                 coffee",
+			"D.\n                 water"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 19,
+		"question": "19. Which of the following ion is required for the development of sound teeth with resistance to tooth decay?",
+		"options": [
+			"A.\n                 Fluoride ion",
+			"B.\n                 Sodium ion",
+			"C.\n                 Chloride ion",
+			"D.\n                 Magnesium ion"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 20,
+		"question": "20. Which of the following two beverages contribute 20 to 30 percent of our daily manganese intake?",
+		"options": [
+			"A.\n                 Milk or tea",
+			"B.\n                 Cola or coffee",
+			"C.\n                 Tea or orange juice",
+			"D.\n                 Milk or orange juice"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 21,
+		"question": "21. An endemic disease of cardiomyopathy in children is attributed to",
+		"options": [
+			"A.\n                 low Se in the environment",
+			"B.\n                 low intake of iron",
+			"C.\n                 high Se in the environment",
+			"D.\n                 high intake of iron"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 22,
+		"question": "22. Which of the following statement is correct?",
+		"options": [
+			"A.\n                 Sodium and chloride are the chief extracellular ions of the body",
+			"B.\n                 Sodium and chloride are primarily involved in maintaining osmotic equilibrium and body fluid volume.",
+			"C.\n                 Chloride ion is necessary for the production of hydrochloric acid of gastric juice.",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 23,
+		"question": "23. Which of the following is necessary for the clotting of blood, functions of certain enzymes and control of fluids through cell membranes?",
+		"options": [
+			"A.\n                 Calcium",
+			"B.\n                 Magnesium",
+			"C.\n                 Copper",
+			"D.\n                 Cobalt"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 24,
+		"question": "24. Selenium deficiency leads to",
+		"options": [
+			"A.\n                 liver necrosis",
+			"B.\n                 diarrhea",
+			"C.\n                 multiple sclerosis",
+			"D.\n                 Crohn's disease"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 25,
+		"question": "25. Manganese is a key component of all of the following enzymes except",
+		"options": [
+			"A.\n                 arginase",
+			"B.\n                 pyruvate carboxylase",
+			"C.\n                 ceruloplasmin",
+			"D.\n                 Mn-superoxide dismutase"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 26,
+		"question": "26. Which of the following vitamin is essential for the absorption of calcium from the intestinal tract?",
+		"options": [
+			"A.\n                 Vitamin D",
+			"B.\n                 Vitamin E",
+			"C.\n                 Vitamin B12",
+			"D.\n                 Vitamin B6"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 27,
+		"question": "27. Which trace mineral is a component of the enzyme that activates vitamin A in the eye?",
+		"options": [
+			"A.\n                 Zinc",
+			"B.\n                 Iron",
+			"C.\n                 Iodine",
+			"D.\n                 Chromium"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 28,
+		"question": "28. Chronic consumption of excess selenium can lead to",
+		"options": [
+			"A.\n                 brittle hair and nails.",
+			"B.\n                 muscle weakness,",
+			"C.\n                 TPN",
+			"D.\n                 diarrhea."
+		],
+		"answer": "B"
+	},
+	{
+		"number": 29,
+		"question": "29. Normal glucose metabolism requires",
+		"options": [
+			"A.\n                 chromium",
+			"B.\n                 manganese",
+			"C.\n                 magnesium",
+			"D.\n                 calcium"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 30,
+		"question": "30. Manganese is needed for",
+		"options": [
+			"A.\n                 normal bone structure",
+			"B.\n                 reproduction and functioning of central nervous system",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 muscle strengthening"
+		],
+		"answer": "C"
+	}
+]

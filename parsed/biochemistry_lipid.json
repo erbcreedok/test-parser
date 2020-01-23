@@ -1,0 +1,277 @@
+[
+	{
+		"number": 1,
+		"question": "1. The key enzyme in the regulation of fatty acid synthesis is",
+		"options": [
+			"A.\n                 acetyl CoA carboxylase",
+			"B.\n                 AMP activated proteinkinase",
+			"C.\n                 protein phosphatase",
+			"D.\n                 none of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 2,
+		"question": "2. Arachidonate has 20 carbon atoms with",
+		"options": [
+			"A.\n                 3 double bonds",
+			"B.\n                 2 double bonds",
+			"C.\n                 4 double bonds",
+			"D.\n                 8 double bonds"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 3,
+		"question": "3. In the intestine, the dietary fats are hydrolysed by",
+		"options": [
+			"A.\n                 triacylglycerol lipase",
+			"B.\n                 adenylate cyclase",
+			"C.\n                 pancreatic lipase",
+			"D.\n                 protein kinase"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 4,
+		"question": "4. HDLs are synthesized in",
+		"options": [
+			"A.\n                 blood",
+			"B.\n                 liver",
+			"C.\n                 intestine",
+			"D.\n                 pancreas"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 5,
+		"question": "5. Triacylglycerols are",
+		"options": [
+			"A.\n                 soluble in water",
+			"B.\n                 insoluble in water",
+			"C.\n                 soluble in water at elevated temperature",
+			"D.\n                 partially soluble in water"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 6,
+		"question": "6. Animals cannot convert fatty acids into glucose because",
+		"options": [
+			"A.\n                 acetyl CoA can not be converted to pyruvate",
+			"B.\n                 absence of  malate synthase",
+			"C.\n                 absence of dehydrogenase",
+			"D.\n                 absence of a-ketoglutarate dehydrogenase"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. In eukaryotes fatty acid breakdown occurs in",
+		"options": [
+			"A.\n                 mitochondrial matrix",
+			"B.\n                 cytosol",
+			"C.\n                 cell membrane",
+			"D.\n                 endoplasmic reticulum"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 8,
+		"question": "8. What is the major protein constituent of high-density lipoprotein (HDL)?",
+		"options": [
+			"A.\n                 Apolipoprotein A-l",
+			"B.\n                 Apolipoprotein C-l",
+			"C.\n                 Apolipoprotein E",
+			"D.\n                 None of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 9,
+		"question": "9. Phospholipid contains",
+		"options": [
+			"A.\n                 hydrophilic heads and hydrophobic tails",
+			"B.\n                 long water-soluble carbon chains",
+			"C.\n                 positively charged functional groups",
+			"D.\n                 both (b) and (c)"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 10,
+		"question": "10. Micelles of fatty acids in water are organized such that the __________ faces the solvent and the __________ are directed toward the interior",
+		"options": [
+			"A.\n                 carboxylic acid groups, hydrocarbon chains heads",
+			"B.\n                 hydrophilic heads, hydrophobic tails",
+			"C.\n                 hydrocarbon chains, carboxylic acid groups",
+			"D.\n                 both (a) and (b)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 11,
+		"question": "11. Cholesterolemia means",
+		"options": [
+			"A.\n                 lack of functional LDL receptors",
+			"B.\n                 lack of functional HDL receptor",
+			"C.\n                 high sensitivity to fatty food intake",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 12,
+		"question": "12. Fatty acids break down of eukaryotes occurs in",
+		"options": [
+			"A.\n                 mitochondrial matrix",
+			"B.\n                 cell membrane",
+			"C.\n                 cytosol",
+			"D.\n                 endoplasmic reticulum"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 13,
+		"question": "13. VLDLs are synthesized in",
+		"options": [
+			"A.\n                 blood",
+			"B.\n                 liver",
+			"C.\n                 intestine",
+			"D.\n                 pancreas"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 14,
+		"question": "14. Chylomicrons are synthesized in",
+		"options": [
+			"A.\n                 blood",
+			"B.\n                 liver",
+			"C.\n                 intestine",
+			"D.\n                 pancreas"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 15,
+		"question": "15. How many types of lipoproteins are there?",
+		"options": [
+			"A.\n                 2",
+			"B.\n                 6",
+			"C.\n                 8",
+			"D.\n                 5"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 16,
+		"question": "16. Fatty acid synthesis takes place in",
+		"options": [
+			"A.\n                 mitochondria",
+			"B.\n                 cell membrane",
+			"C.\n                 cytosol",
+			"D.\n                 endoplasmic reticulum"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 17,
+		"question": "17. Cholestrol is the precursor of",
+		"options": [
+			"A.\n                 steroid hormones",
+			"B.\n                 vitamin A",
+			"C.\n                 bile salts",
+			"D.\n                 both (a) and (c)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 18,
+		"question": "18. Atherosclerosis can cause blood",
+		"options": [
+			"A.\n                 thinning",
+			"B.\n                 clotting",
+			"C.\n                 thickening",
+			"D.\n                 none of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 19,
+		"question": "19. Palmitate has 16 carbon atoms with",
+		"options": [
+			"A.\n                 2 double bonds",
+			"B.\n                 3 double bonds",
+			"C.\n                 One double bond",
+			"D.\n                 None of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 20,
+		"question": "20. How many ATPs are formed during complete oxidation of palmitate?",
+		"options": [
+			"A.\n                 35",
+			"B.\n                 96",
+			"C.\n                 129",
+			"D.\n                 131"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 21,
+		"question": "21. The lowest energy value lipid for human nutrition is",
+		"options": [
+			"A.\n                 olive oil",
+			"B.\n                 olestra",
+			"C.\n                 margarine",
+			"D.\n                 cardiolipih"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 22,
+		"question": "22. How many classes of steroid hormones are there?",
+		"options": [
+			"A.\n                 3",
+			"B.\n                 2",
+			"C.\n                 4",
+			"D.\n                 5"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 23,
+		"question": "23. The number of water molecules consumed by the formation of phosphatidyl serine are",
+		"options": [
+			"A.\n                 0",
+			"B.\n                 1",
+			"C.\n                 2",
+			"D.\n                 4"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 24,
+		"question": "24. Synthesis of fatty acid takes place when",
+		"options": [
+			"A.\n                 fatty acid are plentiful",
+			"B.\n                 carbohydrate is plentiful",
+			"C.\n                 carbohydrate and energy are plentiful",
+			"D.\n                 none of these"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 25,
+		"question": "25. Which of the following is called milk ejection hormone?",
+		"options": [
+			"A.\n                 Prolactin",
+			"B.\n                 Vasopressin",
+			"C.\n                 Oxytocin",
+			"D.\n                 All of these"
+		],
+		"answer": "C"
+	}
+]

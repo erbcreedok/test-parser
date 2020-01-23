@@ -1,0 +1,365 @@
+[
+	{
+		"number": 1,
+		"question": "1. Hydrogen bonds in a-helices are",
+		"options": [
+			"A.\n                 more numerous than Vander Waals interactions",
+			"B.\n                 not present at Phe residues",
+			"C.\n                 analogous to the steps in a spiral staircase",
+			"D.\n                 roughly parallel to the helix axis"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 2,
+		"question": "2. The peptide bond in proteins is",
+		"options": [
+			"A.\n                 only found between proline residues",
+			"B.\n                 usually cis unless proline is the next amino acid",
+			"C.\n                 usually trans unless proline is the next amino acid",
+			"D.\n                 is planar because of steric hinderance"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 3,
+		"question": "3. The molecular formula for glycine is C2H5O2N. What would be the molecular formula for a linear oligomer made by linking ten glycine molecules together by condensation synthesis?",
+		"options": [
+			"A.\n                 C20H50O20N10",
+			"B.\n                 C20H32O11N10",
+			"C.\n                 C20H40O10N10",
+			"D.\n                 C20H68O29N10"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 4,
+		"question": "4. Which of the following is an example of tertiary structure in a protein?",
+		"options": [
+			"A.\n                 A multimeric protein",
+			"B.\n                 An a-helix",
+			"C.\n                 A P-pleated sheet",
+			"D.\n                 A globular domain"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 5,
+		"question": "5. The peptide, Val-Lys-Glu-Met-Ser-Trp-Arg-Ala, was digested with cyanogen bromide (CNBr) to produce:",
+		"options": [
+			"A.\n                 Val-Lys + Glu-Met-Ser + Trp-Arg-Ala",
+			"B.\n                 Val-Lys-Glu-Met-Ser-Trp + Arg-Ala",
+			"C.\n                 Val-Lys-Glu-Met + Ser-Trp-Arg-Ala",
+			"D.\n                 Val-Lys-Glu + Met-Ser-Trp-Arg-Ala"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 6,
+		"question": "6. In deoxy hemoglobin (Hb), the Fe (II) is coordinated to",
+		"options": [
+			"A.\n                 four nitrogens of heme, the proximal His, and a water molecule",
+			"B.\n                 four nitrogens of heme and to a water molecule",
+			"C.\n                 two nitrogens of heme and to three His residues in Hb",
+			"D.\n                 two nitrogens of heme and to three water molecules"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. In the β-pleated sheet",
+		"options": [
+			"A.\n                 hydrogen bonds are formed between the peptide bonds",
+			"B.\n                 adjacent polypeptide chains can either be parallel or antiparallel",
+			"C.\n                 the polypeptide chain is fully extended",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 8,
+		"question": "8. The Ramachandran Plot illustrates the fact that",
+		"options": [
+			"A.\n                 the peptide bond is planar",
+			"B.\n                 the F & Y angles can assume any value in a peptide",
+			"C.\n                 the F & Y angles can assume only a single value in a protein",
+			"D.\n                 the F & Y angles can assume approximately three different values"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 9,
+		"question": "9. The resonance structures that can be drawn for the peptide bond indicate that the peptide bond",
+		"options": [
+			"A.\n                 is stronger than an ordinary single bond",
+			"B.\n                 has partial double bond character",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 is still not completely understood"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 10,
+		"question": "10. The major element of secondary structure in myoglobin and hemoglobin is",
+		"options": [
+			"A.\n                 the P-strand",
+			"B.\n                 the a-helix",
+			"C.\n                 the reverse turn",
+			"D.\n                 All of these"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 11,
+		"question": "11. An oil drop with a polar coat is a metaphor referring to the three dimensional structure of",
+		"options": [
+			"A.\n                 fibrous proteins",
+			"B.\n                 collagen",
+			"C.\n                 globular proteins",
+			"D.\n                 silk protein"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 12,
+		"question": "12. What was the first protein whose complete tertiary structure was determined?",
+		"options": [
+			"A.\n                 Lysozyme",
+			"B.\n                 Myoglobin",
+			"C.\n                 Pancreatic ribonuclease",
+			"D.\n                 Pancreatic DNase"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 13,
+		"question": "13. The peptide bond in proteins is",
+		"options": [
+			"A.\n                 planar, but rotates to three preferred dihedral angles",
+			"B.\n                 nonpolar, but rotates to three preferred dihedral angles",
+			"C.\n                 nonpolar, and fixed in a trans conformation",
+			"D.\n                 planar, and usually found in a trans conformation"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 14,
+		"question": "14. In β-pleated sheet structures neighbouring",
+		"options": [
+			"A.\n                 chains lie in a flat plane",
+			"B.\n                 neighboring residues are hydrogen bonded",
+			"C.\n                 neighboring chains are connected by a-helices",
+			"D.\n                 neighboring chains are hydrogen bonded"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 15,
+		"question": "15. The same peptide, Val-Lys-Glu-Met-Ser-Trp-Arg-Ala. was digested with chymotrypsin to produce",
+		"options": [
+			"A.\n                 Val-Lys + Glu-Met-Ser + Trp-Arg-Ala.",
+			"B.\n                 Val-Lys-Glu-Met-Ser-Trp + Arg-Ala.",
+			"C.\n                 Val-Lys-Glu-Met-Ser + Trp-Arg-Ala.",
+			"D.\n                 Val-Lys-Glu-Met + Ser-Trp-Arg-Ala."
+		],
+		"answer": "B"
+	},
+	{
+		"number": 16,
+		"question": "16. Disulfide bonds most often stabilize the native structure of",
+		"options": [
+			"A.\n                 extracellular proteins",
+			"B.\n                 dimeric proteins",
+			"C.\n                 hydrophobic proteins",
+			"D.\n                 intracellular proteins"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 17,
+		"question": "17. Secondary structure in protein refers to",
+		"options": [
+			"A.\n                 linear sequence of amino acids joined together by peptide bond",
+			"B.\n                 three dimensional arrangement of all amino acids in polypeptide chain",
+			"C.\n                 regular folding of regions of the polypeptide chain",
+			"D.\n                 protein made up of more than one polypeptide chain"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 18,
+		"question": "18. Heme is the binding pocket of myoglobin and hemoglobin and is composed of",
+		"options": [
+			"A.\n                 negatively charged residues",
+			"B.\n                 polar residues",
+			"C.\n                 hydrophobic residues",
+			"D.\n                 positively charged residues"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 19,
+		"question": "19. What is the effect of a decrease in pH on hemoglobin oxygen affinity?",
+		"options": [
+			"A.\n                 Decrease in oxygen affinity",
+			"B.\n                 Increase in oxygen affinity",
+			"C.\n                 No effect on oxygen affinity",
+			"D.\n                 Increase affinity in muscle cell otherwise decrease"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 20,
+		"question": "20. What is the proportion of glycine residues in collagenous regions?",
+		"options": [
+			"A.\n                 One-fourth",
+			"B.\n                 One-third",
+			"C.\n                 Half",
+			"D.\n                 One-tenth"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 21,
+		"question": "21. Which of the following statements is incorrect?",
+		"options": [
+			"A.\n                 Protein G contains both a-helix and P-sheet",
+			"B.\n                 Protein G contains only a-helix",
+			"C.\n                 Fatty acid binding protein contains largely P-sheet",
+			"D.\n                 Hemoglobin contains four sub-units"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 22,
+		"question": "22. The oxygen binding curves of hemoglobin and myoglobin",
+		"options": [
+			"A.\n                 allow maximum transfer of oxygen to the tissues",
+			"B.\n                 are a consequence of the quaternary structure of hemoglobin",
+			"C.\n                 both (a) and (b)",
+			"D.\n                 are identical"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 23,
+		"question": "23. The nature of peptide bond can be best explained as",
+		"options": [
+			"A.\n                 partial double bond",
+			"B.\n                 truly double bond",
+			"C.\n                 Hydrogen bond",
+			"D.\n                 Van der waals force"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 24,
+		"question": "24. Which of the following statement is incorrect?",
+		"options": [
+			"A.\n                 Hemoglobin and myoglobin are the two oxygen binding proteins",
+			"B.\n                 Hemoglobin transports O2 in the blood",
+			"C.\n                 Myoglobin stores O2 in muscles",
+			"D.\n                 None of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 25,
+		"question": "25. Which hemoglobin chain replaces the beta chain in embryonic hemoglobulin?",
+		"options": [
+			"A.\n                 Delta",
+			"B.\n                 Epsilon",
+			"C.\n                 Gamma",
+			"D.\n                 Alfa"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 26,
+		"question": "26. Hemoglobin has quaternary structure and is made up of",
+		"options": [
+			"A.\n                 six polypeptide chains, two α-chains and four β-chains",
+			"B.\n                 two polypeptide chains, one α-chains and one β-chains",
+			"C.\n                 four polypeptide chains, two α-chains and two β-chains",
+			"D.\n                 five polypeptide chains, two α-chains and three β-chains"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 27,
+		"question": "27. When pO2 = Kd of myoglobin, the fractional saturation (YO2) is about",
+		"options": [
+			"A.\n                 0.1",
+			"B.\n                 0.5",
+			"C.\n                 0.9",
+			"D.\n                 1.7"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 28,
+		"question": "28. Peptides in the fully extended chain conformation",
+		"options": [
+			"A.\n                 have Y = F = 180°",
+			"B.\n                 do not occur in nature",
+			"C.\n                 also have a cis geometry in their peptide bonds",
+			"D.\n                 are equivalent to the (3-sheet structure"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 29,
+		"question": "29. The oxygen in hemoglobin and myoglobin is bound to",
+		"options": [
+			"A.\n                 the iron atom in the heme group",
+			"B.\n                 the nitrogen atoms on the heme",
+			"C.\n                 histidine residues in the protein",
+			"D.\n                 lysine residues in the protein"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 30,
+		"question": "30. Which of the three subunits of the G proteins binds GDP and GTP?",
+		"options": [
+			"A.\n                 Alpha",
+			"B.\n                 Beta",
+			"C.\n                 Gamma",
+			"D.\n                 Delta"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 31,
+		"question": "31. If the F and Y angles of each peptide unit in a protein are known, which of the following may also be determined?",
+		"options": [
+			"A.\n                 Complete secondary structure",
+			"B.\n                 Complete tertiary structure",
+			"C.\n                 Complete quaternary structure",
+			"D.\n                 Thermodynamic stability"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 32,
+		"question": "32. The different orders of protein structure are determined by all of the following bond types except",
+		"options": [
+			"A.\n                 peptide bonds",
+			"B.\n                 phospho-diester bonds",
+			"C.\n                 disulfide bridges",
+			"D.\n                 hydrogen bonds"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 33,
+		"question": "33. The heme is held in place by a bond between",
+		"options": [
+			"A.\n                 the Fe2+ and cysteine",
+			"B.\n                 the Fe3+ and histidine",
+			"C.\n                 the Fe3+ and cysteine",
+			"D.\n                 the Fe2+ and histidine"
+		],
+		"answer": "D"
+	}
+]

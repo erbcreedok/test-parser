@@ -1,0 +1,255 @@
+[
+	{
+		"number": 1,
+		"question": "1. Which of the following two organelles look most alike structurally?",
+		"options": [
+			"A.\n                 Nucleus and vesicle",
+			"B.\n                 Golgi apparatus and smooth endoplasmic reticulum ER",
+			"C.\n                 Vacuole and cytoskeleton",
+			"D.\n                 Lysosome and chloroplast"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 2,
+		"question": "2. In terms of basic cell structure, what do an elephant and an oak tree have in common?",
+		"options": [
+			"A.\n                 They both are eukaryotes",
+			"B.\n                 They both have a cell nucleus",
+			"C.\n                 They both have mitochondria",
+			"D.\n                 All of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 3,
+		"question": "3. Where in a eukaryotic cell, DNA can be found?",
+		"options": [
+			"A.\n                 Nucleus",
+			"B.\n                 Mitochondrion",
+			"C.\n                 Vacuole",
+			"D.\n                 Both (a) and (b)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 4,
+		"question": "4. Which of the following structures is expected in a bacterium?",
+		"options": [
+			"A.\n                 Nucleus",
+			"B.\n                 Plasma membrane",
+			"C.\n                 Golgi apparatus",
+			"D.\n                 Endoplasmic reticulum"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 5,
+		"question": "5. Which of the following organelles is directly connected to the outer membrane of the nucleus in a eukaryotic cell?",
+		"options": [
+			"A.\n                 Mitochondrion",
+			"B.\n                 Lysosome",
+			"C.\n                 Golgi apparatus",
+			"D.\n                 Endoplasmic reticulum"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 6,
+		"question": "6. Microtubules, motor proteins, and actin filaments are all part of",
+		"options": [
+			"A.\n                 the mechanism of photosynthesis that occurs in chloroplasts",
+			"B.\n                 the rough ER (endoplasmic reticulum) in prokaryotic cells",
+			"C.\n                 the cytoskeleton of eukaryotic cells",
+			"D.\n                 the process that moves small molecules across cell membranes"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 7,
+		"question": "7. A certain cell organelle which is made of a double phospholipid bilayer that has many large pores in it, is most likely",
+		"options": [
+			"A.\n                 the nuclear envelope",
+			"B.\n                 the plasma membrane",
+			"C.\n                 the mitochondrion",
+			"D.\n                 the cytoskeleton"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 8,
+		"question": "8. Which of the following cell organelles are expected to be associated with motor proteins?",
+		"options": [
+			"A.\n                 Smooth ER",
+			"B.\n                 Vesicles",
+			"C.\n                 Plasma membrane",
+			"D.\n                 Chloroplasts"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 9,
+		"question": "9. Eukaryotic cells are more efficient than prokaryotes because their internal compartmentalization",
+		"options": [
+			"A.\n                 makes each compartment nutritionally independent of all others",
+			"B.\n                 allows for specialization through the subdivision of particular tasks",
+			"C.\n                 allows for specialization through merging of different tasks",
+			"D.\n                 reduces overall cell size"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 10,
+		"question": "10. An organism's first line of defense against attack by an invader such as a virus or bacterium is usually",
+		"options": [
+			"A.\n                 to flee or hide",
+			"B.\n                 its body wall",
+			"C.\n                 a specific immune response",
+			"D.\n                 a nonspecific immune response"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 11,
+		"question": "11. According to the fluid mosaic model of cell membranes,",
+		"options": [
+			"A.\n                 the most common type of molecules in the membrane are proteins",
+			"B.\n                 basic membrane structure results from how the proteins interact with water",
+			"C.\n                 the membrane is a highly mobile mixture of phospholipids and proteins",
+			"D.\n                 the unique properties of cell types are determined by their phospholipids"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 12,
+		"question": "12. The simplest way to differentiate a prokaryotic cell from a eukaryotic one is to",
+		"options": [
+			"A.\n                 look for a plasma membrane",
+			"B.\n                 see if a nucleus is present",
+			"C.\n                 check for the presence of DNA",
+			"D.\n                 determine if the cell is an entire organism or not"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 13,
+		"question": "13. Which of the following is the best criterion for deciding whether a cell is prokaryotic or eukaryotic?",
+		"options": [
+			"A.\n                 The cell came from a single-celled or multicelled organism",
+			"B.\n                 The cell has a nucleus or not",
+			"C.\n                 The cell has cytosol or not",
+			"D.\n                 DNA is present in the cell or not"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 14,
+		"question": "14. Lysosomes are specialized vesicles in __________ that contain digestive enzymes for the breakdown of food. A related organalle known as a vacuole, which is found in __________ , also contains enzymes but in addition may act as a storage organelle for nutrients or water.",
+		"options": [
+			"A.\n                 animals; plants and fungi",
+			"B.\n                 plants; animals and fungi",
+			"C.\n                 plants and fungi; animals",
+			"D.\n                 animals and plants; fungi"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 15,
+		"question": "15. The highly folded membranes found in such eukaryotic organelles as mitochondria and chloroplasts",
+		"options": [
+			"A.\n                 increase the surface area where key chemical processes can occur",
+			"B.\n                 help the cell against physical damage",
+			"C.\n                 make it possible to package large amounts of DNA within the cell",
+			"D.\n                 assist with cell movement"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 16,
+		"question": "16. Which of the following statements about prokaryotes is false?",
+		"options": [
+			"A.\n                 Prokaryotic cells concentrate important materials for the cells survival",
+			"B.\n                 The substance known as cytosol is found within the bacterial nucleus",
+			"C.\n                 Prokaryotic cells are much smaller than most eukaryotic cells",
+			"D.\n                 Ancient prokaryotes may have given rise to some eukaryotic organelles"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 17,
+		"question": "17. What do dystrophin, utrophin, actin, and tubulin have to do with eukaryotic cell structure and function?",
+		"options": [
+			"A.\n                 They are components in the reactions of photosynthesis",
+			"B.\n                 They all participate in the degradation of large amounts of ATP",
+			"C.\n                 They all participate in the production of large amounts of ATP",
+			"D.\n                 They are all embedded proteins in plasma membranes"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 18,
+		"question": "18. In which of the following cell organelles, it is expected to find the biochemical reactions that harness energy from the breakdown of sugar molecules to synthesize large amounts of ATP?",
+		"options": [
+			"A.\n                 Lysosome",
+			"B.\n                 Vesicles",
+			"C.\n                 Mitochondria",
+			"D.\n                 Plasma membrane"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 19,
+		"question": "19. Which of the following macromolecules are found in the plasma membrane?",
+		"options": [
+			"A.\n                 Lipids and proteins only",
+			"B.\n                 Lipids, proteins, and carbohydrates",
+			"C.\n                 Proteins and carbohydrates only",
+			"D.\n                 Proteins only"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 20,
+		"question": "20. Clearly defined nucleus, mitochondria in a large central vacuole and chloroplasts, indicate the group of organisms from",
+		"options": [
+			"A.\n                 bacteria",
+			"B.\n                 fungi",
+			"C.\n                 plants",
+			"D.\n                 animals"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 21,
+		"question": "21. Which of the following are responsible causing the diseases?",
+		"options": [
+			"A.\n                 Pathogens",
+			"B.\n                 T cells",
+			"C.\n                 Lymphocytes",
+			"D.\n                 Macrophages"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 22,
+		"question": "22. In which of the following cell types more cellular detail can be observed using an electron microscope compared to a light microscope?",
+		"options": [
+			"A.\n                 Animal",
+			"B.\n                 Bacterial",
+			"C.\n                 Protist",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 23,
+		"question": "23. Which of the following is present in both prokaryotes and eukaryotes?",
+		"options": [
+			"A.\n                 Lysosome",
+			"B.\n                 Chloroplast",
+			"C.\n                 Plasma membrane",
+			"D.\n                 Vacuole"
+		],
+		"answer": "C"
+	}
+]

@@ -3,8 +3,8 @@ const writeData = require('./writer').default;
 
 const links = [   
     'http://www.indiabix.com/biochemistry/structure-and-properties-of-amino-acids/',
-    'http://www.indiabix.com/biochemistry/thermodynamics-and-free-energy/',
-    'http://www.indiabix.com/biochemistry/protein-purification/',
+    // 'http://www.indiabix.com/biochemistry/thermodynamics-and-free-energy/',
+    // 'http://www.indiabix.com/biochemistry/protein-purification/',
     // 'http://www.indiabix.com/biochemistry/allosteric-effects/',
     // 'http://www.indiabix.com/biochemistry/immune-system/',
     // 'http://www.indiabix.com/biochemistry/anti-bodies/',
