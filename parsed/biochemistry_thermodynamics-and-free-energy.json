@@ -1,0 +1,68 @@
+[
+	{
+		"number": 1,
+		"question": "1. During the unfolding reaction of a helix, breakage of each hydrogen bond requires about 2kJ/mol. This implies hydrogen bonds are",
+		"options": [
+			"A.\n                 much stronger in proteins than in water",
+			"B.\n                 not reformed with water",
+			"C.\n                 slightly weaker in proteins than in water",
+			"D.\n                 slightly stronger in proteins than in water"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 2,
+		"question": "2. If the enthalpy change for a reaction is zero, ΔG° is equal to",
+		"options": [
+			"A.\n                 TΔS°",
+			"B.\n                 -TΔS°",
+			"C.\n                 -ΔH°",
+			"D.\n                 lnKeq"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 3,
+		"question": "3. Reactions that have positive standard free energy changes (ΔGo> 0) can be made to occur in cells by",
+		"options": [
+			"A.\n                 coupling them with exergonic reactions via a common intermediate",
+			"B.\n                 manipulating the concentrations of products and reactants such that G/<0",
+			"C.\n                 coupling them to the hydrolysis of ATP",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 4,
+		"question": "4. The Standard Gibb's free energy, ΔG°, is",
+		"options": [
+			"A.\n                 the residual energy present in the reactants at equilibrium",
+			"B.\n                 the residual energy present in the products at equilibrium",
+			"C.\n                 the difference in the residual energy of reactants and products at equilibrium",
+			"D.\n                 the energy required to convert one mole of reactants to one mole of products"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 5,
+		"question": "5. If the Standard Gibb's free energy, ΔG°, for a reaction is positive then",
+		"options": [
+			"A.\n                 the products will be favored",
+			"B.\n                 the reactants will be favored",
+			"C.\n                 the concentration of the reactants and products will be equal",
+			"D.\n                 all of the reactant will be converted to product"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 6,
+		"question": "6. The unfolding of regular secondary structure causes",
+		"options": [
+			"A.\n                 little increase in the entropy of protein",
+			"B.\n                 large decrease in the entropy of the protein",
+			"C.\n                 no change in the entropy of the protein",
+			"D.\n                 large increase in the entropy of the protein"
+		],
+		"answer": "D"
+	}
+]

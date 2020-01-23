@@ -6,6 +6,7 @@ function writeData(data, filename) {
         console.log(`JSON has been saved to ${filename}`);
         return true;
     } catch (e) {
+        console.log(`error while saving ${filename}`);
         return false;
     }
 }

@@ -1,0 +1,365 @@
+[
+	{
+		"number": 1,
+		"question": "1. When the amino acid alanine (R-group is CH3) is added to a solution with a pH of 7.3, alanine becomes",
+		"options": [
+			"A.\n                 a cation",
+			"B.\n                 nonpolar",
+			"C.\n                 a zwitterions",
+			"D.\n                 an isotope"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 2,
+		"question": "2. What is the end product of leucine metabolism?",
+		"options": [
+			"A.\n                 Acetyl-CoA",
+			"B.\n                 Pyruvic acid",
+			"C.\n                 Oxaloacetic acid",
+			"D.\n                 Acetyl carnitine"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 3,
+		"question": "3. What is the heaviest of the twenty amino acids?",
+		"options": [
+			"A.\n                 Phenylalanine",
+			"B.\n                 Tryptophan",
+			"C.\n                 Tyrosine",
+			"D.\n                 Histidine"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 4,
+		"question": "4. Which of the following amino acids can form hydrogen bonds with their side (R) groups?",
+		"options": [
+			"A.\n                 Asparagine",
+			"B.\n                 Aspartic acid",
+			"C.\n                 Glutamine",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 5,
+		"question": "5. The isoelectric point of an amino acid is defined as the pH",
+		"options": [
+			"A.\n                 where the molecule carries no electric charge",
+			"B.\n                 where the carboxyl group is uncharged",
+			"C.\n                 where the amino group is uncharged",
+			"D.\n                 of maximum electrolytic mobility"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. Molecules that bear charged groups of opposite polarity are known as",
+		"options": [
+			"A.\n                 zwitterions",
+			"B.\n                 ambions",
+			"C.\n                 ion conversion",
+			"D.\n                 amphions"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 7,
+		"question": "7. What is the product of the catabolic breakdown of Arginine?",
+		"options": [
+			"A.\n                 Alpha-ketoglutarate",
+			"B.\n                 Fumarate",
+			"C.\n                 Oxaloacetate",
+			"D.\n                 Succinate"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 8,
+		"question": "8. Which amino acids would most likely reside in the membrane-anchoring domain of a membrane embedded protein?",
+		"options": [
+			"A.\n                 Isoleucine, valine and phenylalanine",
+			"B.\n                 Phenylalanine, valine, and aspartate",
+			"C.\n                 Leucine, threonine, and lysine",
+			"D.\n                 Lysine, arginine and histidine"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 9,
+		"question": "9. An essential amino acid is one that",
+		"options": [
+			"A.\n                 is essentially easy to synthesize",
+			"B.\n                 is essential to flagella motion",
+			"C.\n                 the body cannot synthesize",
+			"D.\n                 the body can synthesize under essential conditions"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 10,
+		"question": "10. D-Alanine and L-Alanine are technically known as",
+		"options": [
+			"A.\n                 anomers",
+			"B.\n                 enantiomers",
+			"C.\n                 epimers",
+			"D.\n                 polymer"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 11,
+		"question": "11. Which of the following pairs of amino acids would carry a negative charge on their side chain at pH 8.0?",
+		"options": [
+			"A.\n                 Asparagine & Glutamine",
+			"B.\n                 Leucine & Glycine",
+			"C.\n                 Histidine & Lysine",
+			"D.\n                 Aspartate & Glutamate"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 12,
+		"question": "12. In a polypeptide average mass of an amino acid residue is",
+		"options": [
+			"A.\n                 110 daltons",
+			"B.\n                 118 daltons",
+			"C.\n                 80 daltons",
+			"D.\n                 150 daltons"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 13,
+		"question": "13. Which pair of amino acids absorbs the most UV light at 280 nm?",
+		"options": [
+			"A.\n                 Threonine & Histidine",
+			"B.\n                 Trp & Tyrosine",
+			"C.\n                 Cystein & Asparagine",
+			"D.\n                 Phenylalnine & Proline"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 14,
+		"question": "14. Which of the following is a nonstandard amino acid?",
+		"options": [
+			"A.\n                 Cysteine",
+			"B.\n                 Isoleucine",
+			"C.\n                 Hydroxyproline",
+			"D.\n                 Histidine"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 15,
+		"question": "15. Which of the following is an essential amino acid?",
+		"options": [
+			"A.\n                 Tryptophan",
+			"B.\n                 Methionine",
+			"C.\n                 Lysine",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 16,
+		"question": "16. Protein fluorescence arises primarily from which residue?",
+		"options": [
+			"A.\n                 Arginine",
+			"B.\n                 Tryptophan",
+			"C.\n                 Tyrosine",
+			"D.\n                 Phenylalanine"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 17,
+		"question": "17. Which of the following amino acid is known as half-cystine residue?",
+		"options": [
+			"A.\n                 Cysteine",
+			"B.\n                 Isoleucine",
+			"C.\n                 Valine",
+			"D.\n                 Histidine"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 18,
+		"question": "18. Which of the following is not an essential amino acid?",
+		"options": [
+			"A.\n                 Aspartic acid",
+			"B.\n                 Glutamic acid",
+			"C.\n                 Glycine",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 19,
+		"question": "19. Which of the following is not a sensible grouping of amino acids based on their polarity properties?",
+		"options": [
+			"A.\n                 Ala, Leu, and Val",
+			"B.\n                 Arg, His, and Lys",
+			"C.\n                 Phe, Trp, and Tyr",
+			"D.\n                 Asp, Ile, and Pro"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 20,
+		"question": "20. Proteins and macromolecular structures take on their higher order structures",
+		"options": [
+			"A.\n                 by self-assembly",
+			"B.\n                 with the help of molecular chaperons",
+			"C.\n                 with the help of precursor sequences that are removed from the final structures",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 21,
+		"question": "21. What is the product of the catabolic breakdown of Alanine?",
+		"options": [
+			"A.\n                 Fumarate",
+			"B.\n                 Oxaloacetate",
+			"C.\n                 Pyruvate",
+			"D.\n                 Malate"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 22,
+		"question": "22. How many different amino acids are there?",
+		"options": [
+			"A.\n                 3",
+			"B.\n                 20",
+			"C.\n                 100",
+			"D.\n                 An infinite number"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 23,
+		"question": "23. Amino acids required in the human diet and not synthesized by the body are called",
+		"options": [
+			"A.\n                 specialized",
+			"B.\n                 trace",
+			"C.\n                 essential",
+			"D.\n                 accessory"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 24,
+		"question": "24. Which of the following amino acid contain an imidazolium moiety?",
+		"options": [
+			"A.\n                 Alanine",
+			"B.\n                 Valine",
+			"C.\n                 Cysteine",
+			"D.\n                 Histidine"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 25,
+		"question": "25. The sequence of letters 'WYQN' will represent",
+		"options": [
+			"A.\n                 Tryptophan, tyrosine, glutamic acid, asparagine",
+			"B.\n                 Tryptophan, tyrosine, glutamine, asparagine",
+			"C.\n                 Tryptophan, glutamine, tryptophan, asparagine",
+			"D.\n                 Glutamine, tyrosine, tryptophan, aspartic acid"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 26,
+		"question": "26. The sulphur containing side chain of cysteine is",
+		"options": [
+			"A.\n                 ampiphillic, highly reactive and capable of reacting with another cysteine",
+			"B.\n                 hydrophillc, highly reactive and capable of reacting with another cysteine",
+			"C.\n                 hydrophobic, highly reactive and capable of reacting with another cysteine",
+			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 27,
+		"question": "27. Which of the following is a nonprotein amino acid?",
+		"options": [
+			"A.\n                 Dopamine",
+			"B.\n                 Hydroxylysine",
+			"C.\n                 Cystine",
+			"D.\n                 None of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 28,
+		"question": "28. Serine and threonine are polar amino acids due to",
+		"options": [
+			"A.\n                 reactive hydroxyl group in the side chain",
+			"B.\n                 reactive alcoholic group in the side chain",
+			"C.\n                 reactive keto group in the side chain",
+			"D.\n                 reactive aldehyde group in the side chain"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 29,
+		"question": "29. Which of the following is not the hydrophobic and aromatic amino acid?",
+		"options": [
+			"A.\n                 Phenylalanine",
+			"B.\n                 Tyrosine",
+			"C.\n                 Tryptophan",
+			"D.\n                 None of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 30,
+		"question": "30. Stereo chemical configuration of all a-amino acids derived from proteins is",
+		"options": [
+			"A.\n                 L",
+			"B.\n                 D",
+			"C.\n                 L and D",
+			"D.\n                 None of these"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 31,
+		"question": "31. The α-amino acids have a carboxyl group with a pK around __________ , and an amino group with a pK near __________ .",
+		"options": [
+			"A.\n                 1.1, and 12.1",
+			"B.\n                 6.5, and 8.0",
+			"C.\n                 3.3, and 10.5",
+			"D.\n                 2.2, and 9.4"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 32,
+		"question": "32. Coomassie Blue stains the proteins by reacting with",
+		"options": [
+			"A.\n                 arginine residues",
+			"B.\n                 free c-termini",
+			"C.\n                 peptide bonds",
+			"D.\n                 aromatic ring"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 33,
+		"question": "33. Which amino acid when exposed to ninhydrin produces a brown color?",
+		"options": [
+			"A.\n                 Asparagine",
+			"B.\n                 Proline",
+			"C.\n                 Alanine",
+			"D.\n                 Valine"
+		],
+		"answer": "A"
+	}
+]

@@ -1,0 +1,90 @@
+[
+	{
+		"number": 1,
+		"question": "1. During successful purification scheme, this may be expected that the",
+		"options": [
+			"A.\n                 specific activity increases",
+			"B.\n                 specific activity decreases",
+			"C.\n                 number of proteins in the sample decreases",
+			"D.\n                 both (a) and (c)"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 2,
+		"question": "2. In ion-exchange chromatography",
+		"options": [
+			"A.\n                 proteins are separated on the basis of their net charge",
+			"B.\n                 proteins are separated on the basis of their size",
+			"C.\n                 proteins are separated on the basis of their shape",
+			"D.\n                 either (b) or (c)"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 3,
+		"question": "3. Which of the following may be added to stabilize the protein after yeast cells disruption?",
+		"options": [
+			"A.\n                 NaCl",
+			"B.\n                 Protease inhibitor",
+			"C.\n                 AMP",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 4,
+		"question": "4. Gel-filtration chromatography separates on the basis of",
+		"options": [
+			"A.\n                 size and shape using porous beads packed in a column",
+			"B.\n                 size using porous beads packed in a column",
+			"C.\n                 shape using porous beads packed in a column",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 5,
+		"question": "5. Affinity chromatography deals with the",
+		"options": [
+			"A.\n                 specific binding of a protein constituents for another molecule",
+			"B.\n                 protein - protein interaction",
+			"C.\n                 protein - carbohydrate interaction",
+			"D.\n                 none of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 6,
+		"question": "6. A purified protein sample contains 10 μg of protein and has an enzyme activity of 1 m mole of ATP synthesized/sec (1 unit). What is the specific activity of the final purified sample?",
+		"options": [
+			"A.\n                 1,000 units/mg",
+			"B.\n                 10,000 units/mg.",
+			"C.\n                 100,000 units/mg",
+			"D.\n                 1,000,000 units/mg"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 7,
+		"question": "7. Proteins separation can be carried out on the basis of",
+		"options": [
+			"A.\n                 net charge",
+			"B.\n                 solubility in salt solutions",
+			"C.\n                 size or mass",
+			"D.\n                 all of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 8,
+		"question": "8. The best way to determine the location of protein in the purification scheme is to measure the",
+		"options": [
+			"A.\n                 rate of ATP synthesis",
+			"B.\n                 changes in the refractive index",
+			"C.\n                 UV absorption",
+			"D.\n                 mass spectroscopy of the protein"
+		],
+		"answer": "A"
+	}
+]

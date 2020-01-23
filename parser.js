@@ -8,11 +8,27 @@ function getQuestion(node) {
     return {number, question, options, answer};
 }
 
-function getQuestions(htmlString) {
-    const dom = new JSDOM(htmlString);
-    const document = dom.window.document;
+function getQuestions(document) {
     const questions = Array.from(document.querySelectorAll('.bix-tbl-container')).map(getQuestion);   
     return questions;
 }
 
-module.exports.default = getQuestions;
+function getDocument(url) {
+    return JSDOM.fromURL(url).then(dom => {
+        console.log(`fetching ${url}`);
+        return dom.window.document;
+    });
+}
+
+async function getAllQuestions(parentURL, thisUrl=parentURL) {
+    const document = await getDocument(thisUrl);
+    const questions = getQuestions(document);
+    let nextPageElem = document.querySelector('.mx-pager a:last-child');
+    if (nextPageElem) {
+        const nextURL = parentURL + nextPageElem.href.split(parentURL)[1];
+        questions.push(...await getAllQuestions(parentURL, nextURL));
+    }
+    return questions;
+}
+
+module.exports = { getQuestions, getDocument, getAllQuestions };
