@@ -1,0 +1,57 @@
+[
+	{
+		"number": 1,
+		"question": "1. Which of the following organic groups are found in naturally occuring amino acids?",
+		"options": [
+			"A.\n                 Guanidinium ion",
+			"B.\n                 Indole",
+			"C.\n                 Imidazole",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 2,
+		"question": "2. Polyprotic acids such as H3PO4, can act as acid-base buffers",
+		"options": [
+			"A.\n                 only in combination with polyprotic bases",
+			"B.\n                 if their concentration is kept low",
+			"C.\n                 at pH values around neutrality",
+			"D.\n                 at pH values around any of their pKa's"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 3,
+		"question": "3. The pH of a solution is determined by",
+		"options": [
+			"A.\n                 concentration of salt",
+			"B.\n                 relative concentration of acids and bases",
+			"C.\n                 dielectric constant of the medium",
+			"D.\n                 environmental effect"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 4,
+		"question": "4. The reactions of molecules",
+		"options": [
+			"A.\n                 are the reactions of the functional groups",
+			"B.\n                 are independent of the functional groups",
+			"C.\n                 require an enzyme in all cases",
+			"D.\n                 all of the above"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 5,
+		"question": "5. Which of the following indicates that the pK of an acid is numerically equal to the pH of the solution when the molar concentration of the acid and its conjugate base are equal?",
+		"options": [
+			"A.\n                 Michaelis-Menten equation",
+			"B.\n                 Haldanes equation",
+			"C.\n                 Henderson-Hasselbalch equation",
+			"D.\n                 Hardy-Windberg law"
+		],
+		"answer": "C"
+	}
+]

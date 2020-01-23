@@ -9,7 +9,6 @@ function getQuestion(node) {
 }
 
 function getQuestions(htmlString) {
-    console.log(htmlString);
     const dom = new JSDOM(htmlString);
     const document = dom.window.document;
     const questions = Array.from(document.querySelectorAll('.bix-tbl-container')).map(getQuestion);   
