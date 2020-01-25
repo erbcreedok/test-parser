@@ -3,9 +3,9 @@ const { JSDOM } = require('jsdom');
 function getQuestion(node) {
     const number = node.querySelector('.bix-td-qno').textContent - 0;
     const question = number + '. ' + node.querySelector('.bix-td-qtxt p').textContent;
-    const options = [...node.querySelectorAll('.bix-tbl-options tr')].map(x => x.textContent);
+    const options = [...node.querySelectorAll('.bix-tbl-options tr')].map(x => x.textContent.split('\n').map(x => x.trim()).join(' '));
     const answer = node.querySelector('.jq-hdnakqb').textContent;
-    return {number, question, options, answer};
+    return {question, options, answer};
 }
 
 function getQuestions(document) {
@@ -15,8 +15,8 @@ function getQuestions(document) {
 }
 
 function getDocument(url) {
+    console.log(`fetching ${url}`);
     return JSDOM.fromURL(url).then(dom => {
-        console.log(`fetching ${url}`);
         return dom.window.document;
     });
 }
@@ -26,7 +26,7 @@ async function getAllQuestions(parentURL, thisUrl=parentURL) {
     const questions = getQuestions(document);
     let nextPageElem = document.querySelector('.mx-pager a:last-child');
     if (nextPageElem) {
-        const nextURL = parentURL + nextPageElem.href.split(parentURL)[1];
+        const nextURL = nextPageElem.href;
         questions.push(...await getAllQuestions(parentURL, nextURL));
     }
     return questions;

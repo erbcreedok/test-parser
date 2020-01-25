@@ -1,442 +1,255 @@
 [
 	{
 		"number": 1,
-		"question": "1. The accepted hypothesis for DNA replication is",
+		"question": "1. Which of the following is not a structural motif in DNA binding proteins?",
 		"options": [
-			"A.\n                 conservative theory",
-			"B.\n                 dispersive theory",
-			"C.\n                 semi-conservative theory",
-			"D.\n                 evolutionary theory"
+			"A.\n                 bZIP",
+			"B.\n                 helix-turn-helix",
+			"C.\n                 TFIID",
+			"D.\n                 zinc finger"
 		],
 		"answer": "C"
 	},
 	{
 		"number": 2,
-		"question": "2. When DNA polymerase is in contact with guanine in the parental strand, what does it add to the growing daughter strand?",
+		"question": "2. DNA with a G-C content of 50% will melt at approximately",
 		"options": [
-			"A.\n                 Phosphate",
-			"B.\n                 Cytosine",
-			"C.\n                 Uracil",
-			"D.\n                 Guanine"
+			"A.\n                 60°C",
+			"B.\n                 70 °C",
+			"C.\n                 90 °C",
+			"D.\n                 100 °C"
 		],
-		"answer": "B"
+		"answer": "C"
 	},
 	{
 		"number": 3,
-		"question": "3. Telomeres are usually rich in which nucleotide?",
+		"question": "3. Who's X-ray work aided Watson and Crick in their discovery of the double helix?",
 		"options": [
-			"A.\n                 Adenine",
-			"B.\n                 Guanine",
-			"C.\n                 Thymine",
-			"D.\n                 Cytosine"
+			"A.\n                 W.H. Bragg",
+			"B.\n                 R. Franklin",
+			"C.\n                 L. Pauling",
+			"D.\n                 Leaderberg"
 		],
 		"answer": "B"
 	},
 	{
 		"number": 4,
-		"question": "4. Which is the largest among the followings?",
+		"question": "4. DNA replication in eukaryotes occurs only in",
 		"options": [
-			"A.\n                 Nucleotide",
-			"B.\n                 Nitrogenous base",
-			"C.\n                 Phosphate",
-			"D.\n                 Carbon"
+			"A.\n                 G1 phase",
+			"B.\n                 S phase",
+			"C.\n                 G2 phase",
+			"D.\n                 M phase"
 		],
-		"answer": "A"
+		"answer": "B"
 	},
 	{
 		"number": 5,
-		"question": "5. The chromosomal DNA complexes with",
-		"options": [
-			"A.\n                 three types of histone as H1, H2A and H4",
-			"B.\n                 five types of histone as H1, H2A, H2B, H3 and H4",
-			"C.\n                 four types of histone as H1, H2A, H3 and H4",
-			"D.\n                 two types of histone as H1 and H4"
-		],
-		"answer": "B"
-	},
-	{
-		"number": 6,
-		"question": "6. Taylor, Woods and Hughes labeled Vicia DNA by allowing new DNA synthesis in the presence of radioactive thymine. After DNA replication (S phase of the cell cycle), it was observed that",
-		"options": [
-			"A.\n                 only one chromatid of a chromosome was labeled",
-			"B.\n                 both chromatids of a chromosome were labeled",
-			"C.\n                 both (a) and (b)",
-			"D.\n                 neither chromatid was labeled"
-		],
-		"answer": "B"
-	},
-	{
-		"number": 7,
-		"question": "7. In DNA double helix, the two DNA chains are held together by",
-		"options": [
-			"A.\n                 covalent bonds between the pair of bases",
-			"B.\n                 hydrogen bonds between the pair of bases",
-			"C.\n                 ionic bonds between the pair of bases",
-			"D.\n                 none of the above"
-		],
-		"answer": "B"
-	},
-	{
-		"number": 8,
-		"question": "8. The 5' and 3' numbers are related to the",
-		"options": [
-			"A.\n                 length of the DNA strand",
-			"B.\n                 carbon number in sugar",
-			"C.\n                 the number of phosphates",
-			"D.\n                 the base pair rule"
-		],
-		"answer": "B"
-	},
-	{
-		"number": 9,
-		"question": "9. Messelsen and Stahl model of replication was called",
-		"options": [
-			"A.\n                 conservative replication",
-			"B.\n                 semi-conservative replication",
-			"C.\n                 dispersive replication",
-			"D.\n                 Cri du Chat"
-		],
-		"answer": "B"
-	},
-	{
-		"number": 10,
-		"question": "10. The most common liquid volumes in molecular biology are measured in",
-		"options": [
-			"A.\n                 ml",
-			"B.\n                 μl",
-			"C.\n                 nl",
-			"D.\n                 1"
-		],
-		"answer": "B"
-	},
-	{
-		"number": 11,
-		"question": "11. DNA replication takes place in which direction?",
-		"options": [
-			"A.\n                 3' to 5'",
-			"B.\n                 5 'to 3'",
-			"C.\n                 Randomly",
-			"D.\n                 Vary from organism to organism"
-		],
-		"answer": "B"
-	},
-	{
-		"number": 12,
-		"question": "12. DNA gyrase in E. coli",
-		"options": [
-			"A.\n                 adds positive supercoils to chromosomal DNA",
-			"B.\n                 can be inhibited with antibiotics",
-			"C.\n                 is required only at the oriC site",
-			"D.\n                 performs the same function as helicase in eukaryotes"
-		],
-		"answer": "B"
-	},
-	{
-		"number": 13,
-		"question": "13. In DNA, there are",
-		"options": [
-			"A.\n                 five bases known as adenine, guanine, thymine, tryptophan and cytosine",
-			"B.\n                 four bases known as adenine, guanine, thymine and cytosine",
-			"C.\n                 three bases known as adenine, guanine and cytosine",
-			"D.\n                 only two bases known as adenine and cytosine"
-		],
-		"answer": "B"
-	},
-	{
-		"number": 14,
-		"question": "14. In DNA, guanine pairs with",
-		"options": [
-			"A.\n                 Adenine",
-			"B.\n                 Cytosine",
-			"C.\n                 Thymine",
-			"D.\n                 Uracil"
-		],
-		"answer": "B"
-	},
-	{
-		"number": 15,
-		"question": "15. Which of the following is incorrect?",
-		"options": [
-			"A.\n                 In DNA double helix, two strands of the DNA are bound with each other with the bases",
-			"B.\n                 Adenine always pairs with thymine",
-			"C.\n                 Guanine always pairs with the cytosine",
-			"D.\n                 None of the above"
-		],
-		"answer": "D"
-	},
-	{
-		"number": 16,
-		"question": "16. What is the only common methylation in the DNA of eukaryotes?",
-		"options": [
-			"A.\n                 Adenosine in GpA dinucleotides",
-			"B.\n                 Guanosine in ApGpA trinucleotides",
-			"C.\n                 Cytosine in CpG dinucleotides",
-			"D.\n                 None of the above"
-		],
-		"answer": "C"
-	},
-	{
-		"number": 17,
-		"question": "17. DNAs when charged, migrate in a gel towards the",
-		"options": [
-			"A.\n                 positive pole",
-			"B.\n                 negative pole",
-			"C.\n                 will not migrate",
-			"D.\n                 none of these"
-		],
-		"answer": "A"
-	},
-	{
-		"number": 18,
-		"question": "18. What is the approximate size (in kb) of the E. coli genome?",
-		"options": [
-			"A.\n                 3000 kilobase",
-			"B.\n                 4500 kilobase",
-			"C.\n                 5500 kilobase",
-			"D.\n                 6500 kilobase"
-		],
-		"answer": "B"
-	},
-	{
-		"number": 19,
-		"question": "19. In the study of one experiment it was found that the value of Tm for DNA is = 40° C. If the cell has 20% GC at the above Tm, then what will be value of 'Tm' if the GC% increases to 60%?",
-		"options": [
-			"A.\n                 Remains same",
-			"B.\n                 Increases",
-			"C.\n                 Decreases",
-			"D.\n                 Can not be compared"
-		],
-		"answer": "B"
-	},
-	{
-		"number": 20,
-		"question": "20. What is the range of melting point temperatures (Tm) for most DNA molecules?",
-		"options": [
-			"A.\n                 50 to 60°C",
-			"B.\n                 60 to 80°C",
-			"C.\n                 70 to 90°C",
-			"D.\n                 80 to l00°C"
-		],
-		"answer": "D"
-	},
-	{
-		"number": 21,
-		"question": "21. The overall conclusion of the Hershey-Chase experiment was that",
-		"options": [
-			"A.\n                 DNA was responsible for heredity",
-			"B.\n                 proteins and DNA were responsible for heredity",
-			"C.\n                 the ratio of Adenine to thymine was always the same",
-			"D.\n                 phage DNA was similar to bacterial DNA"
-		],
-		"answer": "A"
-	},
-	{
-		"number": 22,
-		"question": "22. A cesium chloride will separate DNA molecules by",
-		"options": [
-			"A.\n                 absorption",
-			"B.\n                 resorption",
-			"C.\n                 density",
-			"D.\n                 adhesion"
-		],
-		"answer": "C"
-	},
-	{
-		"number": 23,
-		"question": "23. If one cell has AT contents 40%, what will be the percentage of Guanine residue?",
-		"options": [
-			"A.\n                 60%",
-			"B.\n                 15%",
-			"C.\n                 30%",
-			"D.\n                 Guanine residue can not be calculated"
-		],
-		"answer": "C"
-	},
-	{
-		"number": 24,
-		"question": "24. Which of the following enzyme adds complementary bases during replication?",
-		"options": [
-			"A.\n                 Helicase",
-			"B.\n                 Synthesase",
-			"C.\n                 Replicase",
-			"D.\n                 Polymerase"
-		],
-		"answer": "D"
-	},
-	{
-		"number": 25,
-		"question": "25. Which DNA polymerase removes RNA primers in DNA synthesis?",
+		"question": "5. Which polymerase is active in DNA repairing",
 		"options": [
 			"A.\n                 Polymerase I",
 			"B.\n                 Polymerase II",
 			"C.\n                 Polymerase III",
 			"D.\n                 none of these"
 		],
-		"answer": "A"
-	},
-	{
-		"number": 26,
-		"question": "26. Enzymes, responsible for unraveling short segments of DNA is",
-		"options": [
-			"A.\n                 DNA polymerase",
-			"B.\n                 helicase",
-			"C.\n                 DNA ligase",
-			"D.\n                 primase"
-		],
 		"answer": "B"
 	},
 	{
-		"number": 27,
-		"question": "27. Enzyme, responsible for proofreading base pairing is",
+		"number": 6,
+		"question": "6. For the DNA replication in eukaryotes, the cell cycle consists of",
 		"options": [
-			"A.\n                 DNA polymerase",
-			"B.\n                 Telomerase",
-			"C.\n                 Primase",
-			"D.\n                 DNA ligase"
-		],
-		"answer": "A"
-	},
-	{
-		"number": 28,
-		"question": "28. Which of the following would not contain DNA?",
-		"options": [
-			"A.\n                 Yeast",
-			"B.\n                 Bacteria",
-			"C.\n                 Glass crystals",
-			"D.\n                 Mold"
+			"A.\n                 G1, G2 and M phases",
+			"B.\n                 S, G2 and M phases",
+			"C.\n                 G1,S, G2 and M phases",
+			"D.\n                 G2 and M phases"
 		],
 		"answer": "C"
 	},
 	{
-		"number": 29,
-		"question": "29. The nucleosome consists of histone",
+		"number": 7,
+		"question": "7. Which of the following in DNA replication and transcription are common?",
 		"options": [
-			"A.\n                 octamer and 146 bp of DNA",
-			"B.\n                 tetramer and 146 bp of DNA",
-			"C.\n                 hexamer and 146 bp of DNA",
+			"A.\n                 incorporation of deoxynucleotides",
+			"B.\n                 utilization the same enzyme",
+			"C.\n                 synthesis in the 5'-3' direction",
 			"D.\n                 none of the above"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 8,
+		"question": "8. An important difference between eukaryotic and prokaryotic DNA replication is",
+		"options": [
+			"A.\n                 eukaryotic DNA polymerases are faster",
+			"B.\n                 more DNA polymerases are found in eukaryotes",
+			"C.\n                 multiple origins of replication in eukaryotes",
+			"D.\n                 RNA primers are not required in eukaryotes"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 9,
+		"question": "9. In DNA, nucleotides are covalently joined together by",
+		"options": [
+			"A.\n                 3', 5' phosphodiester bonds to form a repetitive sugar-phosphate chain",
+			"B.\n                 2', 5' phosphodiester bonds to form a repetitive sugar-phosphate chain",
+			"C.\n                 2', 3' phosphodiester bonds to form a repetitive sugar-phosphate chain",
+			"D.\n                 3', 4' phosphodiester bonds to form a repetitive sugar-phosphate chain"
 		],
 		"answer": "A"
 	},
 	{
-		"number": 30,
-		"question": "30. What bands will be observed in a cesium chloride gradient after two rounds of replication?",
+		"number": 10,
+		"question": "10. What is the name given to the points at which a DNA helix is unwound and new strands develop?",
 		"options": [
-			"A.\n                 One light, one medium and one heavy band",
-			"B.\n                 One light and one medium band",
-			"C.\n                 One medium band",
-			"D.\n                 One medium and one heavy band"
+			"A.\n                 Replication origins",
+			"B.\n                 Replication forks",
+			"C.\n                 Leading strands",
+			"D.\n                 Okazaki fragments"
 		],
 		"answer": "B"
 	},
 	{
-		"number": 31,
-		"question": "31. Proteins involved in opening a replication bubble are",
+		"number": 11,
+		"question": "11. The DNA is negatively super coiled, complexes to histone,",
+		"options": [
+			"A.\n                 HU",
+			"B.\n                 HSP-1",
+			"C.\n                 H-NS",
+			"D.\n                 All of these"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 12,
+		"question": "12. During conventional transformation experiments E. coli cells and plasmid DNA interacts in an environment of",
+		"options": [
+			"A.\n                 high temperature and Ca++",
+			"B.\n                 low temperature and Ca++",
+			"C.\n                 high temperature and Mg++",
+			"D.\n                 low temperature and Mg++"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 13,
+		"question": "13. What is the exact name of the classical Watson-Crick double helix DNA?",
+		"options": [
+			"A.\n                 A-DNA",
+			"B.\n                 B-DNA",
+			"C.\n                 Z-DNA",
+			"D.\n                 X-DNA"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 14,
+		"question": "14. The site on a bacterial chromosome that marks the initiation point for chromosome replication is called",
+		"options": [
+			"A.\n                 Ori",
+			"B.\n                 a promoter",
+			"C.\n                 Pro",
+			"D.\n                 an initiation codon"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 15,
+		"question": "15. The B-DNA structure found in solution is a",
+		"options": [
+			"A.\n                 left-handed double helix of antiparallel chains (10 bp/turn)",
+			"B.\n                 right-handed double helix of antiparallel chains (∼10 bp/turn)",
+			"C.\n                 left-handed zig-zag helix of antiparallel chains (10 bp/turn)",
+			"D.\n                 right-handed double helix of parallel chains (∼10 bp/turn)"
+		],
+		"answer": "B"
+	},
+	{
+		"number": 16,
+		"question": "16. Which will require a higher temperature to denature?",
+		"options": [
+			"A.\n                 DNA with a high G-C content",
+			"B.\n                 DNA with a high A-T content",
+			"C.\n                 RNA with a high G-C content",
+			"D.\n                 RNA with a high A-T content"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 17,
+		"question": "17. In an agarose gel, DNA is moving from",
+		"options": [
+			"A.\n                 cathode to anode",
+			"B.\n                 left to right",
+			"C.\n                 anode to cathode",
+			"D.\n                 A to B"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 18,
+		"question": "18. TM refers to the temperature at which",
+		"options": [
+			"A.\n                 membranes are 50% fluid",
+			"B.\n                 50% of a DNA molecule is denatured",
+			"C.\n                 50% of a protein molecules are denatured",
+			"D.\n                 all of the above"
+		],
+		"answer": "D"
+	},
+	{
+		"number": 19,
+		"question": "19. DNA segments capable of moving from one place in the genome to another is known as",
+		"options": [
+			"A.\n                 transposons",
+			"B.\n                 retrovirus",
+			"C.\n                 introns",
+			"D.\n                 moving elements"
+		],
+		"answer": "A"
+	},
+	{
+		"number": 20,
+		"question": "20. What does ligase do during replication of DNA?",
+		"options": [
+			"A.\n                 Synthesizes the lagging strand",
+			"B.\n                 Makes copies of mRNA from DNA",
+			"C.\n                 Joins nicks in DNA strands",
+			"D.\n                 Digests mRNA when it is no longer needed"
+		],
+		"answer": "C"
+	},
+	{
+		"number": 21,
+		"question": "21. Proteins which help to open the double helix for DNA synthesis are",
 		"options": [
 			"A.\n                 DNA helicases",
 			"B.\n                 single stranded binding proteins",
 			"C.\n                 ligase",
 			"D.\n                 DNA topoisomerase"
 		],
-		"answer": "D"
+		"answer": "A"
 	},
 	{
-		"number": 32,
-		"question": "32. What is the main damaging effect of UV radiation on DNA?",
+		"number": 22,
+		"question": "22. First evident that DNA is genetic material comes from the experiment of Griffith is",
 		"options": [
-			"A.\n                 Depurination",
-			"B.\n                 Formation of thymine dimers",
-			"C.\n                 Single strand break",
-			"D.\n                 Dehydration"
+			"A.\n                 transduction",
+			"B.\n                 transformation",
+			"C.\n                 replication",
+			"D.\n                 translation"
 		],
 		"answer": "B"
 	},
 	{
-		"number": 33,
-		"question": "33. The higher order structure of DNA shows symmetry, whereas the higher order structures of most proteins do not. Why isn't protein shape more regular like DNA?",
+		"number": 23,
+		"question": "23. An RNA primer is synthesized by",
 		"options": [
-			"A.\n                 DNA has one main function in cells whereas proteins have many.",
-			"B.\n                 The many different amino acid R groups on proteins confer many different shapes.",
-			"C.\n                 Some S amino acids cause proteins to bend; others cause protein to flatten.",
-			"D.\n                 All of the above"
+			"A.\n                 DNA helicases",
+			"B.\n                 ligase",
+			"C.\n                 DNA topoisomerase",
+			"D.\n                 primase"
 		],
 		"answer": "D"
-	},
-	{
-		"number": 34,
-		"question": "34. DNA helicase is used to",
-		"options": [
-			"A.\n                 unwind the double helix",
-			"B.\n                 interact the double helix closely",
-			"C.\n                 break a phosphodiester bond in DNA strand",
-			"D.\n                 none of the above"
-		],
-		"answer": "A"
-	},
-	{
-		"number": 35,
-		"question": "35. Klenow fragment without free nucleotides exhibits",
-		"options": [
-			"A.\n                 exonuclease activity",
-			"B.\n                 endonuclease activity",
-			"C.\n                 nickase activity",
-			"D.\n                 no activity"
-		],
-		"answer": "A"
-	},
-	{
-		"number": 36,
-		"question": "36. E.coli DNA polymerases II and III lack",
-		"options": [
-			"A.\n                 5' → 3' exonuclease activity",
-			"B.\n                 5' → 3' endonuclease activity",
-			"C.\n                 partially 5' → 3' exonuclease activity",
-			"D.\n                 partially 5' → 3' endonuclease activity"
-		],
-		"answer": "A"
-	},
-	{
-		"number": 37,
-		"question": "37. In sperm heads, DNA is particularly highly condensed and the histones are replaced with small basic protein called",
-		"options": [
-			"A.\n                 protamines",
-			"B.\n                 purines",
-			"C.\n                 pyrimidines",
-			"D.\n                 all of the above"
-		],
-		"answer": "A"
-	},
-	{
-		"number": 38,
-		"question": "38. Okazaki fragments occur during",
-		"options": [
-			"A.\n                 transformation",
-			"B.\n                 replication",
-			"C.\n                 polymerase reaction",
-			"D.\n                 synthesis"
-		],
-		"answer": "B"
-	},
-	{
-		"number": 39,
-		"question": "39. DNA can be sequenced by the",
-		"options": [
-			"A.\n                 chemical method",
-			"B.\n                 chain termination procedure",
-			"C.\n                 both (a) and (b)",
-			"D.\n                 physical method"
-		],
-		"answer": "C"
-	},
-	{
-		"number": 40,
-		"question": "40. Which histone(s) are associated with the linker DNA of a nucleosome?",
-		"options": [
-			"A.\n                 Histone H1",
-			"B.\n                 Histones H2A and H2B",
-			"C.\n                 Histone H3",
-			"D.\n                 Histone H4"
-		],
-		"answer": "A"
 	}
 ]

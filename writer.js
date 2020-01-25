@@ -2,7 +2,17 @@ const fs = require('fs');
 
 function writeData(data, filename) {
     try {
-        fs.writeFileSync(filename, JSON.stringify(data, null, '\t'), 'utf-8');
+    	let text = JSON.stringify(data, null, '\t');
+        text = text.split('\t').join('');
+        text = text.split('[').join('');
+        text = text.split(']').join('');
+        text = text.split('],\n').join('');
+        text = text.split('{').join('');
+        text = text.split('}').join('');
+        text = text.split(',').join('');
+        text = text.split('"').join('');
+
+        fs.writeFileSync(filename, text, 'utf-8');
         console.log(`JSON has been saved to ${filename}`);
         return true;
     } catch (e) {
